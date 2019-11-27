@@ -1,0 +1,93 @@
+{
+   "stages" : [
+      {
+         "name" : "call_features_rRNA_SEED"
+      },
+      {
+         "name" : "call_features_tRNA_trnascan"
+      },
+      {
+         "name" : "call_features_repeat_region_SEED",
+         "repeat_region_SEED_parameters" : {
+            "min_identity" : "95",
+            "min_length" : "100"
+         }
+      },
+      {
+         "name" : "call_selenoproteins"
+      },
+      {
+         "name" : "call_pyrrolysoproteins"
+      },
+      {
+         "name" : "call_features_strep_suis_repeat",
+         "condition" : "$genome->{scientific_name} =~ /^Streptococcus\\s/"
+      },
+      {
+         "name" : "call_features_strep_pneumo_repeat",
+         "condition" : "$genome->{scientific_name} =~ /^Streptococcus\\s/"
+      },
+      {
+         "name" : "call_features_crispr"
+      },
+      {
+         "name" : "call_features_CDS_glimmer3",
+         "glimmer3_parameters" : {
+            "min_training_len" : "2000"
+         }
+      },
+      {
+         "name" : "call_features_CDS_prodigal"
+      },
+      {
+         "name" : "annotate_proteins_kmer_v2",
+         "kmer_v2_parameters" : {
+            "min_hits" : "5"
+         }
+      },
+      {
+         "kmer_v1_parameters" : {
+            "dataset_name" : "Release70",
+            "annotate_hypothetical_only" : "1"
+         },
+         "name" : "annotate_proteins_kmer_v1"
+      },
+      {
+         "name" : "annotate_proteins_phage",
+         "phage_parameters" : {
+            "annotate_hypothetical_only" : "1"
+         }
+      },
+      {
+         "name" : "annotate_proteins_similarity",
+         "similarity_parameters" : {
+            "annotate_hypothetical_only" : "1"
+         }
+      },
+      {
+         "name" : "resolve_overlapping_features",
+         "resolve_overlapping_features_parameters" : {}
+      },
+      {
+         "name" : "classify_amr"
+      },
+      {
+         "name" : "annotate_special_proteins"
+      },
+      {
+         "name" : "annotate_families_figfam_v1"
+      },
+      {
+         "name" : "annotate_families_patric"
+      },
+      {
+         "name" : "find_close_neighbors"
+      },
+      {
+         "name" : "annotate_strain_type_MLST"
+      },
+      {
+         "name" : "call_features_prophage_phispy"
+      }
+   ]
+}
