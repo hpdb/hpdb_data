@@ -1,0 +1,1651 @@
+##gff-version 3
+NZ_CP035106.1	FIG	CDS	1	1368	.	+	1	ID=fig|210.6438.peg.1;Name=Chromosomal replication initiator protein DnaA
+NZ_CP035106.1	FIG	CDS	1588	3021	.	+	1	ID=fig|210.6438.peg.2;Name=putative
+NZ_CP035106.1	FIG	CDS	3199	3951	.	+	1	ID=fig|210.6438.peg.3;Name=Exodeoxyribonuclease III;Ontology_term=KEGG_ENZYME:3.1.11.2
+NZ_CP035106.1	FIG	CDS	3948	4583	.	-	0	ID=fig|210.6438.peg.4;Name=Outer membrane protein
+NZ_CP035106.1	FIG	CDS	4587	4940	.	-	0	ID=fig|210.6438.peg.5;Name=putative
+NZ_CP035106.1	FIG	CDS	5022	6887	.	+	0	ID=fig|210.6438.peg.6;Name=ATP-dependent DNA helicase RecG;Ontology_term=KEGG_ENZYME:3.6.4.12
+NZ_CP035106.1	FIG	CDS	6931	8889	.	+	1	ID=fig|210.6438.peg.7;Name=Type III restriction-modification system methylation subunit;Ontology_term=KEGG_ENZYME:2.1.1.72
+NZ_CP035106.1	FIG	CDS	8892	11807	.	+	0	ID=fig|210.6438.peg.8;Name=Type III restriction-modification system restriction subunit;Ontology_term=KEGG_ENZYME:3.1.21.5
+NZ_CP035106.1	FIG	CDS	11913	15809	.	+	0	ID=fig|210.6438.peg.9;Name=putative type IIS restriction/modification enzyme
+NZ_CP035106.1	FIG	CDS	16441	17835	.	+	1	ID=fig|210.6438.peg.10;Name=FIG00712798: hypothetical protein
+NZ_CP035106.1	FIG	CDS	18061	18498	.	+	1	ID=fig|210.6438.peg.11;Name=FIG00711297: hypothetical protein
+NZ_CP035106.1	FIG	CDS	18488	19267	.	+	2	ID=fig|210.6438.peg.12;Name=FIG00712615: hypothetical protein
+NZ_CP035106.1	FIG	CDS	19493	20680	.	-	2	ID=fig|210.6438.peg.13;Name=Transcription termination protein NusA
+NZ_CP035106.1	FIG	CDS	20768	21928	.	-	2	ID=fig|210.6438.peg.14;Name=L-seryl-tRNA(Sec) selenium transferase%2C probably playing another role
+NZ_CP035106.1	FIG	CDS	22156	24747	.	-	1	ID=fig|210.6438.peg.15;Name=iron-regulated outer membrane protein (frpB)
+NZ_CP035106.1	FIG	CDS	24916	25242	.	-	1	ID=fig|210.6438.peg.16;Name=putative
+NZ_CP035106.1	FIG	CDS	25226	25579	.	-	2	ID=fig|210.6438.peg.17;Name=Dihydroneopterin aldolase;Ontology_term=KEGG_ENZYME:4.1.2.25
+NZ_CP035106.1	FIG	CDS	25576	26364	.	-	1	ID=fig|210.6438.peg.18;Name=Acyl-phosphate:glycerol-3-phosphate O-acyltransferase PlsY (EC 2.3.1.n3)
+NZ_CP035106.1	FIG	CDS	26344	27720	.	+	1	ID=fig|210.6438.peg.19;Name=Ferredoxin domain-containing integral membrane protein
+NZ_CP035106.1	FIG	CDS	27730	28929	.	-	1	ID=fig|210.6438.peg.20;Name=Carboxynorspermidine synthase;Ontology_term=KEGG_ENZYME:1.5.1.43
+NZ_CP035106.1	FIG	CDS	29015	30241	.	+	2	ID=fig|210.6438.peg.21;Name=Sodium/glutamate symporter
+NZ_CP035106.1	FIG	CDS	30238	31272	.	+	1	ID=fig|210.6438.peg.22;Name=Diaminohydroxyphosphoribosylaminopyrimidine deaminase / 5-amino-6-(5-phosphoribosylamino)uracil reductase;Ontology_term=KEGG_ENZYME:3.5.4.26,KEGG_ENZYME:1.1.1.193
+NZ_CP035106.1	FIG	CDS	31254	31970	.	+	0	ID=fig|210.6438.peg.23;Name=tRNA(1)(Val) (adenine(37)-N(6))-methyltransferase;Ontology_term=KEGG_ENZYME:2.1.1.223
+NZ_CP035106.1	FIG	CDS	31996	34347	.	+	1	ID=fig|210.6438.peg.24;Name=cation-transporting ATPase%2C P-type (copA)
+NZ_CP035106.1	FIG	CDS	34344	34781	.	-	0	ID=fig|210.6438.peg.25;Name=Uncharacterized protein jhp1395
+NZ_CP035106.1	FIG	CDS	34746	34874	.	+	0	ID=fig|210.6438.peg.26;Name=FIG00710123: hypothetical protein
+NZ_CP035106.1	FIG	CDS	34997	36127	.	+	2	ID=fig|210.6438.peg.27;Name=Putative outer membrane protein
+NZ_CP035106.1	FIG	CDS	36222	37385	.	-	0	ID=fig|210.6438.peg.28;Name=Restriction endonuclease
+NZ_CP035106.1	FIG	CDS	37793	38692	.	-	2	ID=fig|210.6438.peg.29;Name=Methyl-directed repair DNA adenine methylase;Ontology_term=KEGG_ENZYME:2.1.1.72
+NZ_CP035106.1	FIG	CDS	38689	39690	.	-	1	ID=fig|210.6438.peg.30;Name=methylase
+NZ_CP035106.1	FIG	CDS	39747	40814	.	-	0	ID=fig|210.6438.peg.31;Name=Lipopolysaccharide export system permease protein LptG
+NZ_CP035106.1	FIG	CDS	40869	41429	.	-	0	ID=fig|210.6438.peg.32;Name=Peptidyl-tRNA hydrolase;Ontology_term=KEGG_ENZYME:3.1.1.29
+NZ_CP035106.1	FIG	CDS	41440	41976	.	-	1	ID=fig|210.6438.peg.33;Name=LSU ribosomal protein L25p
+NZ_CP035106.1	FIG	CDS	42031	42981	.	-	1	ID=fig|210.6438.peg.34;Name=Transaldolase;Ontology_term=KEGG_ENZYME:2.2.1.2
+NZ_CP035106.1	FIG	CDS	42985	44328	.	-	1	ID=fig|210.6438.peg.35;Name=UDP-N-acetylmuramoyl-dipeptide--2%2C6-diaminopimelate ligase;Ontology_term=KEGG_ENZYME:6.3.2.13
+NZ_CP035106.1	FIG	CDS	44332	44943	.	-	1	ID=fig|210.6438.peg.36;Name=FIG00711107: hypothetical protein
+NZ_CP035106.1	FIG	CDS	44955	45224	.	-	0	ID=fig|210.6438.peg.37;Name=Nitrogen-fixing NifU-like
+NZ_CP035106.1	FIG	CDS	45320	46966	.	+	2	ID=fig|210.6438.peg.38;Name=Probable low-affinity inorganic phosphate transporter
+NZ_CP035106.1	FIG	CDS	47065	48414	.	+	1	ID=fig|210.6438.peg.39;Name=Uncharacterized protein HP_1490
+NZ_CP035106.1	FIG	CDS	48411	49943	.	+	0	ID=fig|210.6438.peg.40;Name=Efflux transport system%2C outer membrane factor (OMF) lipoprotein HP_1489
+NZ_CP035106.1	FIG	CDS	49955	50944	.	+	2	ID=fig|210.6438.peg.41;Name=Membrane fusion component of tripartite multidrug efflux system HP_1488
+NZ_CP035106.1	FIG	CDS	50956	52053	.	+	1	ID=fig|210.6438.peg.42;Name=Efflux ABC transporter%2C permease protein HP_1487
+NZ_CP035106.1	FIG	CDS	52050	53180	.	+	0	ID=fig|210.6438.peg.43;Name=Efflux ABC transporter%2C permease protein HP_1486
+NZ_CP035106.1	FIG	CDS	53167	53736	.	+	1	ID=fig|210.6438.peg.44;Name=FIG000605: protein co-occurring with transport systems (COG1739)
+NZ_CP035106.1	FIG	CDS	53751	54197	.	+	0	ID=fig|210.6438.peg.45;Name=Protoporphyrinogen IX oxidase%2C novel form%2C HemJ;Ontology_term=KEGG_ENZYME:1.3.-.-
+NZ_CP035106.1	FIG	CDS	54224	54964	.	+	2	ID=fig|210.6438.peg.46;Name=Demethylmenaquinone methyltransferase;Ontology_term=KEGG_ENZYME:2.1.1.163
+NZ_CP035106.1	FIG	CDS	54974	55234	.	+	2	ID=fig|210.6438.peg.47;Name=Exodeoxyribonuclease VII small subunit;Ontology_term=KEGG_ENZYME:3.1.11.6
+NZ_CP035106.1	FIG	CDS	55238	56035	.	+	2	ID=fig|210.6438.peg.48;Name=Uncharacterized amidohydrolase HP_1481
+NZ_CP035106.1	FIG	CDS	56036	57283	.	+	2	ID=fig|210.6438.peg.49;Name=Seryl-tRNA synthetase;Ontology_term=KEGG_ENZYME:6.1.1.11
+NZ_CP035106.1	FIG	CDS	57293	59833	.	+	2	ID=fig|210.6438.peg.50;Name=Uncharacterized membrane anchored protein HP_1479
+NZ_CP035106.1	FIG	CDS	59833	61878	.	+	1	ID=fig|210.6438.peg.51;Name=ATP-dependent DNA helicase UvrD/PcrA/Rep%2C epsilon proteobacterial type 2
+NZ_CP035106.1	FIG	CDS	61875	62531	.	+	0	ID=fig|210.6438.peg.52;Name=Flagellar basal-body P-ring formation protein FlgA
+NZ_CP035106.1	FIG	CDS	62541	63104	.	+	0	ID=fig|210.6438.peg.53;Name=Flavin prenyltransferase UbiX
+NZ_CP035106.1	FIG	CDS	63104	63577	.	+	2	ID=fig|210.6438.peg.54;Name=Phosphopantetheine adenylyltransferase;Ontology_term=KEGG_ENZYME:2.7.7.3
+NZ_CP035106.1	FIG	CDS	63579	64154	.	+	0	ID=fig|210.6438.peg.55;Name=Thymidylate kinase;Ontology_term=KEGG_ENZYME:2.7.4.9
+NZ_CP035106.1	FIG	CDS	64142	64717	.	+	2	ID=fig|210.6438.peg.56;Name=Uncharacterized protein HP_1473
+NZ_CP035106.1	FIG	CDS	64750	66789	.	+	1	ID=fig|210.6438.peg.57;Name=restriction enzyme BcgI alpha chain-like protein( EC:2.1.1.72 );Ontology_term=KEGG_ENZYME:2.1.1.72
+NZ_CP035106.1	FIG	CDS	66786	67448	.	+	0	ID=fig|210.6438.peg.58;Name=type IIS restriction enzyme R protein (BCGIB)
+NZ_CP035106.1	FIG	CDS	67445	68005	.	+	2	ID=fig|210.6438.peg.59;Name=type IIS restriction enzyme R protein (BCGIB)
+NZ_CP035106.1	FIG	CDS	68071	70746	.	+	1	ID=fig|210.6438.peg.60;Name=DNA polymerase I;Ontology_term=KEGG_ENZYME:2.7.7.7
+NZ_CP035106.1	FIG	CDS	70860	71606	.	+	0	ID=fig|210.6438.peg.61;Name=Outer membrane protein HP_1469
+NZ_CP035106.1	FIG	CDS	71657	72679	.	+	2	ID=fig|210.6438.peg.62;Name=Branched-chain amino acid aminotransferase;Ontology_term=KEGG_ENZYME:2.6.1.42
+NZ_CP035106.1	FIG	CDS	72684	73379	.	-	0	ID=fig|210.6438.peg.63;Name=Uncharacterized protein HP_1467
+NZ_CP035106.1	FIG	CDS	73513	74646	.	+	1	ID=fig|210.6438.peg.64;Name=ABC transporter%2C permease protein HP_1466
+NZ_CP035106.1	FIG	CDS	74643	75431	.	+	0	ID=fig|210.6438.peg.65;Name=ABC transporter%2C ATP-binding protein HP_1465
+NZ_CP035106.1	FIG	CDS	75416	76231	.	+	2	ID=fig|210.6438.peg.66;Name=ABC transporter%2C substrate-binding protein HP_1464
+NZ_CP035106.1	FIG	CDS	76234	76911	.	+	1	ID=fig|210.6438.peg.67;Name=Uncharacterized protein HP_1463
+NZ_CP035106.1	FIG	CDS	77000	77518	.	+	2	ID=fig|210.6438.peg.68;Name=Putative lipoprotein HP_1462
+NZ_CP035106.1	FIG	CDS	77914	78966	.	-	1	ID=fig|210.6438.peg.69;Name=Cytochrome c551 peroxidase;Ontology_term=KEGG_ENZYME:1.11.1.5
+NZ_CP035106.1	FIG	CDS	79114	82749	.	+	1	ID=fig|210.6438.peg.70;Name=DNA polymerase III alpha subunit;Ontology_term=KEGG_ENZYME:2.7.7.7
+NZ_CP035106.1	FIG	CDS	82746	83519	.	+	0	ID=fig|210.6438.peg.71;Name=LSU rRNA pseudouridine(2605) synthase;Ontology_term=KEGG_ENZYME:5.4.99.22
+NZ_CP035106.1	FIG	CDS	83574	83888	.	+	0	ID=fig|210.6438.peg.72;Name=Thioredoxin
+NZ_CP035106.1	FIG	CDS	84246	84878	.	+	0	ID=fig|210.6438.peg.73;Name=putative lipoprotein
+NZ_CP035106.1	FIG	CDS	84902	85429	.	+	2	ID=fig|210.6438.peg.74;Name=membrane-associated lipoprotein (lpp20)
+NZ_CP035106.1	FIG	CDS	85437	85778	.	+	0	ID=fig|210.6438.peg.75;Name=putative
+NZ_CP035106.1	FIG	CDS	85788	86699	.	+	0	ID=fig|210.6438.peg.76;Name=putative
+NZ_CP035106.1	FIG	CDS	87174	87290	.	+	0	ID=fig|210.6438.peg.77;Name=hypothetical protein
+NZ_CP035106.1	FIG	CDS	87490	89736	.	-	1	ID=fig|210.6438.peg.78;Name=Outer membrane protein
+NZ_CP035106.1	FIG	CDS	89942	91294	.	-	2	ID=fig|210.6438.peg.79;Name=tRNA-5-carboxymethylaminomethyl-2-thiouridine(34) synthesis protein MnmE
+NZ_CP035106.1	FIG	CDS	91287	92084	.	-	0	ID=fig|210.6438.peg.80;Name=RNA-binding protein Jag
+NZ_CP035106.1	FIG	CDS	92084	93724	.	-	2	ID=fig|210.6438.peg.81;Name=Inner membrane protein translocase and chaperone YidC%2C long form
+NZ_CP035106.1	FIG	CDS	93730	94086	.	-	1	ID=fig|210.6438.peg.82;Name=Membrane protein insertion efficiency factor YidD
+NZ_CP035106.1	FIG	CDS	94073	94558	.	-	2	ID=fig|210.6438.peg.83;Name=Ribonuclease P protein component;Ontology_term=KEGG_ENZYME:3.1.26.5
+NZ_CP035106.1	FIG	CDS	94518	94652	.	-	0	ID=fig|210.6438.peg.84;Name=LSU ribosomal protein L34p
+NZ_CP035106.1	FIG	CDS	94723	95124	.	-	1	ID=fig|210.6438.peg.85;Name=Biopolymer transport protein ExbD/TolR
+NZ_CP035106.1	FIG	CDS	95135	95587	.	-	2	ID=fig|210.6438.peg.86;Name=Ferric siderophore transport system%2C biopolymer transport protein ExbB
+NZ_CP035106.1	FIG	CDS	95590	96048	.	-	1	ID=fig|210.6438.peg.87;Name=tmRNA-binding protein SmpB
+NZ_CP035106.1	FIG	CDS	96045	96848	.	-	0	ID=fig|210.6438.peg.88;Name=4-diphosphocytidyl-2-C-methyl-D-erythritol kinase;Ontology_term=KEGG_ENZYME:2.7.1.148
+NZ_CP035106.1	FIG	CDS	96848	97078	.	-	2	ID=fig|210.6438.peg.89;Name=Carbon storage regulator
+NZ_CP035106.1	FIG	CDS	97096	97584	.	-	1	ID=fig|210.6438.peg.90;Name=Peptidyl-prolyl cis-trans isomerase;Ontology_term=KEGG_ENZYME:5.2.1.8
+NZ_CP035106.1	FIG	CDS	97711	98490	.	+	1	ID=fig|210.6438.peg.91;Name=putative
+NZ_CP035106.1	FIG	CDS	100708	100974	.	+	1	ID=fig|210.6438.peg.92;Name=hypothetical protein
+NZ_CP035106.1	FIG	CDS	101379	101843	.	-	0	ID=fig|210.6438.peg.93;Name=FIG00711566: hypothetical protein
+NZ_CP035106.1	FIG	CDS	101847	102362	.	-	0	ID=fig|210.6438.peg.94;Name=FIG00711488: hypothetical protein
+NZ_CP035106.1	FIG	CDS	102359	103099	.	-	2	ID=fig|210.6438.peg.95;Name=FIG00710817: hypothetical protein
+NZ_CP035106.1	FIG	CDS	103187	103348	.	+	2	ID=fig|210.6438.peg.96;Name=hypothetical protein
+NZ_CP035106.1	FIG	CDS	103307	103567	.	-	2	ID=fig|210.6438.peg.97;Name=putative
+NZ_CP035106.1	FIG	CDS	103638	104516	.	+	0	ID=fig|210.6438.peg.98;Name=protease IV (PspA)
+NZ_CP035106.1	FIG	CDS	104519	105400	.	+	2	ID=fig|210.6438.peg.99;Name=Formyltetrahydrofolate deformylase;Ontology_term=KEGG_ENZYME:3.5.1.10
+NZ_CP035106.1	FIG	CDS	105401	105667	.	+	2	ID=fig|210.6438.peg.100;Name=FIG00711868: hypothetical protein
+NZ_CP035106.1	FIG	CDS	105697	106416	.	+	1	ID=fig|210.6438.peg.101;Name=FIG00711868: hypothetical protein
+NZ_CP035106.1	FIG	CDS	106383	107852	.	+	0	ID=fig|210.6438.peg.102;Name=FIG00711868: hypothetical protein
+NZ_CP035106.1	FIG	CDS	107981	108109	.	-	2	ID=fig|210.6438.peg.103;Name=hypothetical protein
+NZ_CP035106.1	FIG	CDS	108216	108461	.	-	0	ID=fig|210.6438.peg.104;Name=hypothetical protein
+NZ_CP035106.1	FIG	CDS	108725	109552	.	+	2	ID=fig|210.6438.peg.105;Name=SSU rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase;Ontology_term=KEGG_ENZYME:2.1.1.182
+NZ_CP035106.1	FIG	CDS	109575	111659	.	+	0	ID=fig|210.6438.peg.106;Name=Ribonuclease J (endonuclease and 5' exonuclease)
+NZ_CP035106.1	FIG	CDS	111643	112632	.	+	1	ID=fig|210.6438.peg.107;Name=D-arabinose-5-phosphate isomerase;Ontology_term=KEGG_ENZYME:5.3.1.13
+NZ_CP035106.1	FIG	CDS	112629	113702	.	+	0	ID=fig|210.6438.peg.108;Name=23S rRNA (adenine(2503)-C(2))-methyltransferase @ tRNA (adenine(37)-C(2))-methyltransferase;Ontology_term=KEGG_ENZYME:2.1.1.192
+NZ_CP035106.1	FIG	CDS	113859	113984	.	-	0	ID=fig|210.6438.peg.109;Name=hypothetical protein
+NZ_CP035106.1	FIG	CDS	114281	114409	.	-	2	ID=fig|210.6438.peg.110;Name=hypothetical protein
+NZ_CP035106.1	FIG	CDS	114411	115031	.	-	0	ID=fig|210.6438.peg.111;Name=putative
+NZ_CP035106.1	FIG	CDS	115132	115389	.	+	1	ID=fig|210.6438.peg.112;Name=Ribosome-associated heat shock protein implicated in the recycling of the 50S subunit (S4 paralog)
+NZ_CP035106.1	FIG	CDS	115424	118186	.	+	2	ID=fig|210.6438.peg.113;Name=Isoleucyl-tRNA synthetase;Ontology_term=KEGG_ENZYME:6.1.1.5
+NZ_CP035106.1	FIG	CDS	118203	119117	.	+	0	ID=fig|210.6438.peg.114;Name=ATPase required for both assembly of type IV secretion complex and secretion of T-DNA complex%2C VirB11
+NZ_CP035106.1	FIG	CDS	119118	120422	.	+	0	ID=fig|210.6438.peg.115;Name=Flagellum-specific ATP synthase FliI
+NZ_CP035106.1	FIG	CDS	120433	120699	.	+	1	ID=fig|210.6438.peg.116;Name=Flagellar biosynthesis protein FliQ
+NZ_CP035106.1	FIG	CDS	120703	121482	.	+	1	ID=fig|210.6438.peg.117;Name=UDP-N-acetylenolpyruvoylglucosamine reductase;Ontology_term=KEGG_ENZYME:1.3.1.98
+NZ_CP035106.1	FIG	CDS	121524	121796	.	-	0	ID=fig|210.6438.peg.118;Name=FIG00711790: hypothetical protein
+NZ_CP035106.1	FIG	CDS	121769	122380	.	-	2	ID=fig|210.6438.peg.119;Name=FIG00711790: hypothetical protein
+NZ_CP035106.1	FIG	CDS	122362	123186	.	-	1	ID=fig|210.6438.peg.120;Name=FIG00710539: hypothetical protein
+NZ_CP035106.1	FIG	CDS	123202	124305	.	-	1	ID=fig|210.6438.peg.121;Name=Lipopolysaccharide biosynthesis protein
+NZ_CP035106.1	FIG	CDS	124310	125140	.	-	2	ID=fig|210.6438.peg.122;Name=tRNA dimethylallyltransferase;Ontology_term=KEGG_ENZYME:2.5.1.75
+NZ_CP035106.1	FIG	CDS	125211	125552	.	-	0	ID=fig|210.6438.peg.123;Name=Ribosomal silencing factor RsfA
+NZ_CP035106.1	FIG	CDS	125612	126052	.	+	2	ID=fig|210.6438.peg.124;Name=NADPH-dependent 7-cyano-7-deazaguanine reductase;Ontology_term=KEGG_ENZYME:1.7.1.13
+NZ_CP035106.1	FIG	CDS	126172	127065	.	-	1	ID=fig|210.6438.peg.125;Name=FIG00710585: hypothetical protein
+NZ_CP035106.1	FIG	CDS	127205	127693	.	-	2	ID=fig|210.6438.peg.126;Name=FIG00713086: hypothetical protein
+NZ_CP035106.1	FIG	CDS	127894	129036	.	-	1	ID=fig|210.6438.peg.127;Name=FIG00713086: hypothetical protein
+NZ_CP035106.1	FIG	CDS	129036	129518	.	-	0	ID=fig|210.6438.peg.128;Name=FIG00710162: hypothetical protein
+NZ_CP035106.1	FIG	CDS	129795	130010	.	+	0	ID=fig|210.6438.peg.129;Name=hypothetical protein
+NZ_CP035106.1	FIG	CDS	129997	130116	.	+	1	ID=fig|210.6438.peg.130;Name=hypothetical protein
+NZ_CP035106.1	FIG	CDS	134081	134194	.	+	2	ID=fig|210.6438.peg.131;Name=Phosphatidate cytidylyltransferase;Ontology_term=KEGG_ENZYME:2.7.7.41
+NZ_CP035106.1	FIG	CDS	134282	135160	.	-	2	ID=fig|210.6438.peg.132;Name=Inner membrane protein YihY%2C formerly thought to be RNase BN
+NZ_CP035106.1	FIG	CDS	135160	136008	.	-	1	ID=fig|210.6438.peg.133;Name=Biotin synthase;Ontology_term=KEGG_ENZYME:2.8.1.6
+NZ_CP035106.1	FIG	CDS	136418	137734	.	+	2	ID=fig|210.6438.peg.134;Name=Type III restriction-modification system DNA endonuclease res;Ontology_term=KEGG_ENZYME:3.1.21.5
+NZ_CP035106.1	FIG	CDS	137875	138663	.	+	1	ID=fig|210.6438.peg.135;Name=Type III restriction-modification system DNA endonuclease res;Ontology_term=KEGG_ENZYME:3.1.21.5
+NZ_CP035106.1	FIG	CDS	138673	140517	.	+	1	ID=fig|210.6438.peg.136;Name=Type III restriction-modification system methylation subunit;Ontology_term=KEGG_ENZYME:2.1.1.72
+NZ_CP035106.1	FIG	CDS	140642	140971	.	+	2	ID=fig|210.6438.peg.137;Name=DNA/RNA non-specific endonuclease
+NZ_CP035106.1	FIG	CDS	141179	141307	.	+	2	ID=fig|210.6438.peg.138;Name=hypothetical protein
+NZ_CP035106.1	FIG	CDS	141350	142630	.	-	2	ID=fig|210.6438.peg.139;Name=Citrate synthase (si);Ontology_term=KEGG_ENZYME:2.3.3.1
+NZ_CP035106.1	FIG	CDS	142813	144090	.	+	1	ID=fig|210.6438.peg.140;Name=Isocitrate dehydrogenase [NADP];Ontology_term=KEGG_ENZYME:1.1.1.42
+NZ_CP035106.1	FIG	CDS	144161	144688	.	+	2	ID=fig|210.6438.peg.141;Name=FIG00710236: hypothetical protein
+NZ_CP035106.1	FIG	CDS	144665	145321	.	-	2	ID=fig|210.6438.peg.142;Name=Dethiobiotin synthase BioD;Ontology_term=KEGG_ENZYME:6.3.3.3
+NZ_CP035106.1	FIG	CDS	145325	145624	.	-	2	ID=fig|210.6438.peg.143;Name=FIG00712225: hypothetical protein
+NZ_CP035106.1	FIG	CDS	145698	145964	.	-	0	ID=fig|210.6438.peg.144;Name=hypothetical protein
+NZ_CP035106.1	FIG	CDS	146113	146526	.	+	1	ID=fig|210.6438.peg.145;Name=putative
+NZ_CP035106.1	FIG	CDS	146546	146821	.	+	2	ID=fig|210.6438.peg.146;Name=ATP-dependent Clp protease adaptor protein ClpS
+NZ_CP035106.1	FIG	CDS	146821	149043	.	+	1	ID=fig|210.6438.peg.147;Name=ATP-dependent Clp protease ATP-binding subunit ClpA
+NZ_CP035106.1	FIG	CDS	149033	149383	.	+	2	ID=fig|210.6438.peg.148;Name=Aspartate 1-decarboxylase;Ontology_term=KEGG_ENZYME:4.1.1.11
+NZ_CP035106.1	FIG	CDS	149394	149687	.	+	0	ID=fig|210.6438.peg.149;Name=Nucleoid-associated protein YaaK
+NZ_CP035106.1	FIG	CDS	149687	150682	.	+	2	ID=fig|210.6438.peg.150;Name=Putative periplasmic protein
+NZ_CP035106.1	FIG	CDS	150690	151745	.	+	0	ID=fig|210.6438.peg.151;Name=NADH-ubiquinone oxidoreductase subunit
+NZ_CP035106.1	FIG	CDS	151761	151886	.	+	0	ID=fig|210.6438.peg.152;Name=comB7 putative lipoprotein
+NZ_CP035106.1	FIG	CDS	151883	152626	.	+	2	ID=fig|210.6438.peg.153;Name=Inner membrane protein forms channel for type IV secretion of T-DNA complex%2C VirB8
+NZ_CP035106.1	FIG	CDS	152626	153591	.	+	1	ID=fig|210.6438.peg.154;Name=Outer membrane and periplasm component of type IV secretion of T-DNA complex%2C has secretin-like domain%2C VirB9
+NZ_CP035106.1	FIG	CDS	153584	154720	.	+	2	ID=fig|210.6438.peg.155;Name=Inner membrane protein of type IV secretion of T-DNA complex%2C TonB-like%2C VirB10
+NZ_CP035106.1	FIG	CDS	154717	156198	.	+	1	ID=fig|210.6438.peg.156;Name=Mannose-1-phosphate guanylyltransferase / Mannose-6-phosphate isomerase;Ontology_term=KEGG_ENZYME:2.7.7.13,KEGG_ENZYME:5.3.1.8
+NZ_CP035106.1	FIG	CDS	156212	157357	.	+	2	ID=fig|210.6438.peg.157;Name=GDP-mannose 4%2C6-dehydratase;Ontology_term=KEGG_ENZYME:4.2.1.47
+NZ_CP035106.1	FIG	CDS	157350	158282	.	+	0	ID=fig|210.6438.peg.158;Name=GDP-L-fucose synthetase;Ontology_term=KEGG_ENZYME:1.1.1.271
+NZ_CP035106.1	FIG	CDS	158383	158508	.	-	1	ID=fig|210.6438.peg.159;Name=hypothetical protein
+NZ_CP035106.1	FIG	CDS	158551	159549	.	-	1	ID=fig|210.6438.peg.160;Name=[NiFe] hydrogenase metallocenter assembly protein HypE
+NZ_CP035106.1	FIG	CDS	159552	161825	.	-	0	ID=fig|210.6438.peg.161;Name=[NiFe] hydrogenase metallocenter assembly protein HypF
+NZ_CP035106.1	FIG	CDS	161801	162793	.	-	2	ID=fig|210.6438.peg.162;Name=Agmatine deiminase;Ontology_term=KEGG_ENZYME:3.5.3.12
+NZ_CP035106.1	FIG	CDS	162845	163132	.	-	2	ID=fig|210.6438.peg.163;Name=Adenine-specific methyltransferase;Ontology_term=KEGG_ENZYME:2.1.1.72
+NZ_CP035106.1	FIG	CDS	163307	164152	.	-	2	ID=fig|210.6438.peg.164;Name=putative TonB-dependent receptor
+NZ_CP035106.1	FIG	CDS	164118	164507	.	-	0	ID=fig|210.6438.peg.165;Name=Biopolymer transport protein ExbD/TolR
+NZ_CP035106.1	FIG	CDS	164504	164941	.	-	2	ID=fig|210.6438.peg.166;Name=Ferric siderophore transport system%2C biopolymer transport protein ExbB
+NZ_CP035106.1	FIG	CDS	165265	165711	.	+	1	ID=fig|210.6438.peg.167;Name=Nickel responsive regulator NikR
+NZ_CP035106.1	FIG	CDS	165695	166219	.	+	2	ID=fig|210.6438.peg.168;Name=Nicotinate-nucleotide adenylyltransferase;Ontology_term=KEGG_ENZYME:2.7.7.18
+NZ_CP035106.1	FIG	CDS	166216	167037	.	-	1	ID=fig|210.6438.peg.169;Name=FIG00710276: hypothetical protein
+NZ_CP035106.1	FIG	CDS	167118	168146	.	+	0	ID=fig|210.6438.peg.170;Name=tRNA-specific 2-thiouridylase MnmA;Ontology_term=KEGG_ENZYME:2.8.1.13
+NZ_CP035106.1	FIG	CDS	168161	169237	.	-	2	ID=fig|210.6438.peg.171;Name=putative
+NZ_CP035106.1	FIG	CDS	169243	169377	.	+	1	ID=fig|210.6438.peg.172;Name=FIG00710108: hypothetical protein
+NZ_CP035106.1	FIG	CDS	169416	170525	.	+	0	ID=fig|210.6438.peg.173;Name=Chaperone protein DnaJ
+NZ_CP035106.1	FIG	CDS	170536	171222	.	+	1	ID=fig|210.6438.peg.174;Name=Branched-chain amino acid transport protein azlC
+NZ_CP035106.1	FIG	CDS	171216	171563	.	+	0	ID=fig|210.6438.peg.175;Name=branched-chain amino acid transport
+NZ_CP035106.1	FIG	CDS	171560	174673	.	-	2	ID=fig|210.6438.peg.176;Name=CzcABC family efflux RND transporter%2C transmembrane protein
+NZ_CP035106.1	FIG	CDS	174674	175681	.	-	2	ID=fig|210.6438.peg.177;Name=CzcABC family efflux RND transporter%2C membrane fusion protein
+NZ_CP035106.1	FIG	CDS	175678	176874	.	-	1	ID=fig|210.6438.peg.178;Name=Heavy metal RND efflux outer membrane protein%2C CzcC family
+NZ_CP035106.1	FIG	CDS	176921	177298	.	-	2	ID=fig|210.6438.peg.179;Name=putative
+NZ_CP035106.1	FIG	CDS	177474	178865	.	+	0	ID=fig|210.6438.peg.180;Name=Fumarate hydratase class II;Ontology_term=KEGG_ENZYME:4.2.1.2
+NZ_CP035106.1	FIG	CDS	178882	179133	.	+	1	ID=fig|210.6438.peg.181;Name=FIG00710172: hypothetical protein
+NZ_CP035106.1	FIG	CDS	179164	179778	.	+	1	ID=fig|210.6438.peg.182;Name=Ribonuclease HII;Ontology_term=KEGG_ENZYME:3.1.26.4
+NZ_CP035106.1	FIG	CDS	179752	180333	.	-	1	ID=fig|210.6438.peg.183;Name=FIG00710606: hypothetical protein
+NZ_CP035106.1	FIG	CDS	180519	181601	.	-	0	ID=fig|210.6438.peg.184;Name=Putative ATP-binding protein
+NZ_CP035106.1	FIG	CDS	181812	182126	.	+	0	ID=fig|210.6438.peg.185;Name=SSU ribosomal protein S10p (S20e)
+NZ_CP035106.1	FIG	CDS	182164	182739	.	+	1	ID=fig|210.6438.peg.186;Name=LSU ribosomal protein L3p (L3e)
+NZ_CP035106.1	FIG	CDS	182774	183421	.	+	2	ID=fig|210.6438.peg.187;Name=LSU ribosomal protein L4p (L1e)
+NZ_CP035106.1	FIG	CDS	183425	183706	.	+	2	ID=fig|210.6438.peg.188;Name=LSU ribosomal protein L23p (L23Ae)
+NZ_CP035106.1	FIG	CDS	183722	184552	.	+	2	ID=fig|210.6438.peg.189;Name=LSU ribosomal protein L2p (L8e)
+NZ_CP035106.1	FIG	CDS	184564	184845	.	+	1	ID=fig|210.6438.peg.190;Name=SSU ribosomal protein S19p (S15e)
+NZ_CP035106.1	FIG	CDS	184855	185223	.	+	1	ID=fig|210.6438.peg.191;Name=LSU ribosomal protein L22p (L17e)
+NZ_CP035106.1	FIG	CDS	185227	185931	.	+	1	ID=fig|210.6438.peg.192;Name=SSU ribosomal protein S3p (S3e)
+NZ_CP035106.1	FIG	CDS	185934	186359	.	+	0	ID=fig|210.6438.peg.193;Name=LSU ribosomal protein L16p (L10e)
+NZ_CP035106.1	FIG	CDS	186346	186546	.	+	1	ID=fig|210.6438.peg.194;Name=LSU ribosomal protein L29p (L35e)
+NZ_CP035106.1	FIG	CDS	186561	186821	.	+	0	ID=fig|210.6438.peg.195;Name=SSU ribosomal protein S17p (S11e)
+NZ_CP035106.1	FIG	CDS	186824	187192	.	+	2	ID=fig|210.6438.peg.196;Name=LSU ribosomal protein L14p (L23e)
+NZ_CP035106.1	FIG	CDS	187192	187413	.	+	1	ID=fig|210.6438.peg.197;Name=LSU ribosomal protein L24p (L26e)
+NZ_CP035106.1	FIG	CDS	187426	187971	.	+	1	ID=fig|210.6438.peg.198;Name=LSU ribosomal protein L5p (L11e)
+NZ_CP035106.1	FIG	CDS	188176	188571	.	+	1	ID=fig|210.6438.peg.199;Name=SSU ribosomal protein S8p (S15Ae)
+NZ_CP035106.1	FIG	CDS	188582	189118	.	+	2	ID=fig|210.6438.peg.200;Name=LSU ribosomal protein L6p (L9e)
+NZ_CP035106.1	FIG	CDS	189132	189488	.	+	0	ID=fig|210.6438.peg.201;Name=LSU ribosomal protein L18p (L5e)
+NZ_CP035106.1	FIG	CDS	189503	189946	.	+	2	ID=fig|210.6438.peg.202;Name=SSU ribosomal protein S5p (S2e)
+NZ_CP035106.1	FIG	CDS	189964	190365	.	+	1	ID=fig|210.6438.peg.203;Name=LSU ribosomal protein L15p (L27Ae)
+NZ_CP035106.1	FIG	CDS	190403	191665	.	+	2	ID=fig|210.6438.peg.204;Name=Protein translocase subunit SecY
+NZ_CP035106.1	FIG	CDS	191665	192426	.	+	1	ID=fig|210.6438.peg.205;Name=Methionine aminopeptidase;Ontology_term=KEGG_ENZYME:3.4.11.18
+NZ_CP035106.1	FIG	CDS	192426	192644	.	+	0	ID=fig|210.6438.peg.206;Name=Translation initiation factor 1
+NZ_CP035106.1	FIG	CDS	192723	192836	.	+	0	ID=fig|210.6438.peg.207;Name=LSU ribosomal protein L36p @ LSU ribosomal protein L36p%2C zinc-dependent
+NZ_CP035106.1	FIG	CDS	192840	193202	.	+	0	ID=fig|210.6438.peg.208;Name=SSU ribosomal protein S13p (S18e)
+NZ_CP035106.1	FIG	CDS	193225	193620	.	+	1	ID=fig|210.6438.peg.209;Name=SSU ribosomal protein S11p (S14e)
+NZ_CP035106.1	FIG	CDS	193630	194256	.	+	1	ID=fig|210.6438.peg.210;Name=SSU ribosomal protein S4p (S9e) @ SSU ribosomal protein S4p (S9e)%2C zinc-independent
+NZ_CP035106.1	FIG	CDS	194268	195302	.	+	0	ID=fig|210.6438.peg.211;Name=DNA-directed RNA polymerase alpha subunit;Ontology_term=KEGG_ENZYME:2.7.7.6
+NZ_CP035106.1	FIG	CDS	195302	195652	.	+	2	ID=fig|210.6438.peg.212;Name=LSU ribosomal protein L17p
+NZ_CP035106.1	FIG	CDS	195867	196019	.	-	0	ID=fig|210.6438.peg.213;Name=FIG00710997: hypothetical protein
+NZ_CP035106.1	FIG	CDS	196151	196765	.	-	2	ID=fig|210.6438.peg.214;Name=Thiamin pyrophosphokinase;Ontology_term=KEGG_ENZYME:2.7.6.2
+NZ_CP035106.1	FIG	CDS	196753	197415	.	-	1	ID=fig|210.6438.peg.215;Name=Predicted thiamin transporter PnuT
+NZ_CP035106.1	FIG	CDS	197537	198193	.	-	2	ID=fig|210.6438.peg.216;Name=Thiaminase II involved in salvage of thiamin pyrimidine moiety%2C TenA subgroup with Cys in active site;Ontology_term=KEGG_ENZYME:3.5.99.2
+NZ_CP035106.1	FIG	CDS	198781	199329	.	-	1	ID=fig|210.6438.peg.217;Name=Protein yceI precursor
+NZ_CP035106.1	FIG	CDS	199498	200190	.	+	1	ID=fig|210.6438.peg.218;Name=Acid phosphatase;Ontology_term=KEGG_ENZYME:3.1.3.2
+NZ_CP035106.1	FIG	CDS	200257	201315	.	+	1	ID=fig|210.6438.peg.219;Name=ADP-heptose--lipooligosaccharide heptosyltransferase II
+NZ_CP035106.1	FIG	CDS	201269	201397	.	+	2	ID=fig|210.6438.peg.220;Name=Anthranilate synthase%2C aminase component;Ontology_term=KEGG_ENZYME:4.1.3.27
+NZ_CP035106.1	FIG	CDS	201491	203050	.	+	2	ID=fig|210.6438.peg.221;Name=Anthranilate synthase%2C aminase component;Ontology_term=KEGG_ENZYME:4.1.3.27
+NZ_CP035106.1	FIG	CDS	203047	203631	.	+	1	ID=fig|210.6438.peg.222;Name=Anthranilate synthase%2C amidotransferase component @ Para-aminobenzoate synthase%2C amidotransferase component;Ontology_term=KEGG_ENZYME:4.1.3.27,KEGG_ENZYME:2.6.1.85
+NZ_CP035106.1	FIG	CDS	203628	204635	.	+	0	ID=fig|210.6438.peg.223;Name=Anthranilate phosphoribosyltransferase;Ontology_term=KEGG_ENZYME:2.4.2.18
+NZ_CP035106.1	FIG	CDS	204628	205986	.	+	1	ID=fig|210.6438.peg.224;Name=Indole-3-glycerol phosphate synthase / Phosphoribosylanthranilate isomerase;Ontology_term=KEGG_ENZYME:4.1.1.48,KEGG_ENZYME:5.3.1.24
+NZ_CP035106.1	FIG	CDS	205988	207169	.	+	2	ID=fig|210.6438.peg.225;Name=Tryptophan synthase beta chain;Ontology_term=KEGG_ENZYME:4.2.1.20
+NZ_CP035106.1	FIG	CDS	207166	207954	.	+	1	ID=fig|210.6438.peg.226;Name=Tryptophan synthase alpha chain;Ontology_term=KEGG_ENZYME:4.2.1.20
+NZ_CP035106.1	FIG	CDS	208392	208559	.	-	0	ID=fig|210.6438.peg.227;Name=FIG00711908: hypothetical protein
+NZ_CP035106.1	FIG	CDS	208672	210048	.	-	1	ID=fig|210.6438.peg.228;Name=Phosphoglucomutase @ Phosphomannomutase;Ontology_term=KEGG_ENZYME:5.4.2.2,KEGG_ENZYME:5.4.2.8
+NZ_CP035106.1	FIG	CDS	210050	212431	.	-	2	ID=fig|210.6438.peg.229;Name=Paralysed flagella protein PflA
+NZ_CP035106.1	FIG	CDS	212451	213923	.	-	0	ID=fig|210.6438.peg.230;Name=NADH-ubiquinone oxidoreductase chain N;Ontology_term=KEGG_ENZYME:1.6.5.3
+NZ_CP035106.1	FIG	CDS	213910	215448	.	-	1	ID=fig|210.6438.peg.231;Name=NADH-ubiquinone oxidoreductase chain M;Ontology_term=KEGG_ENZYME:1.6.5.3
+NZ_CP035106.1	FIG	CDS	215452	217290	.	-	1	ID=fig|210.6438.peg.232;Name=NADH-ubiquinone oxidoreductase chain L;Ontology_term=KEGG_ENZYME:1.6.5.3
+NZ_CP035106.1	FIG	CDS	217293	217595	.	-	0	ID=fig|210.6438.peg.233;Name=NADH-ubiquinone oxidoreductase chain K;Ontology_term=KEGG_ENZYME:1.6.5.3
+NZ_CP035106.1	FIG	CDS	217592	218140	.	-	2	ID=fig|210.6438.peg.234;Name=NADH-ubiquinone oxidoreductase chain J;Ontology_term=KEGG_ENZYME:1.6.5.3
+NZ_CP035106.1	FIG	CDS	218133	218795	.	-	0	ID=fig|210.6438.peg.235;Name=NADH-ubiquinone oxidoreductase chain I;Ontology_term=KEGG_ENZYME:1.6.5.3
+NZ_CP035106.1	FIG	CDS	218806	219795	.	-	1	ID=fig|210.6438.peg.236;Name=NADH-ubiquinone oxidoreductase chain H;Ontology_term=KEGG_ENZYME:1.6.5.3
+NZ_CP035106.1	FIG	CDS	219792	222326	.	-	0	ID=fig|210.6438.peg.237;Name=NADH-ubiquinone oxidoreductase chain G;Ontology_term=KEGG_ENZYME:1.6.5.3
+NZ_CP035106.1	FIG	CDS	222323	223315	.	-	2	ID=fig|210.6438.peg.238;Name=FIG00010922: Possible NADH-ubiquinone oxidoreductase subunit
+NZ_CP035106.1	FIG	CDS	223312	223542	.	-	1	ID=fig|210.6438.peg.239;Name=NADH-ubiquinone oxidoreductase chain E;Ontology_term=KEGG_ENZYME:1.6.5.3
+NZ_CP035106.1	FIG	CDS	223539	224768	.	-	0	ID=fig|210.6438.peg.240;Name=NADH-ubiquinone oxidoreductase chain D;Ontology_term=KEGG_ENZYME:1.6.5.3
+NZ_CP035106.1	FIG	CDS	224770	225567	.	-	1	ID=fig|210.6438.peg.241;Name=NADH-ubiquinone oxidoreductase chain C;Ontology_term=KEGG_ENZYME:1.6.5.3
+NZ_CP035106.1	FIG	CDS	225567	226046	.	-	0	ID=fig|210.6438.peg.242;Name=NADH-ubiquinone oxidoreductase chain B;Ontology_term=KEGG_ENZYME:1.6.5.3
+NZ_CP035106.1	FIG	CDS	226046	226447	.	-	2	ID=fig|210.6438.peg.243;Name=NADH ubiquinone oxidoreductase chain A;Ontology_term=KEGG_ENZYME:1.6.5.3
+NZ_CP035106.1	FIG	CDS	226549	227238	.	-	1	ID=fig|210.6438.peg.244;Name=NAD-dependent protein deacetylase of SIR2 family
+NZ_CP035106.1	FIG	CDS	227235	227699	.	-	0	ID=fig|210.6438.peg.245;Name=Integral membrane protein
+NZ_CP035106.1	FIG	CDS	227689	228294	.	-	1	ID=fig|210.6438.peg.246;Name=Orotate phosphoribosyltransferase;Ontology_term=KEGG_ENZYME:2.4.2.10
+NZ_CP035106.1	FIG	CDS	228298	228855	.	-	1	ID=fig|210.6438.peg.247;Name=Ribosome recycling factor
+NZ_CP035106.1	FIG	CDS	228855	229439	.	-	0	ID=fig|210.6438.peg.248;Name=Protein translocase membrane subunit SecG
+NZ_CP035106.1	FIG	CDS	229563	230285	.	+	0	ID=fig|210.6438.peg.249;Name=biotin synthesis protein (bioC)
+NZ_CP035106.1	FIG	CDS	230357	231337	.	+	2	ID=fig|210.6438.peg.250;Name=Tryptophanyl-tRNA synthetase;Ontology_term=KEGG_ENZYME:6.1.1.2
+NZ_CP035106.1	FIG	CDS	231338	233119	.	+	2	ID=fig|210.6438.peg.251;Name=ABC transporter%2C substrate-binding protein (cluster 5%2C nickel/peptides/opines)
+NZ_CP035106.1	FIG	CDS	233116	234162	.	+	1	ID=fig|210.6438.peg.252;Name=Oligopeptide ABC transporter%2C permease protein OppB (TC 3.A.1.5.1)
+NZ_CP035106.1	FIG	CDS	234171	234761	.	+	0	ID=fig|210.6438.peg.253;Name=FIG00710904: hypothetical protein
+NZ_CP035106.1	FIG	CDS	234769	235560	.	+	1	ID=fig|210.6438.peg.254;Name=Shikimate 5-dehydrogenase I alpha;Ontology_term=KEGG_ENZYME:1.1.1.25
+NZ_CP035106.1	FIG	CDS	235560	237494	.	+	0	ID=fig|210.6438.peg.255;Name=3'-to-5' exoribonuclease RNase R
+NZ_CP035106.1	FIG	CDS	237484	238506	.	+	1	ID=fig|210.6438.peg.256;Name=DNA polymerase III delta subunit;Ontology_term=KEGG_ENZYME:2.7.7.7
+NZ_CP035106.1	FIG	CDS	238521	238652	.	+	0	ID=fig|210.6438.peg.257;Name=FIG00710288: hypothetical protein
+NZ_CP035106.1	FIG	CDS	238649	239077	.	+	2	ID=fig|210.6438.peg.258;Name=SSU ribosomal protein S6p
+NZ_CP035106.1	FIG	CDS	239087	239632	.	+	2	ID=fig|210.6438.peg.259;Name=Single-stranded DNA-binding protein
+NZ_CP035106.1	FIG	CDS	239656	239913	.	+	1	ID=fig|210.6438.peg.260;Name=SSU ribosomal protein S18p @ SSU ribosomal protein S18p%2C zinc-independent
+NZ_CP035106.1	FIG	CDS	240124	240252	.	+	1	ID=fig|210.6438.peg.261;Name=hypothetical protein
+NZ_CP035106.1	FIG	CDS	240438	242567	.	+	0	ID=fig|210.6438.peg.262;Name=outer membrane protein - adhesin
+NZ_CP035106.1	FIG	CDS	242573	242686	.	-	2	ID=fig|210.6438.peg.263;Name=hypothetical protein
+NZ_CP035106.1	FIG	CDS	242725	242859	.	+	1	ID=fig|210.6438.peg.264;Name=hypothetical protein
+NZ_CP035106.1	FIG	CDS	242952	243086	.	-	0	ID=fig|210.6438.peg.265;Name=hypothetical protein
+NZ_CP035106.1	FIG	CDS	243186	243416	.	-	0	ID=fig|210.6438.peg.266;Name=FIG00710114: hypothetical protein
+NZ_CP035106.1	FIG	CDS	243536	246079	.	+	2	ID=fig|210.6438.peg.267;Name=Alanyl-tRNA synthetase;Ontology_term=KEGG_ENZYME:6.1.1.7
+NZ_CP035106.1	FIG	CDS	246081	246653	.	+	0	ID=fig|210.6438.peg.268;Name=Septum formation protein Maf
+NZ_CP035106.1	FIG	CDS	246908	247021	.	+	2	ID=fig|210.6438.peg.269;Name=hypothetical protein
+NZ_CP035106.1	FIG	CDS	247098	248102	.	-	0	ID=fig|210.6438.peg.270;Name=Formamidase amiF;Ontology_term=KEGG_ENZYME:3.5.1.49
+NZ_CP035106.1	FIG	CDS	248268	249395	.	-	0	ID=fig|210.6438.peg.271;Name=Carbamoyl-phosphate synthase small chain;Ontology_term=KEGG_ENZYME:6.3.5.5
+NZ_CP035106.1	FIG	CDS	249395	249946	.	-	2	ID=fig|210.6438.peg.272;Name=Hypothetical protein probably associated with Carbamoyl-phosphate synthase
+NZ_CP035106.1	FIG	CDS	250025	251272	.	-	2	ID=fig|210.6438.peg.273;Name=Rhomboid family protein
+NZ_CP035106.1	FIG	CDS	251276	252172	.	-	2	ID=fig|210.6438.peg.274;Name=Integral membrane protein%2C DUF6
+NZ_CP035106.1	FIG	CDS	252561	253022	.	+	0	ID=fig|210.6438.peg.275;Name=putative
+NZ_CP035106.1	FIG	CDS	253047	254189	.	-	0	ID=fig|210.6438.peg.276;Name=Alternative dihydrofolate reductase 2 / Dihydropteroate synthase;Ontology_term=KEGG_ENZYME:2.5.1.15
+NZ_CP035106.1	FIG	CDS	254186	254842	.	-	2	ID=fig|210.6438.peg.277;Name=DNA polymerase III delta prime subunit (holB)
+NZ_CP035106.1	FIG	CDS	254839	255381	.	-	1	ID=fig|210.6438.peg.278;Name=FIG00710494: hypothetical protein
+NZ_CP035106.1	FIG	CDS	255378	256595	.	-	0	ID=fig|210.6438.peg.279;Name=Aspartokinase;Ontology_term=KEGG_ENZYME:2.7.2.4
+NZ_CP035106.1	FIG	CDS	256589	257062	.	-	2	ID=fig|210.6438.peg.280;Name=Adenosine (5')-pentaphospho-(5'')-adenosine pyrophosphohydrolase
+NZ_CP035106.1	FIG	CDS	257223	257513	.	-	0	ID=fig|210.6438.peg.281;Name=Cytochrome C553 (soluble cytochrome f)
+NZ_CP035106.1	FIG	CDS	257609	258646	.	+	2	ID=fig|210.6438.peg.282;Name=Oxygen-independent coproporphyrinogen-III oxidase-like protein YggW
+NZ_CP035106.1	FIG	CDS	258691	259083	.	-	1	ID=fig|210.6438.peg.283;Name=Fluoride ion transporter CrcB
+NZ_CP035106.1	FIG	CDS	259130	259810	.	-	2	ID=fig|210.6438.peg.284;Name=Uroporphyrinogen-III synthase;Ontology_term=KEGG_ENZYME:4.2.1.75
+NZ_CP035106.1	FIG	CDS	259813	260145	.	-	1	ID=fig|210.6438.peg.285;Name=putative
+NZ_CP035106.1	FIG	CDS	260217	263057	.	+	0	ID=fig|210.6438.peg.286;Name=Predicted D-lactate dehydrogenase%2C Fe-S protein%2C FAD/FMN-containing
+NZ_CP035106.1	FIG	CDS	263097	263801	.	+	0	ID=fig|210.6438.peg.287;Name=Undecaprenyl diphosphate synthase;Ontology_term=KEGG_ENZYME:2.5.1.31
+NZ_CP035106.1	FIG	CDS	263795	264481	.	+	2	ID=fig|210.6438.peg.288;Name=ABC transporter%2C ATP-binding protein (yhcG)
+NZ_CP035106.1	FIG	CDS	264793	266067	.	+	1	ID=fig|210.6438.peg.289;Name=Phosphoribosylamine--glycine ligase;Ontology_term=KEGG_ENZYME:6.3.4.13
+NZ_CP035106.1	FIG	CDS	266109	266588	.	+	0	ID=fig|210.6438.peg.290;Name=FIG00710413: hypothetical protein
+NZ_CP035106.1	FIG	CDS	266591	268852	.	+	2	ID=fig|210.6438.peg.291;Name=LPS-assembly protein LptD @ Organic solvent tolerance protein precursor
+NZ_CP035106.1	FIG	CDS	268867	269571	.	+	1	ID=fig|210.6438.peg.292;Name=FIG00387830: hypothetical protein
+NZ_CP035106.1	FIG	CDS	269574	271640	.	+	0	ID=fig|210.6438.peg.293;Name=Polyribonucleotide nucleotidyltransferase;Ontology_term=KEGG_ENZYME:2.7.7.8
+NZ_CP035106.1	FIG	CDS	271777	272094	.	+	1	ID=fig|210.6438.peg.294;Name=ATP synthase F0 sector subunit c;Ontology_term=KEGG_ENZYME:3.6.3.14
+NZ_CP035106.1	FIG	CDS	272598	272717	.	+	0	ID=fig|210.6438.peg.295;Name=FIG00711273: hypothetical protein
+NZ_CP035106.1	FIG	CDS	272758	273273	.	+	1	ID=fig|210.6438.peg.296;Name=Serine acetyltransferase;Ontology_term=KEGG_ENZYME:2.3.1.30
+NZ_CP035106.1	FIG	CDS	273448	274011	.	+	1	ID=fig|210.6438.peg.297;Name=ulcer-associated gene restriction endonuclease (iceA)
+NZ_CP035106.1	FIG	CDS	273992	274975	.	+	2	ID=fig|210.6438.peg.298;Name=ulcer associated adenine specific DNA methyltransferase
+NZ_CP035106.1	FIG	CDS	275078	275746	.	+	2	ID=fig|210.6438.peg.299;Name=Haloacid dehalogenase/epoxide hydrolase family
+NZ_CP035106.1	FIG	CDS	275755	277491	.	-	1	ID=fig|210.6438.peg.300;Name=Multi-drug resistance efflux ABC transporter%2C permease/ATP-binding protein HetA
+NZ_CP035106.1	FIG	CDS	278198	279397	.	+	2	ID=fig|210.6438.peg.301;Name=Translation elongation factor Tu
+NZ_CP035106.1	FIG	CDS	279431	279589	.	+	2	ID=fig|210.6438.peg.302;Name=LSU ribosomal protein L33p @ LSU ribosomal protein L33p%2C zinc-independent
+NZ_CP035106.1	FIG	CDS	279847	280026	.	+	1	ID=fig|210.6438.peg.303;Name=Protein translocase subunit SecE
+NZ_CP035106.1	FIG	CDS	280056	280583	.	+	0	ID=fig|210.6438.peg.304;Name=Transcription antitermination protein NusG
+NZ_CP035106.1	FIG	CDS	280601	281026	.	+	2	ID=fig|210.6438.peg.305;Name=LSU ribosomal protein L11p (L12e)
+NZ_CP035106.1	FIG	CDS	281071	281775	.	+	1	ID=fig|210.6438.peg.306;Name=LSU ribosomal protein L1p (L10Ae)
+NZ_CP035106.1	FIG	CDS	281884	282378	.	+	1	ID=fig|210.6438.peg.307;Name=LSU ribosomal protein L10p (P0)
+NZ_CP035106.1	FIG	CDS	282423	282800	.	+	0	ID=fig|210.6438.peg.308;Name=LSU ribosomal protein L7p/L12p (P1/P2)
+NZ_CP035106.1	FIG	CDS	283025	291697	.	+	2	ID=fig|210.6438.peg.309;Name=DNA-directed RNA polymerase beta subunit / DNA-directed RNA polymerase beta' subunit;Ontology_term=KEGG_ENZYME:2.7.7.6,KEGG_ENZYME:2.7.7.6
+NZ_CP035106.1	FIG	CDS	291785	292192	.	+	2	ID=fig|210.6438.peg.310;Name=SSU ribosomal protein S12p (S23e)
+NZ_CP035106.1	FIG	CDS	292208	292675	.	+	2	ID=fig|210.6438.peg.311;Name=SSU ribosomal protein S7p (S5e)
+NZ_CP035106.1	FIG	CDS	292687	294765	.	+	1	ID=fig|210.6438.peg.312;Name=Translation elongation factor G
+NZ_CP035106.1	FIG	CDS	295114	295245	.	+	1	ID=fig|210.6438.peg.313;Name=FIG00711273: hypothetical protein
+NZ_CP035106.1	FIG	CDS	295513	295785	.	+	1	ID=fig|210.6438.peg.314;Name=FIG00710217: hypothetical protein
+NZ_CP035106.1	FIG	CDS	295785	295913	.	+	0	ID=fig|210.6438.peg.315;Name=hypothetical protein
+NZ_CP035106.1	FIG	CDS	295972	297021	.	-	1	ID=fig|210.6438.peg.316;Name=ADP-heptose--lipooligosaccharide heptosyltransferase II
+NZ_CP035106.1	FIG	CDS	297083	298411	.	+	2	ID=fig|210.6438.peg.317;Name=Histidyl-tRNA synthetase;Ontology_term=KEGG_ENZYME:6.1.1.21
+NZ_CP035106.1	FIG	CDS	298398	299438	.	+	0	ID=fig|210.6438.peg.318;Name=Aspartate-semialdehyde dehydrogenase;Ontology_term=KEGG_ENZYME:1.2.1.11
+NZ_CP035106.1	FIG	CDS	299849	301003	.	+	2	ID=fig|210.6438.peg.319;Name=FIG00710511: hypothetical protein
+NZ_CP035106.1	FIG	CDS	301240	301983	.	-	1	ID=fig|210.6438.peg.320;Name=Carbonic anhydrase%2C alpha class;Ontology_term=KEGG_ENZYME:4.2.1.1
+NZ_CP035106.1	FIG	CDS	302259	303434	.	+	0	ID=fig|210.6438.peg.321;Name=Probable sugar efflux transporter
+NZ_CP035106.1	FIG	CDS	303594	304973	.	+	0	ID=fig|210.6438.peg.322;Name=Multi antimicrobial extrusion protein (Na(+)/drug antiporter)%2C MATE family of MDR efflux pumps
+NZ_CP035106.1	FIG	CDS	304999	306150	.	+	1	ID=fig|210.6438.peg.323;Name=Putative Na+/H+ antiporter
+NZ_CP035106.1	FIG	CDS	306160	306921	.	-	1	ID=fig|210.6438.peg.324;Name=tRNA-(cytosine32)-2-thiocytidine synthetase TtcA
+NZ_CP035106.1	FIG	CDS	306939	308270	.	-	0	ID=fig|210.6438.peg.325;Name=Uncharacterized MFS-type transporter
+NZ_CP035106.1	FIG	CDS	308596	309852	.	+	1	ID=fig|210.6438.peg.326;Name=Na+ dependent nucleoside transporter NupC
+NZ_CP035106.1	FIG	CDS	309864	311105	.	+	0	ID=fig|210.6438.peg.327;Name=Phosphopentomutase;Ontology_term=KEGG_ENZYME:5.4.2.7
+NZ_CP035106.1	FIG	CDS	311102	311803	.	+	2	ID=fig|210.6438.peg.328;Name=Purine nucleoside phosphorylase;Ontology_term=KEGG_ENZYME:2.4.2.1
+NZ_CP035106.1	FIG	CDS	311893	312027	.	+	1	ID=fig|210.6438.peg.329;Name=FIG00711960: hypothetical protein
+NZ_CP035106.1	FIG	CDS	312017	312154	.	+	2	ID=fig|210.6438.peg.330;Name=FIG00712485: hypothetical protein
+NZ_CP035106.1	FIG	CDS	312286	314205	.	+	1	ID=fig|210.6438.peg.331;Name=outer membrane protein (omp27)
+NZ_CP035106.1	FIG	CDS	314643	315950	.	+	0	ID=fig|210.6438.peg.332;Name=Xanthine/uracil permease family protein
+NZ_CP035106.1	FIG	CDS	316080	317291	.	+	0	ID=fig|210.6438.peg.333;Name=Homolog of fucose/glucose/galactose permeases
+NZ_CP035106.1	FIG	CDS	317517	318068	.	-	0	ID=fig|210.6438.peg.334;Name=putative
+NZ_CP035106.1	FIG	CDS	318189	319022	.	-	0	ID=fig|210.6438.peg.335;Name=ABC transporter%2C substrate-binding protein (cluster 3%2C basic aa/glutamine/opines)
+NZ_CP035106.1	FIG	CDS	319071	319817	.	-	0	ID=fig|210.6438.peg.336;Name=ABC transporter%2C ATP-binding protein (cluster 3%2C basic aa/glutamine/opines)
+NZ_CP035106.1	FIG	CDS	319819	320490	.	-	1	ID=fig|210.6438.peg.337;Name=ABC transporter%2C permease protein (cluster 3%2C basic aa/glutamine/opines)
+NZ_CP035106.1	FIG	CDS	320493	321146	.	-	0	ID=fig|210.6438.peg.338;Name=ABC transporter%2C permease protein (cluster 3%2C basic aa/glutamine/opines)
+NZ_CP035106.1	FIG	CDS	321357	323420	.	+	0	ID=fig|210.6438.peg.339;Name=Carbon starvation protein A
+NZ_CP035106.1	FIG	CDS	323638	323754	.	-	1	ID=fig|210.6438.peg.340;Name=hypothetical protein
+NZ_CP035106.1	FIG	CDS	323759	325174	.	-	2	ID=fig|210.6438.peg.341;Name=Uncharacterized outer membrane protein HP1167
+NZ_CP035106.1	FIG	CDS	325469	327106	.	-	2	ID=fig|210.6438.peg.342;Name=Glucose-6-phosphate isomerase;Ontology_term=KEGG_ENZYME:5.3.1.9
+NZ_CP035106.1	FIG	CDS	327171	328331	.	+	0	ID=fig|210.6438.peg.343;Name=Uncharacterized MFS-type transporter
+NZ_CP035106.1	FIG	CDS	328339	329313	.	-	1	ID=fig|210.6438.peg.344;Name=NADPH oxioreductase that is part of the Pyruvate:Ferrodoxin Oxioreductase Complex
+NZ_CP035106.1	FIG	CDS	329335	329526	.	-	1	ID=fig|210.6438.peg.345;Name=Type cbb3 cytochrome oxidase biogenesis protein CcoS%2C involved in heme b insertion
+NZ_CP035106.1	FIG	CDS	329648	330229	.	+	2	ID=fig|210.6438.peg.346;Name=DedA family protein
+NZ_CP035106.1	FIG	CDS	330321	330815	.	+	0	ID=fig|210.6438.peg.347;Name=Flavodoxin 1
+NZ_CP035106.1	FIG	CDS	330877	331305	.	+	1	ID=fig|210.6438.peg.348;Name=Metal-dependent hydrolase YbeY%2C involved in rRNA and/or ribosome maturation and assembly
+NZ_CP035106.1	FIG	CDS	331359	331529	.	-	0	ID=fig|210.6438.peg.349;Name=Fic domain protein%2C HP1159 type
+NZ_CP035106.1	FIG	CDS	331493	331891	.	-	2	ID=fig|210.6438.peg.350;Name=Fic domain protein%2C HP1159 type
+NZ_CP035106.1	FIG	CDS	331897	332691	.	-	1	ID=fig|210.6438.peg.351;Name=Pyrroline-5-carboxylate reductase;Ontology_term=KEGG_ENZYME:1.5.1.2
+NZ_CP035106.1	FIG	CDS	332705	336385	.	-	2	ID=fig|210.6438.peg.352;Name=Putative outer membrane protein
+NZ_CP035106.1	FIG	CDS	336408	338510	.	-	0	ID=fig|210.6438.peg.353;Name=Putative outer membrane protein
+NZ_CP035106.1	FIG	CDS	338618	339679	.	-	2	ID=fig|210.6438.peg.354;Name=UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase;Ontology_term=KEGG_ENZYME:2.4.1.227
+NZ_CP035106.1	FIG	CDS	339691	340098	.	-	1	ID=fig|210.6438.peg.355;Name=Flagellar assembly factor FliW
+NZ_CP035106.1	FIG	CDS	340235	342853	.	+	2	ID=fig|210.6438.peg.356;Name=Valyl-tRNA synthetase;Ontology_term=KEGG_ENZYME:6.1.1.9
+NZ_CP035106.1	FIG	CDS	342868	344214	.	+	1	ID=fig|210.6438.peg.357;Name=Signal recognition particle protein Ffh
+NZ_CP035106.1	FIG	CDS	344288	344518	.	+	2	ID=fig|210.6438.peg.358;Name=SSU ribosomal protein S16p
+NZ_CP035106.1	FIG	CDS	344535	344888	.	+	0	ID=fig|210.6438.peg.359;Name=KH domain RNA binding protein YlqC
+NZ_CP035106.1	FIG	CDS	344889	345443	.	+	0	ID=fig|210.6438.peg.360;Name=16S rRNA processing protein RimM
+NZ_CP035106.1	FIG	CDS	345444	346133	.	+	0	ID=fig|210.6438.peg.361;Name=tRNA (guanine(37)-N(1))-methyltransferase;Ontology_term=KEGG_ENZYME:2.1.1.228
+NZ_CP035106.1	FIG	CDS	346155	346511	.	+	0	ID=fig|210.6438.peg.362;Name=LSU ribosomal protein L19p
+NZ_CP035106.1	FIG	CDS	346645	347067	.	+	1	ID=fig|210.6438.peg.363;Name=FIG00710768: hypothetical protein
+NZ_CP035106.1	FIG	CDS	347205	347336	.	+	0	ID=fig|210.6438.peg.364;Name=hypothetical protein
+NZ_CP035106.1	FIG	CDS	350101	351399	.	+	1	ID=fig|210.6438.peg.365;Name=FIG00711003: hypothetical protein
+NZ_CP035106.1	FIG	CDS	351460	351885	.	+	1	ID=fig|210.6438.peg.366;Name=trans-Golgi membrane protein p230
+NZ_CP035106.1	FIG	CDS	351914	354715	.	+	2	ID=fig|210.6438.peg.367;Name=Methionyl-tRNA formyltransferase;Ontology_term=KEGG_ENZYME:2.1.2.9
+NZ_CP035106.1	FIG	CDS	354712	355350	.	+	1	ID=fig|210.6438.peg.368;Name=Biotin--protein ligase(EC 6.3.4.10)(EC 6.3.4.11)(EC 6.3.4.15);Ontology_term=KEGG_ENZYME:6.3.4.9,KEGG_ENZYME:6.3.4.10,KEGG_ENZYME:6.3.4.11,KEGG_ENZYME:6.3.4.15
+NZ_CP035106.1	FIG	CDS	355356	356150	.	+	0	ID=fig|210.6438.peg.369;Name=Chromosome (plasmid) partitioning protein ParA
+NZ_CP035106.1	FIG	CDS	356153	357025	.	+	2	ID=fig|210.6438.peg.370;Name=Chromosome (plasmid) partitioning protein ParB
+NZ_CP035106.1	FIG	CDS	357136	357570	.	+	1	ID=fig|210.6438.peg.371;Name=ATP synthase F0 sector subunit b';Ontology_term=KEGG_ENZYME:3.6.3.14
+NZ_CP035106.1	FIG	CDS	357574	358089	.	+	1	ID=fig|210.6438.peg.372;Name=ATP synthase F0 sector subunit b;Ontology_term=KEGG_ENZYME:3.6.3.14
+NZ_CP035106.1	FIG	CDS	358090	358632	.	+	1	ID=fig|210.6438.peg.373;Name=ATP synthase delta chain;Ontology_term=KEGG_ENZYME:3.6.3.14
+NZ_CP035106.1	FIG	CDS	358655	360166	.	+	2	ID=fig|210.6438.peg.374;Name=ATP synthase alpha chain;Ontology_term=KEGG_ENZYME:3.6.3.14
+NZ_CP035106.1	FIG	CDS	360181	361086	.	+	1	ID=fig|210.6438.peg.375;Name=ATP synthase gamma chain;Ontology_term=KEGG_ENZYME:3.6.3.14
+NZ_CP035106.1	FIG	CDS	361115	362515	.	+	2	ID=fig|210.6438.peg.376;Name=ATP synthase beta chain;Ontology_term=KEGG_ENZYME:3.6.3.14
+NZ_CP035106.1	FIG	CDS	362526	362897	.	+	0	ID=fig|210.6438.peg.377;Name=ATP synthase epsilon chain;Ontology_term=KEGG_ENZYME:3.6.3.14
+NZ_CP035106.1	FIG	CDS	362908	363477	.	+	1	ID=fig|210.6438.peg.378;Name=Tol-Pal system protein TolQ
+NZ_CP035106.1	FIG	CDS	363530	363931	.	+	2	ID=fig|210.6438.peg.379;Name=Tol biopolymer transport system%2C TolR protein
+NZ_CP035106.1	FIG	CDS	363950	364762	.	+	2	ID=fig|210.6438.peg.380;Name=TolA protein
+NZ_CP035106.1	FIG	CDS	364759	366012	.	+	1	ID=fig|210.6438.peg.381;Name=Tol-Pal system beta propeller repeat protein TolB
+NZ_CP035106.1	FIG	CDS	366078	366617	.	+	0	ID=fig|210.6438.peg.382;Name=Tol-Pal system peptidoglycan-associated lipoprotein PAL
+NZ_CP035106.1	FIG	CDS	366625	367620	.	+	1	ID=fig|210.6438.peg.383;Name=Cell division coordinator CpoB
+NZ_CP035106.1	FIG	CDS	367607	368164	.	+	2	ID=fig|210.6438.peg.384;Name=FKBP-type peptidyl-prolyl cis-trans isomerase SlyD;Ontology_term=KEGG_ENZYME:5.2.1.8
+NZ_CP035106.1	FIG	CDS	368196	368402	.	+	0	ID=fig|210.6438.peg.385;Name=FIG00710166: hypothetical protein
+NZ_CP035106.1	FIG	CDS	368466	368669	.	+	0	ID=fig|210.6438.peg.386;Name=FlgM protein
+NZ_CP035106.1	FIG	CDS	368807	369763	.	+	2	ID=fig|210.6438.peg.387;Name=DNA-cytosine methyltransferase;Ontology_term=KEGG_ENZYME:2.1.1.37
+NZ_CP035106.1	FIG	CDS	369892	370326	.	+	1	ID=fig|210.6438.peg.388;Name=FIG00710673: hypothetical protein
+NZ_CP035106.1	FIG	CDS	370328	372148	.	+	2	ID=fig|210.6438.peg.389;Name=Flagellar hook-associated protein FlgK
+NZ_CP035106.1	FIG	CDS	372354	374057	.	+	0	ID=fig|210.6438.peg.390;Name=Gamma-glutamyltranspeptidase @ Glutathione hydrolase;Ontology_term=KEGG_ENZYME:2.3.2.2,KEGG_ENZYME:3.4.19.13
+NZ_CP035106.1	FIG	CDS	374341	375111	.	+	1	ID=fig|210.6438.peg.391;Name=Tetratricopeptide repeat family protein
+NZ_CP035106.1	FIG	CDS	375331	377307	.	+	1	ID=fig|210.6438.peg.392;Name=Excinuclease ABC subunit B
+NZ_CP035106.1	FIG	CDS	377318	378151	.	-	2	ID=fig|210.6438.peg.393;Name=Putative outer membrane protein
+NZ_CP035106.1	FIG	CDS	378222	379544	.	-	0	ID=fig|210.6438.peg.394;Name=Adenylosuccinate lyase @ SAICAR lyase;Ontology_term=KEGG_ENZYME:4.3.2.2,KEGG_ENZYME:4.3.2.2
+NZ_CP035106.1	FIG	CDS	379654	380598	.	-	1	ID=fig|210.6438.peg.395;Name=Pyruvate:ferredoxin oxidoreductase%2C beta subunit;Ontology_term=KEGG_ENZYME:1.2.7.1
+NZ_CP035106.1	FIG	CDS	380611	381834	.	-	1	ID=fig|210.6438.peg.396;Name=Pyruvate:ferredoxin oxidoreductase%2C alpha subunit;Ontology_term=KEGG_ENZYME:1.2.7.1
+NZ_CP035106.1	FIG	CDS	381845	382237	.	-	2	ID=fig|210.6438.peg.397;Name=Pyruvate:ferredoxin oxidoreductase%2C delta subunit;Ontology_term=KEGG_ENZYME:1.2.7.1
+NZ_CP035106.1	FIG	CDS	382253	382813	.	-	2	ID=fig|210.6438.peg.398;Name=Pyruvate:ferredoxin oxidoreductase%2C gamma subunit;Ontology_term=KEGG_ENZYME:1.2.7.1
+NZ_CP035106.1	FIG	CDS	382887	383009	.	+	0	ID=fig|210.6438.peg.399;Name=FIG00710303: hypothetical protein
+NZ_CP035106.1	FIG	CDS	383103	383774	.	+	0	ID=fig|210.6438.peg.400;Name=Putative outer membrane protein
+NZ_CP035106.1	FIG	CDS	383781	385088	.	-	0	ID=fig|210.6438.peg.401;Name=putative
+NZ_CP035106.1	FIG	CDS	385276	386472	.	+	1	ID=fig|210.6438.peg.402;Name=putative lipopolysaccharide biosynthesis protein
+NZ_CP035106.1	FIG	CDS	386613	387773	.	+	0	ID=fig|210.6438.peg.403;Name=putative lipopolysaccharide biosynthesis protein
+NZ_CP035106.1	FIG	CDS	387785	388831	.	-	2	ID=fig|210.6438.peg.404;Name=Cinnamyl alcohol dehydrogenase/reductase @ Alcohol dehydrogenase;Ontology_term=KEGG_ENZYME:1.1.1.195,KEGG_ENZYME:1.1.1.1
+NZ_CP035106.1	FIG	CDS	388992	390002	.	-	0	ID=fig|210.6438.peg.405;Name=Glucokinase;Ontology_term=KEGG_ENZYME:2.7.1.2
+NZ_CP035106.1	FIG	CDS	389989	390672	.	-	1	ID=fig|210.6438.peg.406;Name=6-phosphogluconolactonase%2C eukaryotic type;Ontology_term=KEGG_ENZYME:3.1.1.31
+NZ_CP035106.1	FIG	CDS	390683	391960	.	-	2	ID=fig|210.6438.peg.407;Name=Glucose-6-phosphate 1-dehydrogenase;Ontology_term=KEGG_ENZYME:1.1.1.49
+NZ_CP035106.1	FIG	CDS	392028	393854	.	+	0	ID=fig|210.6438.peg.408;Name=Phosphogluconate dehydratase;Ontology_term=KEGG_ENZYME:4.2.1.12
+NZ_CP035106.1	FIG	CDS	393873	394499	.	+	0	ID=fig|210.6438.peg.409;Name=4-hydroxy-2-oxoglutarate aldolase @ 2-dehydro-3-deoxyphosphogluconate aldolase;Ontology_term=KEGG_ENZYME:4.1.3.16,KEGG_ENZYME:4.1.2.14
+NZ_CP035106.1	FIG	CDS	394569	395441	.	+	0	ID=fig|210.6438.peg.410;Name=Tetratricopeptide repeat family protein
+NZ_CP035106.1	FIG	CDS	395640	396392	.	-	0	ID=fig|210.6438.peg.411;Name=3-hydroxypropionate dehydrogenase;Ontology_term=KEGG_ENZYME:1.1.1.298
+NZ_CP035106.1	FIG	CDS	396413	397948	.	-	2	ID=fig|210.6438.peg.412;Name=Putative outer membrane protein
+NZ_CP035106.1	FIG	CDS	398483	399517	.	+	2	ID=fig|210.6438.peg.413;Name=UDP-glucose 4-epimerase;Ontology_term=KEGG_ENZYME:5.1.3.2
+NZ_CP035106.1	FIG	CDS	399511	399699	.	-	1	ID=fig|210.6438.peg.414;Name=tRNA pseudouridine(38-40) synthase;Ontology_term=KEGG_ENZYME:5.4.99.12
+NZ_CP035106.1	FIG	CDS	399711	400238	.	-	0	ID=fig|210.6438.peg.415;Name=tRNA pseudouridine(38-40) synthase;Ontology_term=KEGG_ENZYME:5.4.99.12
+NZ_CP035106.1	FIG	CDS	400239	401276	.	-	0	ID=fig|210.6438.peg.416;Name=Lipopolysaccharide export system permease protein LptF
+NZ_CP035106.1	FIG	CDS	401287	401916	.	-	1	ID=fig|210.6438.peg.417;Name=Protein-L-isoaspartate O-methyltransferase;Ontology_term=KEGG_ENZYME:2.1.1.77
+NZ_CP035106.1	FIG	CDS	401926	402951	.	-	1	ID=fig|210.6438.peg.418;Name=Ribonucleotide reductase of class Ia (aerobic)%2C beta subunit;Ontology_term=KEGG_ENZYME:1.17.4.1
+NZ_CP035106.1	FIG	CDS	403270	404397	.	-	1	ID=fig|210.6438.peg.419;Name=UDP-4-amino-4%2C6-dideoxy-N-acetyl-beta-L-altrosamine transaminase;Ontology_term=KEGG_ENZYME:2.6.1.92
+NZ_CP035106.1	FIG	CDS	404394	405038	.	-	0	ID=fig|210.6438.peg.420;Name=putative
+NZ_CP035106.1	FIG	CDS	405087	405635	.	-	0	ID=fig|210.6438.peg.421;Name=putative
+NZ_CP035106.1	FIG	CDS	405635	406597	.	-	2	ID=fig|210.6438.peg.422;Name=putative TYPE II DNA MODIFICATION ENZYME (METHYLTRANSFERASE)
+NZ_CP035106.1	FIG	CDS	406690	408057	.	-	1	ID=fig|210.6438.peg.423;Name=Biotin carboxylase of acetyl-CoA carboxylase;Ontology_term=KEGG_ENZYME:6.3.4.14
+NZ_CP035106.1	FIG	CDS	408063	408533	.	-	0	ID=fig|210.6438.peg.424;Name=Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+NZ_CP035106.1	FIG	CDS	408656	409222	.	+	2	ID=fig|210.6438.peg.425;Name=Deoxycytidine triphosphate deaminase;Ontology_term=KEGG_ENZYME:3.5.4.13
+NZ_CP035106.1	FIG	CDS	409383	411605	.	+	0	ID=fig|210.6438.peg.426;Name=Outer membrane protein
+NZ_CP035106.1	FIG	CDS	411629	412309	.	-	2	ID=fig|210.6438.peg.427;Name=16S rRNA (uracil(1498)-N(3))-methyltransferase;Ontology_term=KEGG_ENZYME:2.1.1.193
+NZ_CP035106.1	FIG	CDS	412310	412741	.	-	2	ID=fig|210.6438.peg.428;Name=FIG00710546: hypothetical protein
+NZ_CP035106.1	FIG	CDS	412797	413804	.	+	0	ID=fig|210.6438.peg.429;Name=Ferrochelatase%2C protoheme ferro-lyase;Ontology_term=KEGG_ENZYME:4.99.1.1
+NZ_CP035106.1	FIG	CDS	413877	414548	.	+	0	ID=fig|210.6438.peg.430;Name=thiol:disulfide interchange protein (dsbC)%2C putative
+NZ_CP035106.1	FIG	CDS	414557	417367	.	+	2	ID=fig|210.6438.peg.431;Name=Putative cytochrome C-type biogenesis protein
+NZ_CP035106.1	FIG	CDS	417377	418213	.	+	2	ID=fig|210.6438.peg.432;Name=Alpha-(1%2C3/1%2C4)-L-fucosyltransferase
+NZ_CP035106.1	FIG	CDS	418180	418770	.	+	1	ID=fig|210.6438.peg.433;Name=Alpha-(1%2C3/1%2C4)-L-fucosyltransferase
+NZ_CP035106.1	FIG	CDS	418789	420135	.	-	1	ID=fig|210.6438.peg.434;Name=NADP-specific glutamate dehydrogenase;Ontology_term=KEGG_ENZYME:1.4.1.4
+NZ_CP035106.1	FIG	CDS	420201	421031	.	-	0	ID=fig|210.6438.peg.435;Name=Peptide chain release factor N(5)-glutamine methyltransferase;Ontology_term=KEGG_ENZYME:2.1.1.297
+NZ_CP035106.1	FIG	CDS	421028	422248	.	-	2	ID=fig|210.6438.peg.436;Name=Integral membrane zinc-metalloprotease HP0382%2C M48 family
+NZ_CP035106.1	FIG	CDS	422413	422940	.	+	1	ID=fig|210.6438.peg.437;Name=putative
+NZ_CP035106.1	FIG	CDS	422949	423695	.	-	0	ID=fig|210.6438.peg.438;Name=putative
+NZ_CP035106.1	FIG	CDS	423734	423868	.	+	2	ID=fig|210.6438.peg.439;Name=FIG00711141: hypothetical protein
+NZ_CP035106.1	FIG	CDS	423898	424125	.	+	1	ID=fig|210.6438.peg.440;Name=putative
+NZ_CP035106.1	FIG	CDS	424138	424374	.	+	1	ID=fig|210.6438.peg.441;Name=putative
+NZ_CP035106.1	FIG	CDS	424359	426218	.	+	0	ID=fig|210.6438.peg.442;Name=Helicase PriA essential for oriC/DnaA-independent DNA replication
+NZ_CP035106.1	FIG	CDS	426247	426966	.	-	1	ID=fig|210.6438.peg.443;Name=Carboxy-S-adenosyl-L-methionine synthase
+NZ_CP035106.1	FIG	CDS	427018	427659	.	-	1	ID=fig|210.6438.peg.444;Name=Superoxide dismutase [Fe];Ontology_term=KEGG_ENZYME:1.15.1.1
+NZ_CP035106.1	FIG	CDS	427883	428383	.	+	2	ID=fig|210.6438.peg.445;Name=Thiol peroxidase%2C Tpx-type;Ontology_term=KEGG_ENZYME:1.11.1.15
+NZ_CP035106.1	FIG	CDS	428640	429137	.	-	0	ID=fig|210.6438.peg.446;Name=Positive regulator of CheA protein activity (CheW)
+NZ_CP035106.1	FIG	CDS	429134	431572	.	-	2	ID=fig|210.6438.peg.447;Name=Signal transduction histidine kinase CheA
+NZ_CP035106.1	FIG	CDS	431630	432565	.	-	2	ID=fig|210.6438.peg.448;Name=Chemotaxis protein CheV;Ontology_term=KEGG_ENZYME:2.7.3.-
+NZ_CP035106.1	FIG	CDS	432569	433327	.	-	2	ID=fig|210.6438.peg.449;Name=FIG022708: hypothetical protein
+NZ_CP035106.1	FIG	CDS	433329	433997	.	-	0	ID=fig|210.6438.peg.450;Name=Pyridoxal phosphate-containing protein YggS
+NZ_CP035106.1	FIG	CDS	433994	435844	.	-	2	ID=fig|210.6438.peg.451;Name=UbiD family decarboxylase associated with menaquinone via futalosine
+NZ_CP035106.1	FIG	CDS	435854	437428	.	-	2	ID=fig|210.6438.peg.452;Name=D-3-phosphoglycerate dehydrogenase;Ontology_term=KEGG_ENZYME:1.1.1.95
+NZ_CP035106.1	FIG	CDS	437444	437983	.	-	2	ID=fig|210.6438.peg.453;Name=putative
+NZ_CP035106.1	FIG	CDS	438012	439670	.	-	0	ID=fig|210.6438.peg.454;Name=SSU ribosomal protein S1p
+NZ_CP035106.1	FIG	CDS	439791	440615	.	-	0	ID=fig|210.6438.peg.455;Name=4-hydroxy-3-methylbut-2-enyl diphosphate reductase;Ontology_term=KEGG_ENZYME:1.17.7.4
+NZ_CP035106.1	FIG	CDS	440605	441894	.	-	1	ID=fig|210.6438.peg.456;Name=3-phosphoshikimate 1-carboxyvinyltransferase;Ontology_term=KEGG_ENZYME:2.5.1.19
+NZ_CP035106.1	FIG	CDS	441910	444204	.	-	1	ID=fig|210.6438.peg.457;Name=Phenylalanyl-tRNA synthetase beta chain;Ontology_term=KEGG_ENZYME:6.1.1.20
+NZ_CP035106.1	FIG	CDS	444204	445190	.	-	0	ID=fig|210.6438.peg.458;Name=Phenylalanyl-tRNA synthetase alpha chain;Ontology_term=KEGG_ENZYME:6.1.1.20
+NZ_CP035106.1	FIG	CDS	445271	445585	.	+	2	ID=fig|210.6438.peg.459;Name=HIT family protein
+NZ_CP035106.1	FIG	CDS	445604	446926	.	+	2	ID=fig|210.6438.peg.460;Name=Cysteine desulfurase;Ontology_term=KEGG_ENZYME:2.8.1.7
+NZ_CP035106.1	FIG	CDS	446952	447542	.	+	0	ID=fig|210.6438.peg.461;Name=FIG00710213: hypothetical protein
+NZ_CP035106.1	FIG	CDS	447646	448095	.	+	1	ID=fig|210.6438.peg.462;Name=Biotin sulfoxide reductase / Free methionine-(S)-sulfoxide reductase;Ontology_term=KEGG_ENZYME:1.-.-.-
+NZ_CP035106.1	FIG	CDS	448181	448297	.	+	2	ID=fig|210.6438.peg.463;Name=Biotin sulfoxide reductase / Free methionine-(S)-sulfoxide reductase;Ontology_term=KEGG_ENZYME:1.-.-.-
+NZ_CP035106.1	FIG	CDS	448254	448661	.	+	0	ID=fig|210.6438.peg.464;Name=Biotin sulfoxide reductase / Free methionine-(S)-sulfoxide reductase;Ontology_term=KEGG_ENZYME:1.-.-.-
+NZ_CP035106.1	FIG	CDS	448685	449206	.	+	2	ID=fig|210.6438.peg.465;Name=Biotin sulfoxide reductase / Free methionine-(S)-sulfoxide reductase;Ontology_term=KEGG_ENZYME:1.-.-.-
+NZ_CP035106.1	FIG	CDS	449166	449792	.	+	0	ID=fig|210.6438.peg.466;Name=Biotin sulfoxide reductase / Free methionine-(S)-sulfoxide reductase;Ontology_term=KEGG_ENZYME:1.-.-.-
+NZ_CP035106.1	FIG	CDS	449954	450442	.	+	2	ID=fig|210.6438.peg.467;Name=putative
+NZ_CP035106.1	FIG	CDS	450453	451979	.	+	0	ID=fig|210.6438.peg.468;Name=GMP synthase [glutamine-hydrolyzing]%2C amidotransferase subunit / GMP synthase [glutamine-hydrolyzing]%2C ATP pyrophosphatase subunit;Ontology_term=KEGG_ENZYME:6.3.5.2,KEGG_ENZYME:6.3.5.2
+NZ_CP035106.1	FIG	CDS	451970	452806	.	+	2	ID=fig|210.6438.peg.469;Name=putative neuraminyllactose-binding hemagglutinin HpaA
+NZ_CP035106.1	FIG	CDS	453757	453900	.	-	1	ID=fig|210.6438.peg.470;Name=FIG00712123: hypothetical protein
+NZ_CP035106.1	FIG	CDS	453942	455825	.	+	0	ID=fig|210.6438.peg.471;Name=Potassium efflux system KefA protein / Small-conductance mechanosensitive channel
+NZ_CP035106.1	FIG	CDS	455828	456997	.	-	2	ID=fig|210.6438.peg.472;Name=Cyclopropane-fatty-acyl-phospholipid synthase;Ontology_term=KEGG_ENZYME:2.1.1.79
+NZ_CP035106.1	FIG	CDS	457166	459118	.	+	2	ID=fig|210.6438.peg.473;Name=Methionyl-tRNA synthetase;Ontology_term=KEGG_ENZYME:6.1.1.10
+NZ_CP035106.1	FIG	CDS	459119	460138	.	+	2	ID=fig|210.6438.peg.474;Name=FIG00710933: hypothetical protein
+NZ_CP035106.1	FIG	CDS	460142	460927	.	+	2	ID=fig|210.6438.peg.475;Name=tRNA ho5U(34) carboxymethyltransferase
+NZ_CP035106.1	FIG	CDS	460945	461373	.	+	1	ID=fig|210.6438.peg.476;Name=Hot dog fold protein HP0420
+NZ_CP035106.1	FIG	CDS	461378	462547	.	+	2	ID=fig|210.6438.peg.477;Name=type 1 capsular polysaccharide biosynthesis protein J (capJ)
+NZ_CP035106.1	FIG	CDS	462562	464409	.	+	1	ID=fig|210.6438.peg.478;Name=Arginine decarboxylase;Ontology_term=KEGG_ENZYME:4.1.1.19
+NZ_CP035106.1	FIG	CDS	464497	465396	.	-	1	ID=fig|210.6438.peg.479;Name=FIG00710585: hypothetical protein
+NZ_CP035106.1	FIG	CDS	465502	466251	.	-	1	ID=fig|210.6438.peg.480;Name=FIG00710727: hypothetical protein
+NZ_CP035106.1	FIG	CDS	466274	466570	.	-	2	ID=fig|210.6438.peg.481;Name=FIG00712875: hypothetical protein
+NZ_CP035106.1	FIG	CDS	466694	467350	.	-	2	ID=fig|210.6438.peg.482;Name=FIG00710727: hypothetical protein
+NZ_CP035106.1	FIG	CDS	467394	468647	.	-	0	ID=fig|210.6438.peg.483;Name=FIG00711083: hypothetical protein
+NZ_CP035106.1	FIG	CDS	468688	470421	.	-	1	ID=fig|210.6438.peg.484;Name=FIG00710554: hypothetical protein
+NZ_CP035106.1	FIG	CDS	470706	470921	.	+	0	ID=fig|210.6438.peg.485;Name=hypothetical protein
+NZ_CP035106.1	FIG	CDS	470908	471027	.	+	1	ID=fig|210.6438.peg.486;Name=hypothetical protein
+NZ_CP035106.1	FIG	CDS	474615	474728	.	+	0	ID=fig|210.6438.peg.487;Name=hypothetical protein
+NZ_CP035106.1	FIG	CDS	474752	474952	.	+	2	ID=fig|210.6438.peg.488;Name=hypothetical protein
+NZ_CP035106.1	FIG	CDS	474945	475769	.	+	0	ID=fig|210.6438.peg.489;Name=Small-conductance mechanosensitive channel
+NZ_CP035106.1	FIG	CDS	475817	475975	.	+	2	ID=fig|210.6438.peg.490;Name=hypothetical protein
+NZ_CP035106.1	FIG	CDS	476028	477185	.	-	0	ID=fig|210.6438.peg.491;Name=Cell division protein FtsZ
+NZ_CP035106.1	FIG	CDS	477320	478801	.	-	2	ID=fig|210.6438.peg.492;Name=Cell division protein FtsA
+NZ_CP035106.1	FIG	CDS	478816	480279	.	-	1	ID=fig|210.6438.peg.493;Name=Peptidyl-prolyl cis-trans isomerase PpiD;Ontology_term=KEGG_ENZYME:5.2.1.8
+NZ_CP035106.1	FIG	CDS	480409	481719	.	+	1	ID=fig|210.6438.peg.494;Name=Adenosylmethionine-8-amino-7-oxononanoate aminotransferase;Ontology_term=KEGG_ENZYME:2.6.1.62
+NZ_CP035106.1	FIG	CDS	481791	482072	.	-	0	ID=fig|210.6438.peg.495;Name=Aspartyl-tRNA(Asn) amidotransferase subunit C @ Glutamyl-tRNA(Gln) amidotransferase subunit C;Ontology_term=KEGG_ENZYME:6.3.5.6,KEGG_ENZYME:6.3.5.7
+NZ_CP035106.1	FIG	CDS	482087	483562	.	-	2	ID=fig|210.6438.peg.496;Name=2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase;Ontology_term=KEGG_ENZYME:5.4.2.12
+NZ_CP035106.1	FIG	CDS	483575	484639	.	-	2	ID=fig|210.6438.peg.497;Name=FIG00710594: hypothetical protein
+NZ_CP035106.1	FIG	CDS	484751	486853	.	+	2	ID=fig|210.6438.peg.498;Name=Glycyl-tRNA synthetase beta chain;Ontology_term=KEGG_ENZYME:6.1.1.14
+NZ_CP035106.1	FIG	CDS	486843	488138	.	+	0	ID=fig|210.6438.peg.499;Name=Uncharacterized protein HP_0971
+NZ_CP035106.1	FIG	CDS	488135	489214	.	+	2	ID=fig|210.6438.peg.500;Name=nickel-cobalt-cadmium resistance protein (nccB)
+NZ_CP035106.1	FIG	CDS	489214	492273	.	+	1	ID=fig|210.6438.peg.501;Name=CzcABC family efflux RND transporter%2C transmembrane protein
+NZ_CP035106.1	FIG	CDS	492284	492565	.	+	2	ID=fig|210.6438.peg.502;Name=putative
+NZ_CP035106.1	FIG	CDS	492633	492920	.	+	0	ID=fig|210.6438.peg.503;Name=virulence associated protein D (vapD)
+NZ_CP035106.1	FIG	CDS	493137	493421	.	+	0	ID=fig|210.6438.peg.504;Name=FIG00711774: hypothetical protein
+NZ_CP035106.1	FIG	CDS	493456	493992	.	+	1	ID=fig|210.6438.peg.505;Name=FIG00711774: hypothetical protein
+NZ_CP035106.1	FIG	CDS	494102	495040	.	+	2	ID=fig|210.6438.peg.506;Name=Glycerol-3-phosphate dehydrogenase [NAD(P)+];Ontology_term=KEGG_ENZYME:1.1.1.94
+NZ_CP035106.1	FIG	CDS	495054	495950	.	+	0	ID=fig|210.6438.peg.507;Name=Glycyl-tRNA synthetase alpha chain;Ontology_term=KEGG_ENZYME:6.1.1.14
+NZ_CP035106.1	FIG	CDS	495952	496683	.	+	1	ID=fig|210.6438.peg.508;Name=GTP cyclohydrolase 1 type 2 homolog YbgI
+NZ_CP035106.1	FIG	CDS	496693	497457	.	+	1	ID=fig|210.6438.peg.509;Name=FIG137478: Hypothetical protein
+NZ_CP035106.1	FIG	CDS	497458	498639	.	+	1	ID=fig|210.6438.peg.510;Name=3-deoxy-D-manno-octulosonic acid transferase(EC 2.4.99.13);Ontology_term=KEGG_ENZYME:2.4.99.12,KEGG_ENZYME:2.4.99.13
+NZ_CP035106.1	FIG	CDS	498664	499392	.	+	1	ID=fig|210.6438.peg.511;Name=Uncharacterized RNA pseudouridine synthase HP0956
+NZ_CP035106.1	FIG	CDS	499402	500256	.	+	1	ID=fig|210.6438.peg.512;Name=Prolipoprotein diacylglyceryl transferase
+NZ_CP035106.1	FIG	CDS	500253	500885	.	+	0	ID=fig|210.6438.peg.513;Name=Oxygen-insensitive NAD(P)H nitroreductase / Dihydropteridine reductase;Ontology_term=KEGG_ENZYME:1.-.-.-,KEGG_ENZYME:1.5.1.34
+NZ_CP035106.1	FIG	CDS	500951	501517	.	+	2	ID=fig|210.6438.peg.514;Name=putative
+NZ_CP035106.1	FIG	CDS	501519	502175	.	-	0	ID=fig|210.6438.peg.515;Name=Nicotinamide-nucleotide amidase;Ontology_term=KEGG_ENZYME:3.5.1.42
+NZ_CP035106.1	FIG	CDS	502186	502800	.	-	1	ID=fig|210.6438.peg.516;Name=FIG00710664: hypothetical protein
+NZ_CP035106.1	FIG	CDS	502881	503750	.	+	0	ID=fig|210.6438.peg.517;Name=Acetyl-coenzyme A carboxyl transferase beta chain;Ontology_term=KEGG_ENZYME:6.4.1.2
+NZ_CP035106.1	FIG	CDS	503764	504216	.	+	1	ID=fig|210.6438.peg.518;Name=23S rRNA (pseudouridine(1915)-N(3))-methyltransferase;Ontology_term=KEGG_ENZYME:2.1.1.177
+NZ_CP035106.1	FIG	CDS	504226	505239	.	+	1	ID=fig|210.6438.peg.519;Name=FIG00710279: hypothetical protein
+NZ_CP035106.1	FIG	CDS	505367	505513	.	-	2	ID=fig|210.6438.peg.520;Name=FIG00713460: hypothetical protein
+NZ_CP035106.1	FIG	CDS	505813	506172	.	-	1	ID=fig|210.6438.peg.521;Name=putative
+NZ_CP035106.1	FIG	CDS	506490	507980	.	-	0	ID=fig|210.6438.peg.522;Name=FIG00711099: hypothetical protein
+NZ_CP035106.1	FIG	CDS	508542	508841	.	-	0	ID=fig|210.6438.peg.523;Name=protein tRNA-associated locus protein
+NZ_CP035106.1	FIG	CDS	509265	509642	.	+	0	ID=fig|210.6438.peg.524;Name=RidA/YER057c/UK114 superfamily protein
+NZ_CP035106.1	FIG	CDS	509664	510896	.	+	0	ID=fig|210.6438.peg.525;Name=D-amino acid dehydrogenase;Ontology_term=KEGG_ENZYME:1.4.99.6
+NZ_CP035106.1	FIG	CDS	510937	512289	.	+	1	ID=fig|210.6438.peg.526;Name=D-alanine glycine permease DagA
+NZ_CP035106.1	FIG	CDS	512296	513429	.	+	1	ID=fig|210.6438.peg.527;Name=Alanine racemase;Ontology_term=KEGG_ENZYME:5.1.1.1
+NZ_CP035106.1	FIG	CDS	513500	514276	.	+	2	ID=fig|210.6438.peg.528;Name=putative AMINO ACID ABC TRANSPORTER%2C BINDING PROTEIN PRECURSOR
+NZ_CP035106.1	FIG	CDS	514260	514973	.	+	0	ID=fig|210.6438.peg.529;Name=ABC transporter%2C permease protein (cluster 3%2C basic aa/glutamine/opines)
+NZ_CP035106.1	FIG	CDS	515253	516479	.	+	0	ID=fig|210.6438.peg.530;Name=FIG00711094: hypothetical protein
+NZ_CP035106.1	FIG	CDS	517059	518228	.	+	0	ID=fig|210.6438.peg.531;Name=L-Proline/Glycine betaine transporter ProP
+NZ_CP035106.1	FIG	CDS	518361	520346	.	-	0	ID=fig|210.6438.peg.532;Name=Putative outer membrane protein
+NZ_CP035106.1	FIG	CDS	520567	521052	.	-	1	ID=fig|210.6438.peg.533;Name=putative
+NZ_CP035106.1	FIG	CDS	521063	521818	.	-	2	ID=fig|210.6438.peg.534;Name=7-carboxy-7-deazaguanine synthase;Ontology_term=KEGG_ENZYME:4.3.99.3
+NZ_CP035106.1	FIG	CDS	521815	522417	.	-	1	ID=fig|210.6438.peg.535;Name=6-carboxy-5%2C6%2C7%2C8-tetrahydropterin synthase;Ontology_term=KEGG_ENZYME:4.1.2.50
+NZ_CP035106.1	FIG	CDS	522421	523080	.	-	1	ID=fig|210.6438.peg.536;Name=putative
+NZ_CP035106.1	FIG	CDS	523077	523880	.	-	0	ID=fig|210.6438.peg.537;Name=5'-nucleotidase SurE;Ontology_term=KEGG_ENZYME:3.1.3.5
+NZ_CP035106.1	FIG	CDS	523877	524788	.	-	2	ID=fig|210.6438.peg.538;Name=(2E%2C6E)-farnesyl diphosphate synthase;Ontology_term=KEGG_ENZYME:2.5.1.10
+NZ_CP035106.1	FIG	CDS	524804	525346	.	-	2	ID=fig|210.6438.peg.539;Name=GTP cyclohydrolase I type 1;Ontology_term=KEGG_ENZYME:3.5.4.16
+NZ_CP035106.1	FIG	CDS	525347	526279	.	-	2	ID=fig|210.6438.peg.540;Name=Protease HtpX homolog
+NZ_CP035106.1	FIG	CDS	526266	527411	.	-	0	ID=fig|210.6438.peg.541;Name=tRNA pseudouridine(13) synthase;Ontology_term=KEGG_ENZYME:5.4.99.27
+NZ_CP035106.1	FIG	CDS	527408	527989	.	-	2	ID=fig|210.6438.peg.542;Name=Recombination protein RecR
+NZ_CP035106.1	FIG	CDS	528135	528341	.	+	0	ID=fig|210.6438.peg.543;Name=2-hydroxymuconate tautomerase-like protein
+NZ_CP035106.1	FIG	CDS	528399	529511	.	-	0	ID=fig|210.6438.peg.544;Name=Putative outer membrane protein
+NZ_CP035106.1	FIG	CDS	529563	536744	.	-	0	ID=fig|210.6438.peg.545;Name=putative vacuolating cytotoxin (VacA) paralog
+NZ_CP035106.1	FIG	CDS	536824	537822	.	-	1	ID=fig|210.6438.peg.546;Name=NAD-dependent glyceraldehyde-3-phosphate dehydrogenase;Ontology_term=KEGG_ENZYME:1.2.1.12
+NZ_CP035106.1	FIG	CDS	537966	538658	.	+	0	ID=fig|210.6438.peg.547;Name=Integral membrane protein
+NZ_CP035106.1	FIG	CDS	538753	542010	.	+	1	ID=fig|210.6438.peg.548;Name=Carbamoyl-phosphate synthase large chain;Ontology_term=KEGG_ENZYME:6.3.5.5
+NZ_CP035106.1	FIG	CDS	542010	542441	.	+	0	ID=fig|210.6438.peg.549;Name=Threonylcarbamoyl-AMP synthase;Ontology_term=KEGG_ENZYME:2.7.7.87
+NZ_CP035106.1	FIG	CDS	542619	543371	.	+	0	ID=fig|210.6438.peg.550;Name=putative IRON-REGULATED OUTER MEMBRANE PROTEIN
+NZ_CP035106.1	FIG	CDS	543371	545059	.	+	2	ID=fig|210.6438.peg.551;Name=putative IRON-REGULATED OUTER MEMBRANE PROTEIN
+NZ_CP035106.1	FIG	CDS	545305	546849	.	+	1	ID=fig|210.6438.peg.552;Name=Uncharacterized outer membrane protein HP0914
+NZ_CP035106.1	FIG	CDS	547392	548990	.	-	0	ID=fig|210.6438.peg.553;Name=Outer membrane protein/porin
+NZ_CP035106.1	FIG	CDS	549012	550565	.	-	0	ID=fig|210.6438.peg.554;Name=Outer membrane protein/porin
+NZ_CP035106.1	FIG	CDS	550696	550851	.	-	1	ID=fig|210.6438.peg.555;Name=hypothetical protein
+NZ_CP035106.1	FIG	CDS	551389	553416	.	-	1	ID=fig|210.6438.peg.556;Name=ATP-dependent DNA helicase UvrD/PcrA/Rep%2C epsilon proteobacterial type 1
+NZ_CP035106.1	FIG	CDS	553420	554559	.	-	1	ID=fig|210.6438.peg.557;Name=putative TYPE II DNA MODIFICATION ENZYME (METHYLTRANSFERASE)
+NZ_CP035106.1	FIG	CDS	554540	555175	.	-	2	ID=fig|210.6438.peg.558;Name=putative
+NZ_CP035106.1	FIG	CDS	555227	557044	.	-	2	ID=fig|210.6438.peg.559;Name=Flagellar hook protein FlgE
+NZ_CP035106.1	FIG	CDS	557041	557991	.	-	1	ID=fig|210.6438.peg.560;Name=Flagellar basal-body rod modification protein FlgD
+NZ_CP035106.1	FIG	CDS	558042	559616	.	-	0	ID=fig|210.6438.peg.561;Name=Flagellar hook-length control protein FliK
+NZ_CP035106.1	FIG	CDS	559850	561427	.	+	2	ID=fig|210.6438.peg.562;Name=BioD-like N-terminal domain / Phosphate acetyltransferase;Ontology_term=KEGG_ENZYME:2.3.1.8
+NZ_CP035106.1	FIG	CDS	561438	562643	.	+	0	ID=fig|210.6438.peg.563;Name=Acetate kinase;Ontology_term=KEGG_ENZYME:2.7.2.1
+NZ_CP035106.1	FIG	CDS	562654	562953	.	+	1	ID=fig|210.6438.peg.564;Name=FIG00710174: hypothetical protein
+NZ_CP035106.1	FIG	CDS	563205	563933	.	+	0	ID=fig|210.6438.peg.565;Name=[NiFe] hydrogenase nickel incorporation-associated protein HypB
+NZ_CP035106.1	FIG	CDS	563933	564169	.	+	2	ID=fig|210.6438.peg.566;Name=[NiFe] hydrogenase metallocenter assembly protein HypC
+NZ_CP035106.1	FIG	CDS	564197	565309	.	+	2	ID=fig|210.6438.peg.567;Name=[NiFe] hydrogenase metallocenter assembly protein HypD
+NZ_CP035106.1	FIG	CDS	565260	565877	.	-	0	ID=fig|210.6438.peg.568;Name=FIG00710752: hypothetical protein
+NZ_CP035106.1	FIG	CDS	566282	568519	.	+	2	ID=fig|210.6438.peg.569;Name=outer membrane protein (omp28)
+NZ_CP035106.1	FIG	CDS	568636	568824	.	-	1	ID=fig|210.6438.peg.570;Name=hypothetical protein
+NZ_CP035106.1	FIG	CDS	568920	569231	.	+	0	ID=fig|210.6438.peg.571;Name=FIG00710243: hypothetical protein
+NZ_CP035106.1	FIG	CDS	569224	569439	.	+	1	ID=fig|210.6438.peg.572;Name=YafQ toxin protein
+NZ_CP035106.1	FIG	CDS	569597	570121	.	-	2	ID=fig|210.6438.peg.573;Name=Acyl-CoA hydrolase;Ontology_term=KEGG_ENZYME:3.1.2.20
+NZ_CP035106.1	FIG	CDS	570261	571103	.	+	0	ID=fig|210.6438.peg.574;Name=Dehydrogenases with different specificities (related to short-chain alcohol dehydrogenases)
+NZ_CP035106.1	FIG	CDS	571096	572076	.	+	1	ID=fig|210.6438.peg.575;Name=ABC transporter%2C permease protein (cluster 8%2C B12/iron complex)
+NZ_CP035106.1	FIG	CDS	572076	572843	.	+	0	ID=fig|210.6438.peg.576;Name=Haemin uptake system ATP-binding protein
+NZ_CP035106.1	FIG	CDS	572904	575867	.	-	0	ID=fig|210.6438.peg.577;Name=vacuolating cytotoxin
+NZ_CP035106.1	FIG	CDS	575842	576852	.	-	1	ID=fig|210.6438.peg.578;Name=vacuolating cytotoxin
+NZ_CP035106.1	FIG	CDS	577075	578472	.	-	1	ID=fig|210.6438.peg.579;Name=Cysteinyl-tRNA synthetase;Ontology_term=KEGG_ENZYME:6.1.1.16
+NZ_CP035106.1	FIG	CDS	578473	579933	.	-	1	ID=fig|210.6438.peg.580;Name=Peptidoglycan lipid II flippase MurJ
+NZ_CP035106.1	FIG	CDS	580026	581870	.	+	0	ID=fig|210.6438.peg.581;Name=FIG00469647: hypothetical protein
+NZ_CP035106.1	FIG	CDS	581895	582446	.	+	0	ID=fig|210.6438.peg.582;Name=Holliday junction ATP-dependent DNA helicase RuvA;Ontology_term=KEGG_ENZYME:3.6.4.12
+NZ_CP035106.1	FIG	CDS	582600	582737	.	-	0	ID=fig|210.6438.peg.583;Name=hypothetical protein
+NZ_CP035106.1	FIG	CDS	583393	583560	.	-	1	ID=fig|210.6438.peg.584;Name=hypothetical protein
+NZ_CP035106.1	FIG	CDS	583756	584481	.	-	1	ID=fig|210.6438.peg.585;Name=putative
+NZ_CP035106.1	FIG	CDS	584612	585085	.	+	2	ID=fig|210.6438.peg.586;Name=Crossover junction endodeoxyribonuclease RuvC;Ontology_term=KEGG_ENZYME:3.1.22.4
+NZ_CP035106.1	FIG	CDS	585086	587464	.	-	2	ID=fig|210.6438.peg.587;Name=putative IRON-REGULATED OUTER MEMBRANE PROTEIN
+NZ_CP035106.1	FIG	CDS	587784	589301	.	+	0	ID=fig|210.6438.peg.588;Name=Catalase KatE;Ontology_term=KEGG_ENZYME:1.11.1.6
+NZ_CP035106.1	FIG	CDS	589452	590327	.	+	0	ID=fig|210.6438.peg.589;Name=putative
+NZ_CP035106.1	FIG	CDS	590412	590627	.	+	0	ID=fig|210.6438.peg.590;Name=putative
+NZ_CP035106.1	FIG	CDS	590685	591014	.	-	0	ID=fig|210.6438.peg.591;Name=Protein PhnA
+NZ_CP035106.1	FIG	CDS	591330	592064	.	+	0	ID=fig|210.6438.peg.592;Name=CDP-diacylglycerol pyrophosphatase;Ontology_term=KEGG_ENZYME:3.6.1.26
+NZ_CP035106.1	FIG	CDS	592267	594423	.	+	1	ID=fig|210.6438.peg.593;Name=Paralog of flagellar hook protein FlgE
+NZ_CP035106.1	FIG	CDS	594482	594835	.	+	2	ID=fig|210.6438.peg.594;Name=[NiFe] hydrogenase nickel incorporation protein HypA
+NZ_CP035106.1	FIG	CDS	594839	595300	.	+	2	ID=fig|210.6438.peg.595;Name=putative
+NZ_CP035106.1	FIG	CDS	595300	596382	.	+	1	ID=fig|210.6438.peg.596;Name=Lipid-A-disaccharide synthase;Ontology_term=KEGG_ENZYME:2.4.1.182
+NZ_CP035106.1	FIG	CDS	596423	596917	.	+	2	ID=fig|210.6438.peg.597;Name=Transcription elongation factor GreA
+NZ_CP035106.1	FIG	CDS	596907	597344	.	+	0	ID=fig|210.6438.peg.598;Name=Deoxyuridine 5'-triphosphate nucleotidohydrolase;Ontology_term=KEGG_ENZYME:3.6.1.23
+NZ_CP035106.1	FIG	CDS	597341	597997	.	+	2	ID=fig|210.6438.peg.599;Name=FIG00710542: hypothetical protein
+NZ_CP035106.1	FIG	CDS	597999	599648	.	+	0	ID=fig|210.6438.peg.600;Name=FIG00710332: hypothetical protein
+NZ_CP035106.1	FIG	CDS	599653	600318	.	+	1	ID=fig|210.6438.peg.601;Name=Pantothenate kinase type III%2C CoaX-like;Ontology_term=KEGG_ENZYME:2.7.1.33
+NZ_CP035106.1	FIG	CDS	600309	601046	.	+	0	ID=fig|210.6438.peg.602;Name=putative membrane protein
+NZ_CP035106.1	FIG	CDS	601033	601557	.	+	1	ID=fig|210.6438.peg.603;Name=D-glycero-beta-D-manno-heptose-1%2C7-bisphosphate 7-phosphatase;Ontology_term=KEGG_ENZYME:3.1.3.82
+NZ_CP035106.1	FIG	CDS	601566	602558	.	+	0	ID=fig|210.6438.peg.604;Name=ADP-L-glycero-D-manno-heptose-6-epimerase;Ontology_term=KEGG_ENZYME:5.1.3.20
+NZ_CP035106.1	FIG	CDS	602555	603940	.	+	2	ID=fig|210.6438.peg.605;Name=D-glycero-beta-D-manno-heptose 1-phosphate adenylyltransferase / D-glycero-beta-D-manno-heptose-7-phosphate kinase;Ontology_term=KEGG_ENZYME:2.7.7.70,KEGG_ENZYME:2.7.1.167
+NZ_CP035106.1	FIG	CDS	603933	604511	.	+	0	ID=fig|210.6438.peg.606;Name=D-sedoheptulose 7-phosphate isomerase;Ontology_term=KEGG_ENZYME:5.3.1.28
+NZ_CP035106.1	FIG	CDS	604521	604694	.	-	0	ID=fig|210.6438.peg.607;Name=hypothetical protein
+NZ_CP035106.1	FIG	CDS	604678	605655	.	-	1	ID=fig|210.6438.peg.608;Name=GMP reductase;Ontology_term=KEGG_ENZYME:1.7.1.7
+NZ_CP035106.1	FIG	CDS	605905	607506	.	+	1	ID=fig|210.6438.peg.609;Name=Bis-ABC ATPase YbiT
+NZ_CP035106.1	FIG	CDS	607503	608447	.	+	0	ID=fig|210.6438.peg.610;Name=HrgA protein
+NZ_CP035106.1	FIG	CDS	608456	609142	.	-	2	ID=fig|210.6438.peg.611;Name=putative membrane-associated phospholipid phosphatase%2C PAP2 superfamily
+NZ_CP035106.1	FIG	CDS	609322	610911	.	+	1	ID=fig|210.6438.peg.612;Name=Type I restriction-modification system%2C DNA-methyltransferase subunit M;Ontology_term=KEGG_ENZYME:2.1.1.72
+NZ_CP035106.1	FIG	CDS	610904	611566	.	+	2	ID=fig|210.6438.peg.613;Name=Type I restriction-modification system%2C specificity subunit S
+NZ_CP035106.1	FIG	CDS	611570	614572	.	+	2	ID=fig|210.6438.peg.614;Name=Type I restriction-modification system%2C restriction subunit R;Ontology_term=KEGG_ENZYME:3.1.21.3
+NZ_CP035106.1	FIG	CDS	614665	615444	.	+	1	ID=fig|210.6438.peg.615;Name=Hydroxyethylthiazole kinase;Ontology_term=KEGG_ENZYME:2.7.1.50
+NZ_CP035106.1	FIG	CDS	615441	616250	.	+	0	ID=fig|210.6438.peg.616;Name=Hydroxymethylpyrimidine kinase @ Hydroxymethylpyrimidine phosphate kinase ThiD;Ontology_term=KEGG_ENZYME:2.7.1.49,KEGG_ENZYME:2.7.4.7
+NZ_CP035106.1	FIG	CDS	616243	616902	.	+	1	ID=fig|210.6438.peg.617;Name=Thiamin-phosphate pyrophosphorylase;Ontology_term=KEGG_ENZYME:2.5.1.3
+NZ_CP035106.1	FIG	CDS	616957	617694	.	-	1	ID=fig|210.6438.peg.618;Name=FIG00710804: hypothetical protein
+NZ_CP035106.1	FIG	CDS	617694	618971	.	-	0	ID=fig|210.6438.peg.619;Name=Phosphopantothenoylcysteine decarboxylase / Phosphopantothenoylcysteine synthetase;Ontology_term=KEGG_ENZYME:4.1.1.36,KEGG_ENZYME:6.3.2.5
+NZ_CP035106.1	FIG	CDS	618968	619951	.	-	2	ID=fig|210.6438.peg.620;Name=UDP-N-acetylglucosamine 4%2C6-dehydratase (inverting);Ontology_term=KEGG_ENZYME:4.2.1.115
+NZ_CP035106.1	FIG	CDS	619966	621729	.	-	1	ID=fig|210.6438.peg.621;Name=outer membrane protein P1 (ompP1)
+NZ_CP035106.1	FIG	CDS	621726	622343	.	-	0	ID=fig|210.6438.peg.622;Name=putative
+NZ_CP035106.1	FIG	CDS	622362	622967	.	-	0	ID=fig|210.6438.peg.623;Name=Flagellar protein FlgP
+NZ_CP035106.1	FIG	CDS	623201	623335	.	-	2	ID=fig|210.6438.peg.624;Name=hypothetical protein
+NZ_CP035106.1	FIG	CDS	623571	623855	.	-	0	ID=fig|210.6438.peg.625;Name=DNA-binding protein HU
+NZ_CP035106.1	FIG	CDS	623997	625382	.	-	0	ID=fig|210.6438.peg.626;Name=GTP-binding protein EngA
+NZ_CP035106.1	FIG	CDS	625459	626343	.	+	1	ID=fig|210.6438.peg.627;Name=putative
+NZ_CP035106.1	FIG	CDS	626432	627220	.	+	2	ID=fig|210.6438.peg.628;Name=Spermidine synthase;Ontology_term=KEGG_ENZYME:2.5.1.16
+NZ_CP035106.1	FIG	CDS	627222	627812	.	+	0	ID=fig|210.6438.peg.629;Name=Dephospho-CoA kinase;Ontology_term=KEGG_ENZYME:2.7.1.24
+NZ_CP035106.1	FIG	CDS	627872	629233	.	+	2	ID=fig|210.6438.peg.630;Name=Aspartyl-tRNA(Asn) amidotransferase subunit A @ Glutamyl-tRNA(Gln) amidotransferase subunit A;Ontology_term=KEGG_ENZYME:6.3.5.6,KEGG_ENZYME:6.3.5.7
+NZ_CP035106.1	FIG	CDS	629243	630688	.	+	2	ID=fig|210.6438.peg.631;Name=Inosine-5'-monophosphate dehydrogenase / CBS domain;Ontology_term=KEGG_ENZYME:1.1.1.205
+NZ_CP035106.1	FIG	CDS	630798	631478	.	+	0	ID=fig|210.6438.peg.632;Name=ATP synthase F0 sector subunit a;Ontology_term=KEGG_ENZYME:3.6.3.14
+NZ_CP035106.1	FIG	CDS	631794	632042	.	+	0	ID=fig|210.6438.peg.633;Name=RNA-binding protein
+NZ_CP035106.1	FIG	CDS	632246	633067	.	-	2	ID=fig|210.6438.peg.634;Name=beta-1%2C4-galactosyltransferase
+NZ_CP035106.1	FIG	CDS	633088	633204	.	-	1	ID=fig|210.6438.peg.635;Name=FIG00712801: hypothetical protein
+NZ_CP035106.1	FIG	CDS	633235	634170	.	-	1	ID=fig|210.6438.peg.636;Name=Thioredoxin reductase;Ontology_term=KEGG_ENZYME:1.8.1.9
+NZ_CP035106.1	FIG	CDS	634176	634496	.	-	0	ID=fig|210.6438.peg.637;Name=Thioredoxin
+NZ_CP035106.1	FIG	CDS	634585	634929	.	-	1	ID=fig|210.6438.peg.638;Name=UPF0102 protein YraN
+NZ_CP035106.1	FIG	CDS	634930	636195	.	-	1	ID=fig|210.6438.peg.639;Name=Homoserine dehydrogenase;Ontology_term=KEGG_ENZYME:1.1.1.3
+NZ_CP035106.1	FIG	CDS	636206	637990	.	-	2	ID=fig|210.6438.peg.640;Name=Excinuclease ABC subunit C
+NZ_CP035106.1	FIG	CDS	637991	638452	.	-	2	ID=fig|210.6438.peg.641;Name=FIG00710422: hypothetical protein
+NZ_CP035106.1	FIG	CDS	638444	638623	.	+	2	ID=fig|210.6438.peg.642;Name=FIG00710748: hypothetical protein
+NZ_CP035106.1	FIG	CDS	638635	639276	.	-	1	ID=fig|210.6438.peg.643;Name=ABC transporter%2C ATP-binding protein (cluster 13%2C osmolytes)
+NZ_CP035106.1	FIG	CDS	639280	640941	.	-	1	ID=fig|210.6438.peg.644;Name=ABC transporter%2C permease protein (cluster 13%2C osmolytes) / ABC transporter%2C substrate-binding protein (cluster 13%2C osmolytes)
+NZ_CP035106.1	FIG	CDS	641057	642769	.	+	2	ID=fig|210.6438.peg.645;Name=Type III restriction-modification system methylation subunit;Ontology_term=KEGG_ENZYME:2.1.1.72
+NZ_CP035106.1	FIG	CDS	642795	643310	.	+	0	ID=fig|210.6438.peg.646;Name=Type III restriction-modification system methylation subunit;Ontology_term=KEGG_ENZYME:2.1.1.72
+NZ_CP035106.1	FIG	CDS	643765	644247	.	+	1	ID=fig|210.6438.peg.647;Name=type II restriction endonuclease
+NZ_CP035106.1	FIG	CDS	644250	644999	.	+	0	ID=fig|210.6438.peg.648;Name=DNA adenine methylase;Ontology_term=KEGG_ENZYME:2.1.1.72
+NZ_CP035106.1	FIG	CDS	645111	646823	.	+	0	ID=fig|210.6438.peg.649;Name=Type III restriction-modification system methylation subunit;Ontology_term=KEGG_ENZYME:2.1.1.72
+NZ_CP035106.1	FIG	CDS	646849	647364	.	+	1	ID=fig|210.6438.peg.650;Name=Type III restriction-modification system methylation subunit;Ontology_term=KEGG_ENZYME:2.1.1.72
+NZ_CP035106.1	FIG	CDS	647374	650283	.	+	1	ID=fig|210.6438.peg.651;Name=type III restriction enzyme R protein
+NZ_CP035106.1	FIG	CDS	650303	650740	.	-	2	ID=fig|210.6438.peg.652;Name=FIG00710449: hypothetical protein
+NZ_CP035106.1	FIG	CDS	650744	651511	.	-	2	ID=fig|210.6438.peg.653;Name=Flagellar motor rotation protein MotB
+NZ_CP035106.1	FIG	CDS	651514	652287	.	-	1	ID=fig|210.6438.peg.654;Name=Flagellar motor rotation protein MotA
+NZ_CP035106.1	FIG	CDS	652303	653070	.	-	1	ID=fig|210.6438.peg.655;Name=Sulfur carrier protein ThiS adenylyltransferase;Ontology_term=KEGG_ENZYME:2.7.7.73
+NZ_CP035106.1	FIG	CDS	653071	653688	.	-	1	ID=fig|210.6438.peg.656;Name=MBL-fold metallo-hydrolase superfamily
+NZ_CP035106.1	FIG	CDS	653821	654828	.	+	1	ID=fig|210.6438.peg.657;Name=SAM-dependent methyltransferase%2C MidA
+NZ_CP035106.1	FIG	CDS	654997	655122	.	+	1	ID=fig|210.6438.peg.658;Name=hypothetical protein
+NZ_CP035106.1	FIG	CDS	655246	655572	.	+	1	ID=fig|210.6438.peg.659;Name=Dihydroneopterin aldolase;Ontology_term=KEGG_ENZYME:4.1.2.25
+NZ_CP035106.1	FIG	CDS	655551	656153	.	+	0	ID=fig|210.6438.peg.660;Name=16S rRNA (guanine(966)-N(2))-methyltransferase;Ontology_term=KEGG_ENZYME:2.1.1.171
+NZ_CP035106.1	FIG	CDS	656162	656713	.	+	2	ID=fig|210.6438.peg.661;Name=Flagellar basal body-associated protein FliL
+NZ_CP035106.1	FIG	CDS	656720	657076	.	+	2	ID=fig|210.6438.peg.662;Name=Holo-[acyl-carrier-protein] synthase;Ontology_term=KEGG_ENZYME:2.7.8.7
+NZ_CP035106.1	FIG	CDS	657257	659620	.	+	2	ID=fig|210.6438.peg.663;Name=Iron(III) dicitrate transport protein FecA
+NZ_CP035106.1	FIG	CDS	659631	660245	.	-	0	ID=fig|210.6438.peg.664;Name=Zinc metalloprotease
+NZ_CP035106.1	FIG	CDS	660327	661163	.	+	0	ID=fig|210.6438.peg.665;Name=Beta-1%2C4-galactosyltransferase
+NZ_CP035106.1	FIG	CDS	661246	662280	.	+	1	ID=fig|210.6438.peg.666;Name=3%2C4-dihydroxy-2-butanone 4-phosphate synthase / GTP cyclohydrolase II;Ontology_term=KEGG_ENZYME:4.1.99.12,KEGG_ENZYME:3.5.4.25
+NZ_CP035106.1	FIG	CDS	662358	662495	.	+	0	ID=fig|210.6438.peg.667;Name=FIG00711719: hypothetical protein
+NZ_CP035106.1	FIG	CDS	662461	663207	.	+	1	ID=fig|210.6438.peg.668;Name=Ubiquitin-protein ligase
+NZ_CP035106.1	FIG	CDS	663327	663905	.	+	0	ID=fig|210.6438.peg.669;Name=GTP cyclohydrolase II;Ontology_term=KEGG_ENZYME:3.5.4.25
+NZ_CP035106.1	FIG	CDS	664190	664627	.	+	2	ID=fig|210.6438.peg.670;Name=Molybdopterin synthase catalytic subunit MoaE;Ontology_term=KEGG_ENZYME:2.8.1.12
+NZ_CP035106.1	FIG	CDS	664733	665170	.	+	2	ID=fig|210.6438.peg.671;Name=Molybdopterin adenylyltransferase;Ontology_term=KEGG_ENZYME:2.7.7.75
+NZ_CP035106.1	FIG	CDS	665179	665655	.	+	1	ID=fig|210.6438.peg.672;Name=Cyclic pyranopterin monophosphate synthase;Ontology_term=KEGG_ENZYME:4.6.1.17
+NZ_CP035106.1	FIG	CDS	665774	666556	.	+	2	ID=fig|210.6438.peg.673;Name=flagellar sheath adhesin hpaA
+NZ_CP035106.1	FIG	CDS	666581	667417	.	+	2	ID=fig|210.6438.peg.674;Name=Putative outer membrane protein
+NZ_CP035106.1	FIG	CDS	667530	668885	.	+	0	ID=fig|210.6438.peg.675;Name=Cell division trigger factor;Ontology_term=KEGG_ENZYME:5.2.1.8
+NZ_CP035106.1	FIG	CDS	668906	669493	.	+	2	ID=fig|210.6438.peg.676;Name=ATP-dependent Clp protease proteolytic subunit ClpP;Ontology_term=KEGG_ENZYME:3.4.21.92
+NZ_CP035106.1	FIG	CDS	669498	670025	.	+	0	ID=fig|210.6438.peg.677;Name=Peptide deformylase;Ontology_term=KEGG_ENZYME:3.5.1.88
+NZ_CP035106.1	FIG	CDS	670028	671548	.	+	2	ID=fig|210.6438.peg.678;Name=AAA+ ATPase superfamily protein YifB/ComM%2C associated with DNA recombination
+NZ_CP035106.1	FIG	CDS	671573	673633	.	+	2	ID=fig|210.6438.peg.679;Name=Cadmium-exporting ATPase @ Zinc-exporting ATPase @ Co(II)-exporting ATPase;Ontology_term=KEGG_ENZYME:3.6.3.3,KEGG_ENZYME:3.6.3.5
+NZ_CP035106.1	FIG	CDS	673669	675000	.	+	1	ID=fig|210.6438.peg.680;Name=Type I restriction-modification system%2C specificity subunit S
+NZ_CP035106.1	FIG	CDS	675392	676891	.	-	2	ID=fig|210.6438.peg.681;Name=Uncharacterized outer membrane protein HP0788
+NZ_CP035106.1	FIG	CDS	677170	678402	.	-	1	ID=fig|210.6438.peg.682;Name=Lipoprotein releasing system transmembrane protein LolC/LolE
+NZ_CP035106.1	FIG	CDS	678392	680989	.	-	2	ID=fig|210.6438.peg.683;Name=Protein translocase subunit SecA
+NZ_CP035106.1	FIG	CDS	681135	681689	.	+	0	ID=fig|210.6438.peg.684;Name=Outer membrane lipoprotein carrier protein LolA
+NZ_CP035106.1	FIG	CDS	682182	682709	.	+	0	ID=fig|210.6438.peg.685;Name=putative
+NZ_CP035106.1	FIG	CDS	682716	683480	.	-	0	ID=fig|210.6438.peg.686;Name=Uncharacterized outer membrane protein HP0782
+NZ_CP035106.1	FIG	CDS	683508	684083	.	-	0	ID=fig|210.6438.peg.687;Name=Uncharacterized outer membrane protein HP0782
+NZ_CP035106.1	FIG	CDS	684174	685472	.	-	0	ID=fig|210.6438.peg.688;Name=Uncharacterized periplasmic protein HP0781
+NZ_CP035106.1	FIG	CDS	685727	685996	.	-	2	ID=fig|210.6438.peg.689;Name=FIG00710694: hypothetical protein
+NZ_CP035106.1	FIG	CDS	686073	688631	.	-	0	ID=fig|210.6438.peg.690;Name=Aconitate hydratase 2;Ontology_term=KEGG_ENZYME:4.2.1.3
+NZ_CP035106.1	FIG	CDS	688771	689454	.	+	1	ID=fig|210.6438.peg.691;Name=Chorismate dehydratase;Ontology_term=KEGG_ENZYME:4.2.1.151
+NZ_CP035106.1	FIG	CDS	689561	690283	.	+	2	ID=fig|210.6438.peg.692;Name=Uridylate kinase;Ontology_term=KEGG_ENZYME:2.7.4.22
+NZ_CP035106.1	FIG	CDS	690326	690550	.	+	2	ID=fig|210.6438.peg.693;Name=DNA-directed RNA polymerase omega subunit;Ontology_term=KEGG_ENZYME:2.7.7.6
+NZ_CP035106.1	FIG	CDS	690537	692864	.	+	0	ID=fig|210.6438.peg.694;Name=Guanosine-3'%2C5'-bis(diphosphate) 3'-pyrophosphohydrolase / GTP pyrophosphokinase%2C (p)ppGpp synthetase II;Ontology_term=KEGG_ENZYME:3.1.7.2,KEGG_ENZYME:2.7.6.5
+NZ_CP035106.1	FIG	CDS	692888	694096	.	+	2	ID=fig|210.6438.peg.695;Name=Tyrosyl-tRNA synthetase;Ontology_term=KEGG_ENZYME:6.1.1.1
+NZ_CP035106.1	FIG	CDS	694107	695198	.	+	0	ID=fig|210.6438.peg.696;Name=UFA synthesis enzyme FabX%2C enoyl-[ACP] 2%2C3-dehydrogenase/trans-2-decenoyl-[ACP] isomerase
+NZ_CP035106.1	FIG	CDS	695205	696512	.	+	0	ID=fig|210.6438.peg.697;Name=N-acetylmuramoyl-L-alanine amidase;Ontology_term=KEGG_ENZYME:3.5.1.28
+NZ_CP035106.1	FIG	CDS	696531	697268	.	+	0	ID=fig|210.6438.peg.698;Name=putative
+NZ_CP035106.1	FIG	CDS	697355	698431	.	-	2	ID=fig|210.6438.peg.699;Name=Flagellar biosynthesis protein FlhB
+NZ_CP035106.1	FIG	CDS	698424	699029	.	-	0	ID=fig|210.6438.peg.700;Name=Molybdenum cofactor guanylyltransferase;Ontology_term=KEGG_ENZYME:2.7.7.77
+NZ_CP035106.1	FIG	CDS	699115	699342	.	+	1	ID=fig|210.6438.peg.701;Name=GTP 3'%2C8-cyclase;Ontology_term=KEGG_ENZYME:4.1.99.22
+NZ_CP035106.1	FIG	CDS	699386	699619	.	+	2	ID=fig|210.6438.peg.702;Name=GTP 3'%2C8-cyclase;Ontology_term=KEGG_ENZYME:4.1.99.22
+NZ_CP035106.1	FIG	CDS	699673	700074	.	+	1	ID=fig|210.6438.peg.703;Name=GTP 3'%2C8-cyclase;Ontology_term=KEGG_ENZYME:4.1.99.22
+NZ_CP035106.1	FIG	CDS	700459	700800	.	+	1	ID=fig|210.6438.peg.704;Name=FIG00711245: hypothetical protein
+NZ_CP035106.1	FIG	CDS	700757	701170	.	+	2	ID=fig|210.6438.peg.705;Name=FIG00711245: hypothetical protein
+NZ_CP035106.1	FIG	CDS	701181	701462	.	+	0	ID=fig|210.6438.peg.706;Name=FIG00711910: hypothetical protein
+NZ_CP035106.1	FIG	CDS	701842	702519	.	+	1	ID=fig|210.6438.peg.707;Name=FIG00710873: hypothetical protein
+NZ_CP035106.1	FIG	CDS	702578	702892	.	+	2	ID=fig|210.6438.peg.708;Name=FIG00710873: hypothetical protein
+NZ_CP035106.1	FIG	CDS	702901	703794	.	-	1	ID=fig|210.6438.peg.709;Name=Signal recognition particle receptor FtsY
+NZ_CP035106.1	FIG	CDS	703801	704358	.	-	1	ID=fig|210.6438.peg.710;Name=putative
+NZ_CP035106.1	FIG	CDS	704483	705130	.	+	2	ID=fig|210.6438.peg.711;Name=5-formyltetrahydrofolate cyclo-ligase;Ontology_term=KEGG_ENZYME:6.3.3.2
+NZ_CP035106.1	FIG	CDS	705108	706619	.	+	0	ID=fig|210.6438.peg.712;Name=Ribonuclease Y
+NZ_CP035106.1	FIG	CDS	706620	707873	.	-	0	ID=fig|210.6438.peg.713;Name=Na+-driven multidrug efflux pump
+NZ_CP035106.1	FIG	CDS	707936	709249	.	-	2	ID=fig|210.6438.peg.714;Name=Histidine permease YuiF
+NZ_CP035106.1	FIG	CDS	709384	710262	.	-	1	ID=fig|210.6438.peg.715;Name=N-carbamoylputrescine amidase;Ontology_term=KEGG_ENZYME:3.5.1.53
+NZ_CP035106.1	FIG	CDS	710266	710412	.	-	1	ID=fig|210.6438.peg.716;Name=hypothetical protein
+NZ_CP035106.1	FIG	CDS	710441	711100	.	-	2	ID=fig|210.6438.peg.717;Name=Molybdopterin biosynthesis MoeB protein
+NZ_CP035106.1	FIG	CDS	711153	711392	.	-	0	ID=fig|210.6438.peg.718;Name=putative
+NZ_CP035106.1	FIG	CDS	711379	711759	.	-	1	ID=fig|210.6438.peg.719;Name=Flagellar biosynthesis protein FliS
+NZ_CP035106.1	FIG	CDS	711807	713864	.	-	0	ID=fig|210.6438.peg.720;Name=Flagellar cap protein FliD
+NZ_CP035106.1	FIG	CDS	713881	714252	.	-	1	ID=fig|210.6438.peg.721;Name=Flagellar protein FlaG
+NZ_CP035106.1	FIG	CDS	714336	715538	.	-	0	ID=fig|210.6438.peg.722;Name=Murein hydrolase activator EnvC
+NZ_CP035106.1	FIG	CDS	715531	716337	.	-	1	ID=fig|210.6438.peg.723;Name=Cell-division-associated%2C ABC-transporter-like signaling protein FtsX
+NZ_CP035106.1	FIG	CDS	716324	716995	.	-	2	ID=fig|210.6438.peg.724;Name=Cell-division-associated%2C ABC-transporter-like signaling protein FtsE
+NZ_CP035106.1	FIG	CDS	716995	718173	.	-	1	ID=fig|210.6438.peg.725;Name=tRNA (guanine(46)-N(7))-methyltransferase;Ontology_term=KEGG_ENZYME:2.1.1.33
+NZ_CP035106.1	FIG	CDS	718184	719443	.	-	2	ID=fig|210.6438.peg.726;Name=Putative fibronectin domain-containing lipoprotein
+NZ_CP035106.1	FIG	CDS	719394	720377	.	-	0	ID=fig|210.6438.peg.727;Name=LSU rRNA pseudouridine(1911/1915/1917) synthase;Ontology_term=KEGG_ENZYME:5.4.99.23
+NZ_CP035106.1	FIG	CDS	720573	721274	.	+	0	ID=fig|210.6438.peg.728;Name=FIG00711290: hypothetical protein
+NZ_CP035106.1	FIG	CDS	721271	721399	.	+	2	ID=fig|210.6438.peg.729;Name=FIG00711290: hypothetical protein
+NZ_CP035106.1	FIG	CDS	721416	722561	.	+	0	ID=fig|210.6438.peg.730;Name=Rod shape-determining protein RodA
+NZ_CP035106.1	FIG	CDS	722636	723592	.	-	2	ID=fig|210.6438.peg.731;Name=Ribose-phosphate pyrophosphokinase;Ontology_term=KEGG_ENZYME:2.7.6.1
+NZ_CP035106.1	FIG	CDS	723657	724142	.	-	0	ID=fig|210.6438.peg.732;Name=HIT family protein
+NZ_CP035106.1	FIG	CDS	724152	725633	.	-	0	ID=fig|210.6438.peg.733;Name=UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase;Ontology_term=KEGG_ENZYME:6.3.2.10
+NZ_CP035106.1	FIG	CDS	725620	726345	.	-	1	ID=fig|210.6438.peg.734;Name=2-hydroxy-6-oxohepta-2%2C4-dienoate hydrolase
+NZ_CP035106.1	FIG	CDS	726345	727415	.	-	0	ID=fig|210.6438.peg.735;Name=D-alanine--D-alanine ligase;Ontology_term=KEGG_ENZYME:6.3.2.4
+NZ_CP035106.1	FIG	CDS	727466	727942	.	-	2	ID=fig|210.6438.peg.736;Name=Phosphatidylglycerophosphatase A;Ontology_term=KEGG_ENZYME:3.1.3.27
+NZ_CP035106.1	FIG	CDS	728090	729199	.	+	2	ID=fig|210.6438.peg.737;Name=Phosphoserine aminotransferase;Ontology_term=KEGG_ENZYME:2.6.1.52
+NZ_CP035106.1	FIG	CDS	729208	729669	.	+	1	ID=fig|210.6438.peg.738;Name=Xanthine-guanine phosphoribosyltransferase;Ontology_term=KEGG_ENZYME:2.4.2.22
+NZ_CP035106.1	FIG	CDS	729671	730990	.	+	2	ID=fig|210.6438.peg.739;Name=Ribosomal protein S12p Asp88 (E. coli) methylthiotransferase;Ontology_term=KEGG_ENZYME:2.8.4.4
+NZ_CP035106.1	FIG	CDS	731077	731727	.	+	1	ID=fig|210.6438.peg.740;Name=FIG00710468: hypothetical protein
+NZ_CP035106.1	FIG	CDS	731810	732037	.	+	2	ID=fig|210.6438.peg.741;Name=FIG00710468: hypothetical protein
+NZ_CP035106.1	FIG	CDS	732306	732461	.	+	0	ID=fig|210.6438.peg.742;Name=FIG00711365: hypothetical protein
+NZ_CP035106.1	FIG	CDS	732470	733261	.	+	2	ID=fig|210.6438.peg.743;Name=FIG00711365: hypothetical protein
+NZ_CP035106.1	FIG	CDS	733369	733674	.	+	1	ID=fig|210.6438.peg.744;Name=FIG00711128: hypothetical protein
+NZ_CP035106.1	FIG	CDS	733683	733955	.	+	0	ID=fig|210.6438.peg.745;Name=FIG00710232: hypothetical protein
+NZ_CP035106.1	FIG	CDS	733966	734745	.	+	1	ID=fig|210.6438.peg.746;Name=FIG00710232: hypothetical protein
+NZ_CP035106.1	FIG	CDS	734768	735799	.	+	2	ID=fig|210.6438.peg.747;Name=tRNA(Ile)-lysidine synthetase;Ontology_term=KEGG_ENZYME:6.3.4.19
+NZ_CP035106.1	FIG	CDS	735893	736879	.	+	2	ID=fig|210.6438.peg.748;Name=tRNA-dihydrouridine synthase DusB
+NZ_CP035106.1	FIG	CDS	736876	737766	.	+	1	ID=fig|210.6438.peg.749;Name=FIG00710886: hypothetical protein
+NZ_CP035106.1	FIG	CDS	737992	739944	.	+	1	ID=fig|210.6438.peg.750;Name=Outer membrane protein
+NZ_CP035106.1	FIG	CDS	740018	741349	.	-	2	ID=fig|210.6438.peg.751;Name=Anaerobic C4-dicarboxylate transporter DcuA
+NZ_CP035106.1	FIG	CDS	741425	742477	.	+	2	ID=fig|210.6438.peg.752;Name=L-asparaginase;Ontology_term=KEGG_ENZYME:3.5.1.1
+NZ_CP035106.1	FIG	CDS	742486	742668	.	-	1	ID=fig|210.6438.peg.753;Name=hypothetical protein
+NZ_CP035106.1	FIG	CDS	742754	743212	.	-	2	ID=fig|210.6438.peg.754;Name=FIG00710796: hypothetical protein
+NZ_CP035106.1	FIG	CDS	743241	743663	.	-	0	ID=fig|210.6438.peg.755;Name=FIG00710111: hypothetical protein
+NZ_CP035106.1	FIG	CDS	743914	744546	.	+	1	ID=fig|210.6438.peg.756;Name=Transporter%2C LysE family
+NZ_CP035106.1	FIG	CDS	744615	746309	.	+	0	ID=fig|210.6438.peg.757;Name=DNA polymerase III subunits gamma and tau;Ontology_term=KEGG_ENZYME:2.7.7.7
+NZ_CP035106.1	FIG	CDS	746306	746707	.	+	2	ID=fig|210.6438.peg.758;Name=tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+NZ_CP035106.1	FIG	CDS	746720	747442	.	+	2	ID=fig|210.6438.peg.759;Name=Lipopolysaccharide ABC transporter%2C ATP-binding protein LptB
+NZ_CP035106.1	FIG	CDS	747445	748689	.	+	1	ID=fig|210.6438.peg.760;Name=RNA polymerase sigma-54 factor RpoN
+NZ_CP035106.1	FIG	CDS	748774	748905	.	-	1	ID=fig|210.6438.peg.761;Name=FIG00710466: hypothetical protein
+NZ_CP035106.1	FIG	CDS	749084	749998	.	+	2	ID=fig|210.6438.peg.762;Name=putative Outer membrane protein
+NZ_CP035106.1	FIG	CDS	750101	750781	.	-	2	ID=fig|210.6438.peg.763;Name=7-cyano-7-deazaguanine synthase;Ontology_term=KEGG_ENZYME:6.3.4.20
+NZ_CP035106.1	FIG	CDS	750843	752066	.	+	0	ID=fig|210.6438.peg.764;Name=CCA tRNA nucleotidyltransferase;Ontology_term=KEGG_ENZYME:2.7.7.72
+NZ_CP035106.1	FIG	CDS	752191	752844	.	+	1	ID=fig|210.6438.peg.765;Name=Oxygen-insensitive NAD(P)H nitroreductase / Dihydropteridine reductase;Ontology_term=KEGG_ENZYME:1.-.-.-,KEGG_ENZYME:1.5.1.34
+NZ_CP035106.1	FIG	CDS	753010	754329	.	+	1	ID=fig|210.6438.peg.766;Name=Glutamyl-tRNA(Gln) synthetase;Ontology_term=KEGG_ENZYME:6.1.1.24
+NZ_CP035106.1	FIG	CDS	754326	754619	.	+	0	ID=fig|210.6438.peg.767;Name=Cell division integral membrane protein%2C YggT and half-length relatives
+NZ_CP035106.1	FIG	CDS	754589	756310	.	+	2	ID=fig|210.6438.peg.768;Name=Soluble lytic murein transglycosylase (EC 4.2.2.n1)
+NZ_CP035106.1	FIG	CDS	756307	757128	.	+	1	ID=fig|210.6438.peg.769;Name=UTP--glucose-1-phosphate uridylyltransferase;Ontology_term=KEGG_ENZYME:2.7.7.9
+NZ_CP035106.1	FIG	CDS	757140	757547	.	+	0	ID=fig|210.6438.peg.770;Name=putative
+NZ_CP035106.1	FIG	CDS	757550	758818	.	+	2	ID=fig|210.6438.peg.771;Name=UDP-N-acetylglucosamine 1-carboxyvinyltransferase;Ontology_term=KEGG_ENZYME:2.5.1.7
+NZ_CP035106.1	FIG	CDS	758873	760279	.	+	2	ID=fig|210.6438.peg.772;Name=Aspartate ammonia-lyase;Ontology_term=KEGG_ENZYME:4.3.1.1
+NZ_CP035106.1	FIG	CDS	760285	760914	.	+	1	ID=fig|210.6438.peg.773;Name=putative
+NZ_CP035106.1	FIG	CDS	760923	762227	.	-	0	ID=fig|210.6438.peg.774;Name=Alpha-(1%2C3/1%2C4)-L-fucosyltransferase
+NZ_CP035106.1	FIG	CDS	762266	762889	.	-	2	ID=fig|210.6438.peg.775;Name=Phosphoserine phosphatase;Ontology_term=KEGG_ENZYME:3.1.3.3
+NZ_CP035106.1	FIG	CDS	762905	763408	.	-	2	ID=fig|210.6438.peg.776;Name=Bacterial non-heme ferritin;Ontology_term=KEGG_ENZYME:1.16.3.2
+NZ_CP035106.1	FIG	CDS	763717	764799	.	+	1	ID=fig|210.6438.peg.777;Name=Aminodeoxyfutalosine synthase;Ontology_term=KEGG_ENZYME:2.5.1.120
+NZ_CP035106.1	FIG	CDS	764825	767602	.	+	2	ID=fig|210.6438.peg.778;Name=Outer membrane protein assembly factor YaeT
+NZ_CP035106.1	FIG	CDS	767604	768665	.	+	0	ID=fig|210.6438.peg.779;Name=Cyclic dehypoxanthine futalosine synthase;Ontology_term=KEGG_ENZYME:1.21.98.1
+NZ_CP035106.1	FIG	CDS	768671	769969	.	+	2	ID=fig|210.6438.peg.780;Name=FIG015287: Zinc protease
+NZ_CP035106.1	FIG	CDS	769969	771393	.	+	1	ID=fig|210.6438.peg.781;Name=Aspartyl-tRNA(Asn) amidotransferase subunit B @ Glutamyl-tRNA(Gln) amidotransferase subunit B;Ontology_term=KEGG_ENZYME:6.3.5.6,KEGG_ENZYME:6.3.5.7
+NZ_CP035106.1	FIG	CDS	771393	772628	.	+	0	ID=fig|210.6438.peg.782;Name=putative
+NZ_CP035106.1	FIG	CDS	772639	773646	.	+	1	ID=fig|210.6438.peg.783;Name=Putative periplasmic protein
+NZ_CP035106.1	FIG	CDS	773647	774111	.	+	1	ID=fig|210.6438.peg.784;Name=Ribonuclease HI;Ontology_term=KEGG_ENZYME:3.1.26.4
+NZ_CP035106.1	FIG	CDS	774086	774805	.	+	2	ID=fig|210.6438.peg.785;Name=Ribonuclease III;Ontology_term=KEGG_ENZYME:3.1.26.3
+NZ_CP035106.1	FIG	CDS	774802	775899	.	+	1	ID=fig|210.6438.peg.786;Name=Chorismate synthase;Ontology_term=KEGG_ENZYME:4.2.3.5
+NZ_CP035106.1	FIG	CDS	775937	776452	.	+	2	ID=fig|210.6438.peg.787;Name=FIG00710372: hypothetical protein
+NZ_CP035106.1	FIG	CDS	776452	777825	.	+	1	ID=fig|210.6438.peg.788;Name=Coproporphyrinogen III oxidase%2C oxygen-independent;Ontology_term=KEGG_ENZYME:1.3.99.22
+NZ_CP035106.1	FIG	CDS	777822	779111	.	+	0	ID=fig|210.6438.peg.789;Name=Putative oxidoreductase ferredoxin-type protein%2C clusters with CPO
+NZ_CP035106.1	FIG	CDS	779189	779839	.	+	2	ID=fig|210.6438.peg.790;Name=FIG00711568: hypothetical protein
+NZ_CP035106.1	FIG	CDS	779826	780059	.	+	0	ID=fig|210.6438.peg.791;Name=FIG00711568: hypothetical protein
+NZ_CP035106.1	FIG	CDS	780056	783238	.	+	2	ID=fig|210.6438.peg.792;Name=FIG00710500: hypothetical protein
+NZ_CP035106.1	FIG	CDS	783482	784294	.	+	2	ID=fig|210.6438.peg.793;Name=Putative outer membrane protein
+NZ_CP035106.1	FIG	CDS	784453	785625	.	+	1	ID=fig|210.6438.peg.794;Name=Aspartate aminotransferase;Ontology_term=KEGG_ENZYME:2.6.1.1
+NZ_CP035106.1	FIG	CDS	785754	786185	.	+	0	ID=fig|210.6438.peg.795;Name=FIG00710818: hypothetical protein
+NZ_CP035106.1	FIG	CDS	786206	787273	.	+	2	ID=fig|210.6438.peg.796;Name=integrase/recombinase XerD
+NZ_CP035106.1	FIG	CDS	787335	787841	.	-	0	ID=fig|210.6438.peg.797;Name=Methylated-DNA--protein-cysteine methyltransferase;Ontology_term=KEGG_ENZYME:2.1.1.63
+NZ_CP035106.1	FIG	CDS	787845	788612	.	-	0	ID=fig|210.6438.peg.798;Name=Integral membrane protein
+NZ_CP035106.1	FIG	CDS	788726	789673	.	-	2	ID=fig|210.6438.peg.799;Name=UDP-2-acetamido-2-deoxy-D-glucuronic acid dehydrogenase (NAD+);Ontology_term=KEGG_ENZYME:1.1.1.335
+NZ_CP035106.1	FIG	CDS	789735	792101	.	-	0	ID=fig|210.6438.peg.800;Name=Ribonucleotide reductase of class Ia (aerobic)%2C alpha subunit;Ontology_term=KEGG_ENZYME:1.17.4.1
+NZ_CP035106.1	FIG	CDS	792266	792772	.	-	2	ID=fig|210.6438.peg.801;Name=FIG00711058: hypothetical protein
+NZ_CP035106.1	FIG	CDS	792812	793132	.	-	2	ID=fig|210.6438.peg.802;Name=FIG00710147: hypothetical protein
+NZ_CP035106.1	FIG	CDS	793335	794636	.	-	0	ID=fig|210.6438.peg.803;Name=N-acetylglucosamine-1-phosphate uridyltransferase / Glucosamine-1-phosphate N-acetyltransferase;Ontology_term=KEGG_ENZYME:2.7.7.23,KEGG_ENZYME:2.3.1.157
+NZ_CP035106.1	FIG	CDS	794623	794745	.	+	1	ID=fig|210.6438.peg.804;Name=Flagellar biosynthesis protein FliP
+NZ_CP035106.1	FIG	CDS	794724	795470	.	+	0	ID=fig|210.6438.peg.805;Name=Flagellar biosynthesis protein FliP
+NZ_CP035106.1	FIG	CDS	795510	797813	.	-	0	ID=fig|210.6438.peg.806;Name=Iron(III) dicitrate transport protein FecA
+NZ_CP035106.1	FIG	CDS	798055	799983	.	-	1	ID=fig|210.6438.peg.807;Name=Ferrous iron transporter FeoB
+NZ_CP035106.1	FIG	CDS	800120	800932	.	+	2	ID=fig|210.6438.peg.808;Name=Polysaccharide biosynthesis protein WlaX
+NZ_CP035106.1	FIG	CDS	801202	802377	.	+	1	ID=fig|210.6438.peg.809;Name=3-ketoacyl-CoA thiolase @ Acetyl-CoA acetyltransferase;Ontology_term=KEGG_ENZYME:2.3.1.16,KEGG_ENZYME:2.3.1.9
+NZ_CP035106.1	FIG	CDS	802388	803086	.	+	2	ID=fig|210.6438.peg.810;Name=Succinyl-CoA:3-ketoacid-coenzyme A transferase subunit A;Ontology_term=KEGG_ENZYME:2.8.3.5
+NZ_CP035106.1	FIG	CDS	803083	803706	.	+	1	ID=fig|210.6438.peg.811;Name=Succinyl-CoA:3-ketoacid-coenzyme A transferase subunit B;Ontology_term=KEGG_ENZYME:2.8.3.5
+NZ_CP035106.1	FIG	CDS	803725	805089	.	+	1	ID=fig|210.6438.peg.812;Name=Short-chain fatty acids transporter
+NZ_CP035106.1	FIG	CDS	805213	806214	.	+	1	ID=fig|210.6438.peg.813;Name=Putative outer membrane protein
+NZ_CP035106.1	FIG	CDS	806426	808567	.	+	2	ID=fig|210.6438.peg.814;Name=Acetone carboxylase%2C beta subunit;Ontology_term=KEGG_ENZYME:6.4.1.6
+NZ_CP035106.1	FIG	CDS	808579	810876	.	+	1	ID=fig|210.6438.peg.815;Name=Acetone carboxylase%2C alpha subunit;Ontology_term=KEGG_ENZYME:6.4.1.6
+NZ_CP035106.1	FIG	CDS	810893	811393	.	+	2	ID=fig|210.6438.peg.816;Name=Acetone carboxylase%2C gamma subunit;Ontology_term=KEGG_ENZYME:6.4.1.6
+NZ_CP035106.1	FIG	CDS	811716	812729	.	+	0	ID=fig|210.6438.peg.817;Name=putative
+NZ_CP035106.1	FIG	CDS	812722	813108	.	+	1	ID=fig|210.6438.peg.818;Name=Diacylglycerol kinase;Ontology_term=KEGG_ENZYME:2.7.1.107
+NZ_CP035106.1	FIG	CDS	813128	815614	.	+	2	ID=fig|210.6438.peg.819;Name=DNA gyrase subunit A;Ontology_term=KEGG_ENZYME:5.99.1.3
+NZ_CP035106.1	FIG	CDS	815614	816087	.	+	1	ID=fig|210.6438.peg.820;Name=putative
+NZ_CP035106.1	FIG	CDS	816084	817229	.	+	0	ID=fig|210.6438.peg.821;Name=Signal-transduction regulatory protein FlgR
+NZ_CP035106.1	FIG	CDS	817549	820374	.	-	1	ID=fig|210.6438.peg.822;Name=Excinuclease ABC subunit A
+NZ_CP035106.1	FIG	CDS	820549	821370	.	+	1	ID=fig|210.6438.peg.823;Name=Putative outer membrane protein
+NZ_CP035106.1	FIG	CDS	821489	821605	.	-	2	ID=fig|210.6438.peg.824;Name=FIG00710662: hypothetical protein
+NZ_CP035106.1	FIG	CDS	821564	822490	.	+	2	ID=fig|210.6438.peg.825;Name=16S rRNA (cytosine(1402)-N(4))-methyltransferase;Ontology_term=KEGG_ENZYME:2.1.1.199
+NZ_CP035106.1	FIG	CDS	822510	822854	.	+	0	ID=fig|210.6438.peg.826;Name=putative
+NZ_CP035106.1	FIG	CDS	823099	824001	.	+	1	ID=fig|210.6438.peg.827;Name=FIG00638797: hypothetical protein
+NZ_CP035106.1	FIG	CDS	824475	825695	.	+	0	ID=fig|210.6438.peg.828;Name=Competence protein ComGF
+NZ_CP035106.1	FIG	CDS	825917	826717	.	-	2	ID=fig|210.6438.peg.829;Name=putative Outer membrane protein
+NZ_CP035106.1	FIG	CDS	826896	827348	.	+	0	ID=fig|210.6438.peg.830;Name=FIG00710466: hypothetical protein
+NZ_CP035106.1	FIG	CDS	827468	827881	.	+	2	ID=fig|210.6438.peg.831;Name=FIG00710880: hypothetical protein
+NZ_CP035106.1	FIG	CDS	827886	829424	.	-	0	ID=fig|210.6438.peg.832;Name=Protein hydE
+NZ_CP035106.1	FIG	CDS	829425	829961	.	-	0	ID=fig|210.6438.peg.833;Name=Hydrogenase maturation protease
+NZ_CP035106.1	FIG	CDS	829958	830632	.	-	2	ID=fig|210.6438.peg.834;Name=Quinone-reactive Ni/Fe hydrogenase%2C cytochrome b subunit
+NZ_CP035106.1	FIG	CDS	830645	832381	.	-	2	ID=fig|210.6438.peg.835;Name=Quinone-reactive Ni/Fe-hydrogenase large chain;Ontology_term=KEGG_ENZYME:1.12.5.1
+NZ_CP035106.1	FIG	CDS	832398	833552	.	-	0	ID=fig|210.6438.peg.836;Name=Quinone-reactive Ni/Fe-hydrogenase small chain;Ontology_term=KEGG_ENZYME:1.12.5.1
+NZ_CP035106.1	FIG	CDS	833681	834265	.	+	2	ID=fig|210.6438.peg.837;Name=Modulator of drug activity B
+NZ_CP035106.1	FIG	CDS	834313	836361	.	-	1	ID=fig|210.6438.peg.838;Name=RloF
+NZ_CP035106.1	FIG	CDS	836478	837536	.	-	0	ID=fig|210.6438.peg.839;Name=FIG00710621: hypothetical protein
+NZ_CP035106.1	FIG	CDS	837548	838753	.	-	2	ID=fig|210.6438.peg.840;Name=2%2C3%2C4%2C5-tetrahydropyridine-2%2C6-dicarboxylate N-succinyltransferase;Ontology_term=KEGG_ENZYME:2.3.1.117
+NZ_CP035106.1	FIG	CDS	838756	839835	.	-	1	ID=fig|210.6438.peg.841;Name=(E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase (flavodoxin);Ontology_term=KEGG_ENZYME:1.17.7.3
+NZ_CP035106.1	FIG	CDS	839990	841117	.	+	2	ID=fig|210.6438.peg.842;Name=N-succinyl-L%2CL-diaminopimelate aminotransferase%2C type 2;Ontology_term=KEGG_ENZYME:2.6.1.17
+NZ_CP035106.1	FIG	CDS	841110	842459	.	+	0	ID=fig|210.6438.peg.843;Name=UDP-N-acetylmuramate--L-alanine ligase;Ontology_term=KEGG_ENZYME:6.3.2.8
+NZ_CP035106.1	FIG	CDS	842459	842824	.	+	2	ID=fig|210.6438.peg.844;Name=putative
+NZ_CP035106.1	FIG	CDS	842843	845089	.	+	2	ID=fig|210.6438.peg.845;Name=Recombination inhibitory protein MutS2
+NZ_CP035106.1	FIG	CDS	845241	845762	.	-	0	ID=fig|210.6438.peg.846;Name=Inorganic pyrophosphatase;Ontology_term=KEGG_ENZYME:3.6.1.1
+NZ_CP035106.1	FIG	CDS	845817	847079	.	-	0	ID=fig|210.6438.peg.847;Name=putative lipopolysaccharide biosynthesis protein
+NZ_CP035106.1	FIG	CDS	847132	848130	.	-	1	ID=fig|210.6438.peg.848;Name=putative lipopolysaccharide biosynthesis protein
+NZ_CP035106.1	FIG	CDS	848155	848730	.	-	1	ID=fig|210.6438.peg.849;Name=Adenylate kinase;Ontology_term=KEGG_ENZYME:2.7.4.3
+NZ_CP035106.1	FIG	CDS	848747	850480	.	-	2	ID=fig|210.6438.peg.850;Name=Aspartyl-tRNA synthetase @ Aspartyl-tRNA(Asn) synthetase;Ontology_term=KEGG_ENZYME:6.1.1.12,KEGG_ENZYME:6.1.1.23
+NZ_CP035106.1	FIG	CDS	850519	851460	.	-	1	ID=fig|210.6438.peg.851;Name=Chemotaxis protein CheV;Ontology_term=KEGG_ENZYME:2.7.3.-
+NZ_CP035106.1	FIG	CDS	851538	853508	.	+	0	ID=fig|210.6438.peg.852;Name=DNA ligase (NAD(+));Ontology_term=KEGG_ENZYME:6.5.1.2
+NZ_CP035106.1	FIG	CDS	853609	853941	.	+	1	ID=fig|210.6438.peg.853;Name=putative
+NZ_CP035106.1	FIG	CDS	854175	854300	.	-	0	ID=fig|210.6438.peg.854;Name=FIG00712038: hypothetical protein
+NZ_CP035106.1	FIG	CDS	854299	854967	.	+	1	ID=fig|210.6438.peg.855;Name=ABC transporter%2C ATP-binding protein
+NZ_CP035106.1	FIG	CDS	854967	855722	.	+	0	ID=fig|210.6438.peg.856;Name=FIG00712694: hypothetical protein
+NZ_CP035106.1	FIG	CDS	855781	865356	.	-	1	ID=fig|210.6438.peg.857;Name=putative vacuolating cytotoxin (VacA) paralog
+NZ_CP035106.1	FIG	CDS	865509	866078	.	-	0	ID=fig|210.6438.peg.858;Name=putative
+NZ_CP035106.1	FIG	CDS	866075	869155	.	-	2	ID=fig|210.6438.peg.859;Name=Multidrug efflux system%2C inner membrane proton/drug antiporter (RND type) > CmeF
+NZ_CP035106.1	FIG	CDS	869168	869872	.	-	2	ID=fig|210.6438.peg.860;Name=Multidrug efflux system%2C membrane fusion component > CmeE
+NZ_CP035106.1	FIG	CDS	869882	871315	.	-	2	ID=fig|210.6438.peg.861;Name=Multidrug efflux system%2C outer membrane factor lipoprotein > CmeD
+NZ_CP035106.1	FIG	CDS	871325	872344	.	-	2	ID=fig|210.6438.peg.862;Name=Uroporphyrinogen III decarboxylase;Ontology_term=KEGG_ENZYME:4.1.1.37
+NZ_CP035106.1	FIG	CDS	872414	873031	.	-	2	ID=fig|210.6438.peg.863;Name=putative
+NZ_CP035106.1	FIG	CDS	873028	873684	.	-	1	ID=fig|210.6438.peg.864;Name=Endonuclease III;Ontology_term=KEGG_ENZYME:4.2.99.18
+NZ_CP035106.1	FIG	CDS	873807	875339	.	-	0	ID=fig|210.6438.peg.865;Name=Flagellin
+NZ_CP035106.1	FIG	CDS	875482	876411	.	+	1	ID=fig|210.6438.peg.866;Name=multidrug resistance protein (spaB)
+NZ_CP035106.1	FIG	CDS	876483	877784	.	+	0	ID=fig|210.6438.peg.867;Name=methyl-accepting chemotaxis protein (MCP)
+NZ_CP035106.1	FIG	CDS	877807	878928	.	+	1	ID=fig|210.6438.peg.868;Name=8-amino-7-oxononanoate synthase;Ontology_term=KEGG_ENZYME:2.3.1.47
+NZ_CP035106.1	FIG	CDS	878929	880908	.	+	1	ID=fig|210.6438.peg.869;Name=Multimodular transpeptidase-transglycosylase;Ontology_term=KEGG_ENZYME:2.4.1.129,KEGG_ENZYME:3.4.-.-
+NZ_CP035106.1	FIG	CDS	880911	881489	.	-	0	ID=fig|210.6438.peg.870;Name=putative
+NZ_CP035106.1	FIG	CDS	881646	881765	.	+	0	ID=fig|210.6438.peg.871;Name=FIG00710199: hypothetical protein
+NZ_CP035106.1	FIG	CDS	881964	883436	.	-	0	ID=fig|210.6438.peg.872;Name=ATP/GTP-binding protein
+NZ_CP035106.1	FIG	CDS	883445	883609	.	-	2	ID=fig|210.6438.peg.873;Name=putative
+NZ_CP035106.1	FIG	CDS	883754	885532	.	-	2	ID=fig|210.6438.peg.874;Name=FIG00710611: hypothetical protein
+NZ_CP035106.1	FIG	CDS	885641	886195	.	-	2	ID=fig|210.6438.peg.875;Name=2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase%2C gamma subunit;Ontology_term=KEGG_ENZYME:1.2.7.-
+NZ_CP035106.1	FIG	CDS	886195	887016	.	-	1	ID=fig|210.6438.peg.876;Name=2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase%2C beta subunit;Ontology_term=KEGG_ENZYME:1.2.7.-
+NZ_CP035106.1	FIG	CDS	887018	888145	.	-	2	ID=fig|210.6438.peg.877;Name=2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase%2C alpha subunit;Ontology_term=KEGG_ENZYME:1.2.7.-
+NZ_CP035106.1	FIG	CDS	888145	888486	.	-	1	ID=fig|210.6438.peg.878;Name=2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase%2C delta subunit%2C ferredoxin-like 4Fe-4S binding protein;Ontology_term=KEGG_ENZYME:1.2.7.-
+NZ_CP035106.1	FIG	CDS	888663	889532	.	-	0	ID=fig|210.6438.peg.879;Name=Murein endolytic transglycosylase MltG
+NZ_CP035106.1	FIG	CDS	889576	892515	.	+	1	ID=fig|210.6438.peg.880;Name=Uncharacterized membrane-anchored protein HP0586
+NZ_CP035106.1	FIG	CDS	892512	892742	.	+	0	ID=fig|210.6438.peg.881;Name=putative
+NZ_CP035106.1	FIG	CDS	892745	893395	.	+	2	ID=fig|210.6438.peg.882;Name=Endonuclease III;Ontology_term=KEGG_ENZYME:4.2.99.18
+NZ_CP035106.1	FIG	CDS	893477	893848	.	+	2	ID=fig|210.6438.peg.883;Name=Flagellar motor switch protein FliN
+NZ_CP035106.1	FIG	CDS	893845	894720	.	+	1	ID=fig|210.6438.peg.884;Name=putative
+NZ_CP035106.1	FIG	CDS	894704	895645	.	+	2	ID=fig|210.6438.peg.885;Name=putative TonB-dependent receptor
+NZ_CP035106.1	FIG	CDS	895649	896668	.	+	2	ID=fig|210.6438.peg.886;Name=Dihydroorotase;Ontology_term=KEGG_ENZYME:3.5.2.3
+NZ_CP035106.1	FIG	CDS	896644	897762	.	+	1	ID=fig|210.6438.peg.887;Name=3-deoxy-D-manno-octulosonic acid hydrolase
+NZ_CP035106.1	FIG	CDS	897769	898323	.	+	1	ID=fig|210.6438.peg.888;Name=putative
+NZ_CP035106.1	FIG	CDS	898329	900356	.	+	0	ID=fig|210.6438.peg.889;Name=Phosphoglycerol transferase
+NZ_CP035106.1	FIG	CDS	900414	901307	.	+	0	ID=fig|210.6438.peg.890;Name=Methenyltetrahydrofolate cyclohydrolase / Methylenetetrahydrofolate dehydrogenase (NADP+);Ontology_term=KEGG_ENZYME:3.5.4.9,KEGG_ENZYME:1.5.1.5
+NZ_CP035106.1	FIG	CDS	901307	902179	.	+	2	ID=fig|210.6438.peg.891;Name=Signal peptidase I;Ontology_term=KEGG_ENZYME:3.4.21.89
+NZ_CP035106.1	FIG	CDS	902188	902886	.	+	1	ID=fig|210.6438.peg.892;Name=putative membrane protein
+NZ_CP035106.1	FIG	CDS	902907	903368	.	+	0	ID=fig|210.6438.peg.893;Name=Ribose-5-phosphate isomerase B;Ontology_term=KEGG_ENZYME:5.3.1.6
+NZ_CP035106.1	FIG	CDS	903414	903746	.	+	0	ID=fig|210.6438.peg.894;Name=putative
+NZ_CP035106.1	FIG	CDS	903804	904343	.	+	0	ID=fig|210.6438.peg.895;Name=Adenine phosphoribosyltransferase;Ontology_term=KEGG_ENZYME:2.4.2.7
+NZ_CP035106.1	FIG	CDS	904358	904936	.	+	2	ID=fig|210.6438.peg.896;Name=DedA family protein
+NZ_CP035106.1	FIG	CDS	904984	906474	.	+	1	ID=fig|210.6438.peg.897;Name=Cytosol aminopeptidase PepA;Ontology_term=KEGG_ENZYME:3.4.11.1
+NZ_CP035106.1	FIG	CDS	906476	907576	.	+	2	ID=fig|210.6438.peg.898;Name=GTP-binding and nucleic acid-binding protein YchF
+NZ_CP035106.1	FIG	CDS	907610	908482	.	+	2	ID=fig|210.6438.peg.899;Name=Molybdenum cofactor biosynthesis enzyme and related Fe-S oxidoreductases
+NZ_CP035106.1	FIG	CDS	908612	909658	.	-	2	ID=fig|210.6438.peg.900;Name=Acid membrane antigen A
+NZ_CP035106.1	FIG	CDS	909774	910595	.	+	0	ID=fig|210.6438.peg.901;Name=Diaminopimelate epimerase;Ontology_term=KEGG_ENZYME:5.1.1.7
+NZ_CP035106.1	FIG	CDS	910686	911333	.	+	0	ID=fig|210.6438.peg.902;Name=membrane protein ykgB
+NZ_CP035106.1	FIG	CDS	911357	911602	.	-	2	ID=fig|210.6438.peg.903;Name=putative
+NZ_CP035106.1	FIG	CDS	911775	913025	.	+	0	ID=fig|210.6438.peg.904;Name=FIG00710144: hypothetical protein
+NZ_CP035106.1	FIG	CDS	913127	913339	.	+	2	ID=fig|210.6438.peg.905;Name=SSU ribosomal protein S21p
+NZ_CP035106.1	FIG	CDS	913376	914119	.	+	2	ID=fig|210.6438.peg.906;Name=3-oxoacyl-[acyl-carrier protein] reductase%2C FadG;Ontology_term=KEGG_ENZYME:1.1.1.100
+NZ_CP035106.1	FIG	CDS	914350	914586	.	+	1	ID=fig|210.6438.peg.907;Name=Acyl carrier protein
+NZ_CP035106.1	FIG	CDS	914888	916126	.	+	2	ID=fig|210.6438.peg.908;Name=3-oxoacyl-[acyl-carrier-protein] synthase%2C KASII;Ontology_term=KEGG_ENZYME:2.3.1.179
+NZ_CP035106.1	FIG	CDS	916149	917087	.	+	0	ID=fig|210.6438.peg.909;Name=Acetyl-coenzyme A carboxyl transferase alpha chain;Ontology_term=KEGG_ENZYME:6.4.1.2
+NZ_CP035106.1	FIG	CDS	917140	917565	.	-	1	ID=fig|210.6438.peg.910;Name=FIG00711388: hypothetical protein
+NZ_CP035106.1	FIG	CDS	917607	918428	.	-	0	ID=fig|210.6438.peg.911;Name=Putative periplasmic protein
+NZ_CP035106.1	FIG	CDS	918425	919390	.	-	2	ID=fig|210.6438.peg.912;Name=FIG00710813: hypothetical protein
+NZ_CP035106.1	FIG	CDS	919403	920086	.	-	2	ID=fig|210.6438.peg.913;Name=23S rRNA (guanosine(2251)-2'-O)-methyltransferase;Ontology_term=KEGG_ENZYME:2.1.1.185
+NZ_CP035106.1	FIG	CDS	920099	920962	.	-	2	ID=fig|210.6438.peg.914;Name=16S rRNA (cytidine(1402)-2'-O)-methyltransferase;Ontology_term=KEGG_ENZYME:2.1.1.198
+NZ_CP035106.1	FIG	CDS	920987	921190	.	-	2	ID=fig|210.6438.peg.915;Name=LSU ribosomal protein L31p @ LSU ribosomal protein L31p%2C zinc-dependent
+NZ_CP035106.1	FIG	CDS	921452	922768	.	+	2	ID=fig|210.6438.peg.916;Name=Transcription termination factor Rho
+NZ_CP035106.1	FIG	CDS	922805	923572	.	+	2	ID=fig|210.6438.peg.917;Name=Glutamate racemase;Ontology_term=KEGG_ENZYME:5.1.1.3
+NZ_CP035106.1	FIG	CDS	923692	923841	.	+	1	ID=fig|210.6438.peg.918;Name=Mobile element protein
+NZ_CP035106.1	FIG	CDS	923976	924968	.	+	0	ID=fig|210.6438.peg.919;Name=ATPase required for both assembly of type IV secretion complex and secretion of T-DNA complex%2C VirB11
+NZ_CP035106.1	FIG	CDS	924977	927223	.	+	2	ID=fig|210.6438.peg.920;Name=Coupling protein VirD4%2C ATPase required for T-DNA transfer
+NZ_CP035106.1	FIG	CDS	927327	927482	.	+	0	ID=fig|210.6438.peg.921;Name=hypothetical protein
+NZ_CP035106.1	FIG	CDS	927529	928038	.	-	1	ID=fig|210.6438.peg.922;Name=cag island protein
+NZ_CP035106.1	FIG	CDS	928048	929493	.	-	1	ID=fig|210.6438.peg.923;Name=cag pathogenicity island protein (cag3)
+NZ_CP035106.1	FIG	CDS	929508	929705	.	-	0	ID=fig|210.6438.peg.924;Name=FIG00712087: hypothetical protein
+NZ_CP035106.1	FIG	CDS	929721	930068	.	-	0	ID=fig|210.6438.peg.925;Name=cag pathogenicity island protein (cag1)
+NZ_CP035106.1	FIG	CDS	930206	931054	.	+	2	ID=fig|210.6438.peg.926;Name=putative
+NZ_CP035106.1	FIG	CDS	931094	932086	.	-	2	ID=fig|210.6438.peg.927;Name=Putative periplasmic protein
+NZ_CP035106.1	FIG	CDS	932083	932991	.	-	1	ID=fig|210.6438.peg.928;Name=GTP-binding protein Era
+NZ_CP035106.1	FIG	CDS	932988	934319	.	-	0	ID=fig|210.6438.peg.929;Name=ATP-dependent hsl protease ATP-binding subunit HslU
+NZ_CP035106.1	FIG	CDS	934319	934861	.	-	2	ID=fig|210.6438.peg.930;Name=ATP-dependent protease subunit HslV;Ontology_term=KEGG_ENZYME:3.4.25.2
+NZ_CP035106.1	FIG	CDS	934865	935314	.	-	2	ID=fig|210.6438.peg.931;Name=LSU ribosomal protein L9p
+NZ_CP035106.1	FIG	CDS	935377	936264	.	-	1	ID=fig|210.6438.peg.932;Name=RloF
+NZ_CP035106.1	FIG	CDS	936279	936590	.	-	0	ID=fig|210.6438.peg.933;Name=RloF
+NZ_CP035106.1	FIG	CDS	936810	937475	.	-	0	ID=fig|210.6438.peg.934;Name=RloF
+NZ_CP035106.1	FIG	CDS	937613	939058	.	+	2	ID=fig|210.6438.peg.935;Name=Glutamine synthetase type I;Ontology_term=KEGG_ENZYME:6.3.1.2
+NZ_CP035106.1	FIG	CDS	939072	939266	.	-	0	ID=fig|210.6438.peg.936;Name=FIG00711785: hypothetical protein
+NZ_CP035106.1	FIG	CDS	939338	939454	.	-	2	ID=fig|210.6438.peg.937;Name=FIG00710547: hypothetical protein
+NZ_CP035106.1	FIG	CDS	939800	940564	.	-	2	ID=fig|210.6438.peg.938;Name=4-hydroxy-tetrahydrodipicolinate reductase;Ontology_term=KEGG_ENZYME:1.17.1.8
+NZ_CP035106.1	FIG	CDS	940587	941966	.	-	0	ID=fig|210.6438.peg.939;Name=(S)-2-hydroxy-acid oxidase;Ontology_term=KEGG_ENZYME:1.1.3.15
+NZ_CP035106.1	FIG	CDS	941968	943275	.	-	1	ID=fig|210.6438.peg.940;Name=FIG00710332: hypothetical protein
+NZ_CP035106.1	FIG	CDS	943286	943924	.	-	2	ID=fig|210.6438.peg.941;Name=Uridine diphosphate glucose pyrophosphatase;Ontology_term=KEGG_ENZYME:3.6.1.45
+NZ_CP035106.1	FIG	CDS	943924	945132	.	-	1	ID=fig|210.6438.peg.942;Name=Membrane proteins related to metalloendopeptidases
+NZ_CP035106.1	FIG	CDS	945336	945698	.	-	0	ID=fig|210.6438.peg.943;Name=FIG00710668: hypothetical protein
+NZ_CP035106.1	FIG	CDS	945780	946085	.	-	0	ID=fig|210.6438.peg.944;Name=FIG00710668: hypothetical protein
+NZ_CP035106.1	FIG	CDS	946078	946731	.	-	1	ID=fig|210.6438.peg.945;Name=FIG00710187: hypothetical protein
+NZ_CP035106.1	FIG	CDS	946740	947108	.	-	0	ID=fig|210.6438.peg.946;Name=FIG00710187: hypothetical protein
+NZ_CP035106.1	FIG	CDS	947115	949436	.	-	0	ID=fig|210.6438.peg.947;Name=DNA gyrase subunit B;Ontology_term=KEGG_ENZYME:5.99.1.3
+NZ_CP035106.1	FIG	CDS	949449	950573	.	-	0	ID=fig|210.6438.peg.948;Name=DNA polymerase III beta subunit;Ontology_term=KEGG_ENZYME:2.7.7.7
+NZ_CP035106.1	FIG	CDS	950630	951697	.	-	2	ID=fig|210.6438.peg.949;Name=Phospholipase A1 @ Outer membrane phospholipase A;Ontology_term=KEGG_ENZYME:3.1.1.32,KEGG_ENZYME:3.1.1.4
+NZ_CP035106.1	FIG	CDS	951712	953040	.	-	1	ID=fig|210.6438.peg.950;Name=sodium- and chloride-dependent transporter
+NZ_CP035106.1	FIG	CDS	953053	954381	.	-	1	ID=fig|210.6438.peg.951;Name=Sodium-dependent transporter
+NZ_CP035106.1	FIG	CDS	954611	955012	.	+	2	ID=fig|210.6438.peg.952;Name=4-hydroxybenzoyl-CoA thioesterase family active site
+NZ_CP035106.1	FIG	CDS	955002	955262	.	+	0	ID=fig|210.6438.peg.953;Name=putative
+NZ_CP035106.1	FIG	CDS	955259	956527	.	-	2	ID=fig|210.6438.peg.954;Name=UDP-N-acetylmuramoyl-L-alanine--D-glutamate ligase;Ontology_term=KEGG_ENZYME:6.3.2.9
+NZ_CP035106.1	FIG	CDS	956529	957611	.	-	0	ID=fig|210.6438.peg.955;Name=Phospho-N-acetylmuramoyl-pentapeptide-transferase;Ontology_term=KEGG_ENZYME:2.7.8.13
+NZ_CP035106.1	FIG	CDS	957717	958559	.	+	0	ID=fig|210.6438.peg.956;Name=putative paralog of HpaA
+NZ_CP035106.1	FIG	CDS	958660	958848	.	+	1	ID=fig|210.6438.peg.957;Name=LSU ribosomal protein L28p @ LSU ribosomal protein L28p%2C zinc-independent
+NZ_CP035106.1	FIG	CDS	958998	960134	.	+	0	ID=fig|210.6438.peg.958;Name=Potassium channel protein
+NZ_CP035106.1	FIG	CDS	960136	960531	.	-	1	ID=fig|210.6438.peg.959;Name=FIG00710908: hypothetical protein
+NZ_CP035106.1	FIG	CDS	960618	962294	.	-	0	ID=fig|210.6438.peg.960;Name=FIG00710333: hypothetical protein
+NZ_CP035106.1	FIG	CDS	962489	963589	.	-	2	ID=fig|210.6438.peg.961;Name=FIG00710333: hypothetical protein
+NZ_CP035106.1	FIG	CDS	963770	965167	.	-	2	ID=fig|210.6438.peg.962;Name=Uncharacterized outer membrane protein HP0487
+NZ_CP035106.1	FIG	CDS	965237	966823	.	-	2	ID=fig|210.6438.peg.963;Name=Uncharacterized outer membrane protein HP0486
+NZ_CP035106.1	FIG	CDS	967103	968047	.	+	2	ID=fig|210.6438.peg.964;Name=Catalase-like heme-binding protein
+NZ_CP035106.1	FIG	CDS	968063	968179	.	-	2	ID=fig|210.6438.peg.965;Name=DNA-cytosine methyltransferase;Ontology_term=KEGG_ENZYME:2.1.1.37
+NZ_CP035106.1	FIG	CDS	968286	969038	.	-	0	ID=fig|210.6438.peg.966;Name=FIG00710380: hypothetical protein
+NZ_CP035106.1	FIG	CDS	969025	970086	.	-	1	ID=fig|210.6438.peg.967;Name=DNA-cytosine methyltransferase;Ontology_term=KEGG_ENZYME:2.1.1.37
+NZ_CP035106.1	FIG	CDS	970182	970805	.	-	0	ID=fig|210.6438.peg.968;Name=FIG00710779: hypothetical protein
+NZ_CP035106.1	FIG	CDS	970808	971737	.	-	2	ID=fig|210.6438.peg.969;Name=DNA adenine methylase;Ontology_term=KEGG_ENZYME:2.1.1.72
+NZ_CP035106.1	FIG	CDS	971753	973552	.	-	2	ID=fig|210.6438.peg.970;Name=GTP-binding protein TypA/BipA
+NZ_CP035106.1	FIG	CDS	973598	974428	.	-	2	ID=fig|210.6438.peg.971;Name=adenine specific DNA methyltransferase (VSPIM)
+NZ_CP035106.1	FIG	CDS	974412	976049	.	-	0	ID=fig|210.6438.peg.972;Name=adenine specific DNA methyltransferase (VSPIM)
+NZ_CP035106.1	FIG	CDS	976058	977170	.	-	2	ID=fig|210.6438.peg.973;Name=Putative outer membrane protein
+NZ_CP035106.1	FIG	CDS	977288	978679	.	+	2	ID=fig|210.6438.peg.974;Name=Glutamyl-tRNA synthetase;Ontology_term=KEGG_ENZYME:6.1.1.17
+NZ_CP035106.1	FIG	CDS	978762	979040	.	-	0	ID=fig|210.6438.peg.975;Name=Molybdenum ABC transporter ATP-binding protein ModC
+NZ_CP035106.1	FIG	CDS	979089	979304	.	-	0	ID=fig|210.6438.peg.976;Name=Molybdenum ABC transporter ATP-binding protein ModC
+NZ_CP035106.1	FIG	CDS	979317	979556	.	-	0	ID=fig|210.6438.peg.977;Name=Molybdenum ABC transporter ATP-binding protein ModC
+NZ_CP035106.1	FIG	CDS	979553	979738	.	-	2	ID=fig|210.6438.peg.978;Name=Molybdenum ABC transporter permease protein ModB
+NZ_CP035106.1	FIG	CDS	979783	980226	.	-	1	ID=fig|210.6438.peg.979;Name=Molybdenum ABC transporter permease protein ModB
+NZ_CP035106.1	FIG	CDS	980248	980931	.	-	1	ID=fig|210.6438.peg.980;Name=Molybdenum ABC transporter%2C substrate-binding protein ModA
+NZ_CP035106.1	FIG	CDS	981008	981139	.	+	2	ID=fig|210.6438.peg.981;Name=FIG00710520: hypothetical protein
+NZ_CP035106.1	FIG	CDS	981211	981771	.	+	1	ID=fig|210.6438.peg.982;Name=Putative outer membrane protein
+NZ_CP035106.1	FIG	CDS	981755	981937	.	+	2	ID=fig|210.6438.peg.983;Name=FIG00712594: hypothetical protein
+NZ_CP035106.1	FIG	CDS	982090	983340	.	+	1	ID=fig|210.6438.peg.984;Name=Glutathione-regulated potassium-efflux system protein KefB
+NZ_CP035106.1	FIG	CDS	983437	985173	.	+	1	ID=fig|210.6438.peg.985;Name=Oligoendopeptidase F-like protein
+NZ_CP035106.1	FIG	CDS	985158	985658	.	+	0	ID=fig|210.6438.peg.986;Name=FIG00710410: hypothetical protein
+NZ_CP035106.1	FIG	CDS	985670	987157	.	+	2	ID=fig|210.6438.peg.987;Name=FIG00710596: hypothetical protein
+NZ_CP035106.1	FIG	CDS	987159	987473	.	+	0	ID=fig|210.6438.peg.988;Name=Integral membrane protein
+NZ_CP035106.1	FIG	CDS	987483	988250	.	+	0	ID=fig|210.6438.peg.989;Name=putative
+NZ_CP035106.1	FIG	CDS	988276	990171	.	+	1	ID=fig|210.6438.peg.990;Name=FIG00710389: hypothetical protein
+NZ_CP035106.1	FIG	CDS	990219	990887	.	+	0	ID=fig|210.6438.peg.991;Name=Type I restriction-modification system%2C restriction subunit R;Ontology_term=KEGG_ENZYME:3.1.21.3
+NZ_CP035106.1	FIG	CDS	991061	993328	.	+	2	ID=fig|210.6438.peg.992;Name=Type I restriction-modification system%2C restriction subunit R;Ontology_term=KEGG_ENZYME:3.1.21.3
+NZ_CP035106.1	FIG	CDS	993318	994949	.	+	0	ID=fig|210.6438.peg.993;Name=Type I restriction-modification system%2C DNA-methyltransferase subunit M;Ontology_term=KEGG_ENZYME:2.1.1.72
+NZ_CP035106.1	FIG	CDS	994942	996141	.	+	1	ID=fig|210.6438.peg.994;Name=Type I restriction-modification system%2C specificity subunit S
+NZ_CP035106.1	FIG	CDS	996378	998405	.	+	0	ID=fig|210.6438.peg.995;Name=Polyphosphate kinase;Ontology_term=KEGG_ENZYME:2.7.4.1
+NZ_CP035106.1	FIG	CDS	998442	999497	.	+	0	ID=fig|210.6438.peg.996;Name=Dihydroorotate dehydrogenase (quinone);Ontology_term=KEGG_ENZYME:1.3.5.2
+NZ_CP035106.1	FIG	CDS	999494	1000828	.	+	2	ID=fig|210.6438.peg.997;Name=FIG015547: peptidase%2C M16 family
+NZ_CP035106.1	FIG	CDS	1000843	1001745	.	+	1	ID=fig|210.6438.peg.998;Name=4-hydroxy-tetrahydrodipicolinate synthase;Ontology_term=KEGG_ENZYME:4.3.3.7
+NZ_CP035106.1	FIG	CDS	1001742	1002530	.	+	0	ID=fig|210.6438.peg.999;Name=Enoyl-[acyl-carrier-protein] reductase%2C 7-alpha-HSDH-like > refractory to triclosan;Ontology_term=KEGG_ENZYME:1.3.1.-
+NZ_CP035106.1	FIG	CDS	1002540	1003148	.	+	0	ID=fig|210.6438.peg.1000;Name=CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase;Ontology_term=KEGG_ENZYME:2.7.8.5
+NZ_CP035106.1	FIG	CDS	1003145	1003684	.	+	2	ID=fig|210.6438.peg.1001;Name=CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase;Ontology_term=KEGG_ENZYME:2.7.8.5
+NZ_CP035106.1	FIG	CDS	1003879	1005321	.	+	1	ID=fig|210.6438.peg.1002;Name=Uncharacterized amino acid permease%2C GabP family
+NZ_CP035106.1	FIG	CDS	1005369	1006796	.	+	0	ID=fig|210.6438.peg.1003;Name=HtrA protease/chaperone protein / Serine protease (Protease DO);Ontology_term=KEGG_ENZYME:3.4.21.-
+NZ_CP035106.1	FIG	CDS	1006818	1008038	.	+	0	ID=fig|210.6438.peg.1004;Name=2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase / 2-C-methyl-D-erythritol 2%2C4-cyclodiphosphate synthase;Ontology_term=KEGG_ENZYME:2.7.7.60,KEGG_ENZYME:4.6.1.12
+NZ_CP035106.1	FIG	CDS	1008055	1008951	.	+	1	ID=fig|210.6438.peg.1005;Name=Possible two-component regulator
+NZ_CP035106.1	FIG	CDS	1009005	1009166	.	+	0	ID=fig|210.6438.peg.1006;Name=FIG00712778: hypothetical protein
+NZ_CP035106.1	FIG	CDS	1009359	1010042	.	+	0	ID=fig|210.6438.peg.1007;Name=DNA polymerase I;Ontology_term=KEGG_ENZYME:2.7.7.7
+NZ_CP035106.1	FIG	CDS	1010132	1011382	.	-	2	ID=fig|210.6438.peg.1008;Name=putative
+NZ_CP035106.1	FIG	CDS	1011550	1012416	.	+	1	ID=fig|210.6438.peg.1009;Name=DnaJ-class molecular chaperone CbpA
+NZ_CP035106.1	FIG	CDS	1012426	1012797	.	+	1	ID=fig|210.6438.peg.1010;Name=HspR%2C transcriptional repressor of DnaK operon
+NZ_CP035106.1	FIG	CDS	1012794	1013969	.	+	0	ID=fig|210.6438.peg.1011;Name=Replication-associated recombination protein RarA
+NZ_CP035106.1	FIG	CDS	1014130	1014582	.	+	1	ID=fig|210.6438.peg.1012;Name=Ferric uptake regulation protein FUR
+NZ_CP035106.1	FIG	CDS	1014602	1015099	.	-	2	ID=fig|210.6438.peg.1013;Name=FIG00710586: hypothetical protein
+NZ_CP035106.1	FIG	CDS	1015096	1015632	.	-	1	ID=fig|210.6438.peg.1014;Name=putative
+NZ_CP035106.1	FIG	CDS	1015661	1016524	.	-	2	ID=fig|210.6438.peg.1015;Name=Flagellar motor switch protein FliN
+NZ_CP035106.1	FIG	CDS	1016528	1017592	.	-	2	ID=fig|210.6438.peg.1016;Name=Flagellar motor switch protein FliM
+NZ_CP035106.1	FIG	CDS	1017585	1018337	.	-	0	ID=fig|210.6438.peg.1017;Name=RNA polymerase sigma factor for flagellar operon
+NZ_CP035106.1	FIG	CDS	1018339	1018653	.	-	1	ID=fig|210.6438.peg.1018;Name=Integral membrane protein
+NZ_CP035106.1	FIG	CDS	1018658	1019542	.	-	2	ID=fig|210.6438.peg.1019;Name=Flagellar synthesis regulator FleN
+NZ_CP035106.1	FIG	CDS	1019539	1020915	.	-	1	ID=fig|210.6438.peg.1020;Name=Flagellar biosynthesis protein FlhF
+NZ_CP035106.1	FIG	CDS	1020912	1021400	.	-	0	ID=fig|210.6438.peg.1021;Name=2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase;Ontology_term=KEGG_ENZYME:2.7.6.3
+NZ_CP035106.1	FIG	CDS	1021400	1022473	.	-	2	ID=fig|210.6438.peg.1022;Name=Xaa-Pro dipeptidase;Ontology_term=KEGG_ENZYME:3.4.13.9
+NZ_CP035106.1	FIG	CDS	1022487	1022990	.	-	0	ID=fig|210.6438.peg.1023;Name=3-dehydroquinate dehydratase II;Ontology_term=KEGG_ENZYME:4.2.1.10
+NZ_CP035106.1	FIG	CDS	1023120	1024406	.	-	0	ID=fig|210.6438.peg.1024;Name=putative
+NZ_CP035106.1	FIG	CDS	1024439	1024711	.	-	2	ID=fig|210.6438.peg.1025;Name=SSU ribosomal protein S15p (S13e)
+NZ_CP035106.1	FIG	CDS	1024846	1027047	.	+	1	ID=fig|210.6438.peg.1026;Name=Flagellar biosynthesis protein FlhA
+NZ_CP035106.1	FIG	CDS	1027078	1028121	.	+	1	ID=fig|210.6438.peg.1027;Name=3'-to-5' oligoribonuclease B%2C Bacillus type
+NZ_CP035106.1	FIG	CDS	1028635	1029306	.	-	1	ID=fig|210.6438.peg.1028;Name=Two-component transcriptional response regulator%2C LuxR family
+NZ_CP035106.1	FIG	CDS	1029651	1030763	.	-	0	ID=fig|210.6438.peg.1029;Name=Predicted phosphohydrolase
+NZ_CP035106.1	FIG	CDS	1030794	1030949	.	-	0	ID=fig|210.6438.peg.1030;Name=hypothetical protein
+NZ_CP035106.1	FIG	CDS	1030964	1032952	.	+	2	ID=fig|210.6438.peg.1031;Name=Acetyl-CoA synthetase;Ontology_term=KEGG_ENZYME:6.2.1.1
+NZ_CP035106.1	FIG	CDS	1033060	1033500	.	-	1	ID=fig|210.6438.peg.1032;Name=Bacterial ribosome SSU maturation protein RimP
+NZ_CP035106.1	FIG	CDS	1033493	1033831	.	-	2	ID=fig|210.6438.peg.1033;Name=Ribosome-binding factor A
+NZ_CP035106.1	FIG	CDS	1033831	1036665	.	-	1	ID=fig|210.6438.peg.1034;Name=Translation initiation factor 2
+NZ_CP035106.1	FIG	CDS	1036662	1036916	.	-	0	ID=fig|210.6438.peg.1035;Name=FIG00710295: hypothetical protein
+NZ_CP035106.1	FIG	CDS	1036903	1037784	.	-	1	ID=fig|210.6438.peg.1036;Name=Homoserine kinase;Ontology_term=KEGG_ENZYME:2.7.1.39
+NZ_CP035106.1	FIG	CDS	1037838	1038311	.	-	0	ID=fig|210.6438.peg.1037;Name=tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+NZ_CP035106.1	FIG	CDS	1038333	1039220	.	-	0	ID=fig|210.6438.peg.1038;Name=UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase;Ontology_term=KEGG_ENZYME:3.5.1.108
+NZ_CP035106.1	FIG	CDS	1039217	1039804	.	-	2	ID=fig|210.6438.peg.1039;Name=Septum site-determining protein MinC
+NZ_CP035106.1	FIG	CDS	1039807	1041129	.	-	1	ID=fig|210.6438.peg.1040;Name=Putative periplasmic protein
+NZ_CP035106.1	FIG	CDS	1041139	1042077	.	-	1	ID=fig|210.6438.peg.1041;Name=3'-to-5' oligoribonuclease A%2C Bacillus type
+NZ_CP035106.1	FIG	CDS	1042086	1042928	.	-	0	ID=fig|210.6438.peg.1042;Name=H. pylori predicted coding region HP1056
+NZ_CP035106.1	FIG	CDS	1042918	1043640	.	-	1	ID=fig|210.6438.peg.1043;Name=FIG00710146: hypothetical protein
+NZ_CP035106.1	FIG	CDS	1043788	1044600	.	+	1	ID=fig|210.6438.peg.1044;Name=3-methyl-2-oxobutanoate hydroxymethyltransferase;Ontology_term=KEGG_ENZYME:2.1.2.11
+NZ_CP035106.1	FIG	CDS	1044601	1045611	.	+	1	ID=fig|210.6438.peg.1045;Name=Holliday junction ATP-dependent DNA helicase RuvB;Ontology_term=KEGG_ENZYME:3.6.4.12
+NZ_CP035106.1	FIG	CDS	1045679	1046158	.	+	2	ID=fig|210.6438.peg.1046;Name=Twin-arginine translocation protein TatB
+NZ_CP035106.1	FIG	CDS	1046151	1046912	.	+	0	ID=fig|210.6438.peg.1047;Name=Twin-arginine translocation protein TatC
+NZ_CP035106.1	FIG	CDS	1046913	1047950	.	+	0	ID=fig|210.6438.peg.1048;Name=S-adenosylmethionine:tRNA ribosyltransferase-isomerase;Ontology_term=KEGG_ENZYME:2.4.99.17
+NZ_CP035106.1	FIG	CDS	1047947	1048483	.	+	2	ID=fig|210.6438.peg.1049;Name=16S rRNA (guanine(527)-N(7))-methyltransferase;Ontology_term=KEGG_ENZYME:2.1.1.170
+NZ_CP035106.1	FIG	CDS	1048477	1048719	.	+	1	ID=fig|210.6438.peg.1050;Name=Uncharacterized protein HH_1485
+NZ_CP035106.1	FIG	CDS	1048722	1049129	.	+	0	ID=fig|210.6438.peg.1051;Name=FIG00710407: hypothetical protein
+NZ_CP035106.1	FIG	CDS	1049261	1049863	.	-	2	ID=fig|210.6438.peg.1052;Name=Outer membrane protein
+NZ_CP035106.1	FIG	CDS	1050154	1050528	.	+	1	ID=fig|210.6438.peg.1053;Name=Chemotaxis regulator - transmits chemoreceptor signals to flagellar motor components CheY
+NZ_CP035106.1	FIG	CDS	1050541	1051518	.	+	1	ID=fig|210.6438.peg.1054;Name=Ribosomal protein L11 methyltransferase
+NZ_CP035106.1	FIG	CDS	1051527	1053425	.	+	0	ID=fig|210.6438.peg.1055;Name=Cell division-associated%2C ATP-dependent zinc metalloprotease FtsH
+NZ_CP035106.1	FIG	CDS	1053428	1053676	.	+	2	ID=fig|210.6438.peg.1056;Name=putative
+NZ_CP035106.1	FIG	CDS	1053676	1054389	.	+	1	ID=fig|210.6438.peg.1057;Name=CDP-diacylglycerol--serine O-phosphatidyltransferase;Ontology_term=KEGG_ENZYME:2.7.8.8
+NZ_CP035106.1	FIG	CDS	1054386	1056611	.	+	0	ID=fig|210.6438.peg.1058;Name=Copper-translocating P-type ATPase;Ontology_term=KEGG_ENZYME:3.6.3.4
+NZ_CP035106.1	FIG	CDS	1056612	1056812	.	+	0	ID=fig|210.6438.peg.1059;Name=COP associated protein
+NZ_CP035106.1	FIG	CDS	1057103	1057294	.	-	2	ID=fig|210.6438.peg.1060;Name=hypothetical protein
+NZ_CP035106.1	FIG	CDS	1057467	1058783	.	-	0	ID=fig|210.6438.peg.1061;Name=Putative periplasmic protein
+NZ_CP035106.1	FIG	CDS	1058918	1059433	.	+	2	ID=fig|210.6438.peg.1062;Name=FIG00710755: hypothetical protein
+NZ_CP035106.1	FIG	CDS	1059437	1060432	.	-	2	ID=fig|210.6438.peg.1063;Name=HoxN/HupN/NixA family nickel/cobalt transporter
+NZ_CP035106.1	FIG	CDS	1060590	1060808	.	+	0	ID=fig|210.6438.peg.1064;Name=hypothetical protein
+NZ_CP035106.1	FIG	CDS	1060867	1061439	.	-	1	ID=fig|210.6438.peg.1065;Name=putative
+NZ_CP035106.1	FIG	CDS	1061443	1062066	.	-	1	ID=fig|210.6438.peg.1066;Name=putative
+NZ_CP035106.1	FIG	CDS	1062060	1063715	.	-	0	ID=fig|210.6438.peg.1067;Name=Efflux ABC transporter%2C permease/ATP-binding protein
+NZ_CP035106.1	FIG	CDS	1063807	1065246	.	-	1	ID=fig|210.6438.peg.1068;Name=Uncharacterized outer membrane protein HP1083
+NZ_CP035106.1	FIG	CDS	1065542	1066465	.	-	2	ID=fig|210.6438.peg.1069;Name=Aspartate carbamoyltransferase;Ontology_term=KEGG_ENZYME:2.1.3.2
+NZ_CP035106.1	FIG	CDS	1066538	1067047	.	+	2	ID=fig|210.6438.peg.1070;Name=putative
+NZ_CP035106.1	FIG	CDS	1067047	1067754	.	+	1	ID=fig|210.6438.peg.1071;Name=RNA binding methyltransferase FtsJ like
+NZ_CP035106.1	FIG	CDS	1067720	1068562	.	+	2	ID=fig|210.6438.peg.1072;Name=FMN adenylyltransferase / Riboflavin kinase;Ontology_term=KEGG_ENZYME:2.7.7.2,KEGG_ENZYME:2.7.1.26
+NZ_CP035106.1	FIG	CDS	1068609	1070534	.	+	0	ID=fig|210.6438.peg.1073;Name=Transketolase;Ontology_term=KEGG_ENZYME:2.2.1.1
+NZ_CP035106.1	FIG	CDS	1070531	1072867	.	+	2	ID=fig|210.6438.peg.1074;Name=Helicase / RecB family exonuclease
+NZ_CP035106.1	FIG	CDS	1072864	1075380	.	+	1	ID=fig|210.6438.peg.1075;Name=DNA translocase FtsK
+NZ_CP035106.1	FIG	CDS	1075543	1076829	.	+	1	ID=fig|210.6438.peg.1076;Name=Alpha-ketoglutarate permease
+NZ_CP035106.1	FIG	CDS	1076878	1077687	.	+	1	ID=fig|210.6438.peg.1077;Name=Flagellar basal-body rod protein FlgF
+NZ_CP035106.1	FIG	CDS	1077871	1078050	.	+	1	ID=fig|210.6438.peg.1078;Name=FIG00710912: hypothetical protein
+NZ_CP035106.1	FIG	CDS	1078185	1078943	.	-	0	ID=fig|210.6438.peg.1079;Name=FIG00710469: hypothetical protein
+NZ_CP035106.1	FIG	CDS	1078958	1080766	.	-	2	ID=fig|210.6438.peg.1080;Name=Translation elongation factor LepA
+NZ_CP035106.1	FIG	CDS	1080763	1082613	.	-	1	ID=fig|210.6438.peg.1081;Name=1-deoxy-D-xylulose 5-phosphate synthase;Ontology_term=KEGG_ENZYME:2.2.1.7
+NZ_CP035106.1	FIG	CDS	1082616	1083386	.	-	0	ID=fig|210.6438.peg.1082;Name=Flagellar assembly protein FliH
+NZ_CP035106.1	FIG	CDS	1083379	1084410	.	-	1	ID=fig|210.6438.peg.1083;Name=Flagellar motor switch protein FliG
+NZ_CP035106.1	FIG	CDS	1084429	1086132	.	-	1	ID=fig|210.6438.peg.1084;Name=Flagellar M-ring protein FliF
+NZ_CP035106.1	FIG	CDS	1086176	1086844	.	-	2	ID=fig|210.6438.peg.1085;Name=putative
+NZ_CP035106.1	FIG	CDS	1087112	1088728	.	+	2	ID=fig|210.6438.peg.1086;Name=CTP synthase;Ontology_term=KEGG_ENZYME:6.3.4.2
+NZ_CP035106.1	FIG	CDS	1088737	1090287	.	+	1	ID=fig|210.6438.peg.1087;Name=Single-stranded-DNA-specific exonuclease RecJ
+NZ_CP035106.1	FIG	CDS	1090287	1091168	.	+	0	ID=fig|210.6438.peg.1088;Name=Uncharacterized RNA pseudouridine synthase HP0347
+NZ_CP035106.1	FIG	CDS	1091212	1092273	.	-	1	ID=fig|210.6438.peg.1089;Name=FIG00710644: hypothetical protein
+NZ_CP035106.1	FIG	CDS	1092263	1093048	.	-	2	ID=fig|210.6438.peg.1090;Name=FIG00711251: hypothetical protein
+NZ_CP035106.1	FIG	CDS	1093048	1093434	.	-	1	ID=fig|210.6438.peg.1091;Name=FIG00710447: hypothetical protein
+NZ_CP035106.1	FIG	CDS	1093548	1093721	.	-	0	ID=fig|210.6438.peg.1092;Name=hypothetical protein
+NZ_CP035106.1	FIG	CDS	1093771	1094037	.	-	1	ID=fig|210.6438.peg.1093;Name=Lysozyme;Ontology_term=KEGG_ENZYME:3.2.1.17
+NZ_CP035106.1	FIG	CDS	1094121	1094444	.	-	0	ID=fig|210.6438.peg.1094;Name=Lysozyme;Ontology_term=KEGG_ENZYME:3.2.1.17
+NZ_CP035106.1	FIG	CDS	1094455	1095015	.	-	1	ID=fig|210.6438.peg.1095;Name=putative
+NZ_CP035106.1	FIG	CDS	1094999	1095337	.	-	2	ID=fig|210.6438.peg.1096;Name=putative
+NZ_CP035106.1	FIG	CDS	1095526	1095819	.	-	1	ID=fig|210.6438.peg.1097;Name=putative secreted protein
+NZ_CP035106.1	FIG	CDS	1095892	1096296	.	-	1	ID=fig|210.6438.peg.1098;Name=Putative pre-16S rRNA nuclease YqgF
+NZ_CP035106.1	FIG	CDS	1096293	1097093	.	-	0	ID=fig|210.6438.peg.1099;Name=SMF family protein%2C DNA processing chain A (DprA)
+NZ_CP035106.1	FIG	CDS	1097105	1097338	.	-	2	ID=fig|210.6438.peg.1100;Name=Cell division topological specificity factor MinE
+NZ_CP035106.1	FIG	CDS	1097335	1098141	.	-	1	ID=fig|210.6438.peg.1101;Name=Septum site-determining protein MinD
+NZ_CP035106.1	FIG	CDS	1098166	1099158	.	-	1	ID=fig|210.6438.peg.1102;Name=Ketol-acid reductoisomerase (NADP(+));Ontology_term=KEGG_ENZYME:1.1.1.86
+NZ_CP035106.1	FIG	CDS	1099407	1100189	.	+	0	ID=fig|210.6438.peg.1103;Name=NAD synthetase;Ontology_term=KEGG_ENZYME:6.3.1.5
+NZ_CP035106.1	FIG	CDS	1100186	1101124	.	+	2	ID=fig|210.6438.peg.1104;Name=Tetraacyldisaccharide 4'-kinase;Ontology_term=KEGG_ENZYME:2.7.1.130
+NZ_CP035106.1	FIG	CDS	1101596	1102453	.	-	2	ID=fig|210.6438.peg.1105;Name=UDP-2%2C4-diacetamido-2%2C4%2C6-trideoxy-beta-L-altropyranose hydrolase;Ontology_term=KEGG_ENZYME:3.6.1.57
+NZ_CP035106.1	FIG	CDS	1102459	1103142	.	-	1	ID=fig|210.6438.peg.1106;Name=Pseudaminic acid cytidylyltransferase;Ontology_term=KEGG_ENZYME:2.7.7.81
+NZ_CP035106.1	FIG	CDS	1103160	1103873	.	-	0	ID=fig|210.6438.peg.1107;Name=Flagellar L-ring protein FlgH
+NZ_CP035106.1	FIG	CDS	1104003	1104740	.	+	0	ID=fig|210.6438.peg.1108;Name=Putative outer membrane protein
+NZ_CP035106.1	FIG	CDS	1104747	1105289	.	-	0	ID=fig|210.6438.peg.1109;Name=membrane bound endonuclease (nuc)
+NZ_CP035106.1	FIG	CDS	1105293	1105418	.	+	0	ID=fig|210.6438.peg.1110;Name=Highly acidic protein
+NZ_CP035106.1	FIG	CDS	1105431	1106879	.	+	0	ID=fig|210.6438.peg.1111;Name=poly E-rich protein
+NZ_CP035106.1	FIG	CDS	1106872	1107492	.	+	1	ID=fig|210.6438.peg.1112;Name=Guanylate kinase;Ontology_term=KEGG_ENZYME:2.7.4.8
+NZ_CP035106.1	FIG	CDS	1107562	1107801	.	+	1	ID=fig|210.6438.peg.1113;Name=Twin-arginine translocation protein TatA
+NZ_CP035106.1	FIG	CDS	1107804	1109429	.	+	0	ID=fig|210.6438.peg.1114;Name=Arginyl-tRNA synthetase;Ontology_term=KEGG_ENZYME:6.1.1.19
+NZ_CP035106.1	FIG	CDS	1109490	1110245	.	+	0	ID=fig|210.6438.peg.1115;Name=Putative heme oxygenase
+NZ_CP035106.1	FIG	CDS	1110740	1111885	.	+	2	ID=fig|210.6438.peg.1116;Name=Nitrite extrusion protein NarK
+NZ_CP035106.1	FIG	CDS	1111891	1112856	.	-	1	ID=fig|210.6438.peg.1117;Name=Metal chaperone%2C involved in Zn homeostasis
+NZ_CP035106.1	FIG	CDS	1112856	1113215	.	-	0	ID=fig|210.6438.peg.1118;Name=FIG00710175: hypothetical protein
+NZ_CP035106.1	FIG	CDS	1113311	1113616	.	+	2	ID=fig|210.6438.peg.1119;Name=type II DNA modification enzyme
+NZ_CP035106.1	FIG	CDS	1113582	1113902	.	+	0	ID=fig|210.6438.peg.1120;Name=type II restriction enzyme
+NZ_CP035106.1	FIG	CDS	1113893	1114237	.	+	2	ID=fig|210.6438.peg.1121;Name=type II restriction enzyme
+NZ_CP035106.1	FIG	CDS	1114291	1115172	.	-	1	ID=fig|210.6438.peg.1122;Name=Putative polysaccharide deacetylase
+NZ_CP035106.1	FIG	CDS	1115185	1116069	.	-	1	ID=fig|210.6438.peg.1123;Name=Predicted amidohydrolase
+NZ_CP035106.1	FIG	CDS	1116153	1116557	.	-	0	ID=fig|210.6438.peg.1124;Name=putative
+NZ_CP035106.1	FIG	CDS	1116578	1116838	.	-	2	ID=fig|210.6438.peg.1125;Name=ATP synthase protein I-like membrane protein
+NZ_CP035106.1	FIG	CDS	1116843	1118135	.	-	0	ID=fig|210.6438.peg.1126;Name=Glutamate-1-semialdehyde 2%2C1-aminomutase;Ontology_term=KEGG_ENZYME:5.4.3.8
+NZ_CP035106.1	FIG	CDS	1118145	1118699	.	-	0	ID=fig|210.6438.peg.1127;Name=Putative periplasmic protein
+NZ_CP035106.1	FIG	CDS	1118948	1119943	.	-	2	ID=fig|210.6438.peg.1128;Name=FIG00710428: hypothetical protein
+NZ_CP035106.1	FIG	CDS	1119985	1121067	.	-	1	ID=fig|210.6438.peg.1129;Name=GTP-binding protein Obg
+NZ_CP035106.1	FIG	CDS	1121087	1121893	.	-	2	ID=fig|210.6438.peg.1130;Name=Dipeptide ABC transporter%2C ATP-binding protein DppF (TC 3.A.1.5.2)
+NZ_CP035106.1	FIG	CDS	1121890	1122753	.	-	1	ID=fig|210.6438.peg.1131;Name=Dipeptide ABC transporter%2C ATP-binding protein DppD (TC 3.A.1.5.2)
+NZ_CP035106.1	FIG	CDS	1122765	1123622	.	-	0	ID=fig|210.6438.peg.1132;Name=Dipeptide ABC transporter%2C permease protein DppC (TC 3.A.1.5.2)
+NZ_CP035106.1	FIG	CDS	1123622	1124626	.	-	2	ID=fig|210.6438.peg.1133;Name=Dipeptide ABC transporter%2C permease protein DppB (TC 3.A.1.5.2)
+NZ_CP035106.1	FIG	CDS	1124636	1126285	.	-	2	ID=fig|210.6438.peg.1134;Name=Dipeptide ABC transporter%2C substrate-binding protein DppA (TC 3.A.1.5.2)
+NZ_CP035106.1	FIG	CDS	1126399	1126665	.	-	1	ID=fig|210.6438.peg.1135;Name=LSU ribosomal protein L27p
+NZ_CP035106.1	FIG	CDS	1126680	1126994	.	-	0	ID=fig|210.6438.peg.1136;Name=LSU ribosomal protein L21p
+NZ_CP035106.1	FIG	CDS	1127226	1129712	.	+	0	ID=fig|210.6438.peg.1137;Name=Flagellar hook-associated protein FlgL
+NZ_CP035106.1	FIG	CDS	1129795	1130814	.	-	1	ID=fig|210.6438.peg.1138;Name=Aliphatic amidase AmiE;Ontology_term=KEGG_ENZYME:3.5.1.4
+NZ_CP035106.1	FIG	CDS	1131006	1132685	.	-	0	ID=fig|210.6438.peg.1139;Name=Para-aminobenzoate synthase%2C aminase component / Aminodeoxychorismate lyase;Ontology_term=KEGG_ENZYME:2.6.1.85,KEGG_ENZYME:4.1.3.38
+NZ_CP035106.1	FIG	CDS	1132686	1133558	.	-	0	ID=fig|210.6438.peg.1140;Name=FIG00710551: hypothetical protein
+NZ_CP035106.1	FIG	CDS	1133571	1133861	.	-	0	ID=fig|210.6438.peg.1141;Name=Chorismate mutase I;Ontology_term=KEGG_ENZYME:5.4.99.5
+NZ_CP035106.1	FIG	CDS	1133866	1135083	.	-	1	ID=fig|210.6438.peg.1142;Name=Diaminopimelate decarboxylase;Ontology_term=KEGG_ENZYME:4.1.1.20
+NZ_CP035106.1	FIG	CDS	1135131	1136720	.	-	0	ID=fig|210.6438.peg.1143;Name=toxin-like outer membrane protein
+NZ_CP035106.1	FIG	CDS	1136774	1137247	.	-	2	ID=fig|210.6438.peg.1144;Name=Uncharacterized protein HP0288
+NZ_CP035106.1	FIG	CDS	1137260	1137778	.	-	2	ID=fig|210.6438.peg.1145;Name=Uncharacterized protein HP0287
+NZ_CP035106.1	FIG	CDS	1137781	1139433	.	-	1	ID=fig|210.6438.peg.1146;Name=ATP-dependent zinc metalloprotease HP0286
+NZ_CP035106.1	FIG	CDS	1139420	1140676	.	-	2	ID=fig|210.6438.peg.1147;Name=tRNA t(6)A37-methylthiotransferase;Ontology_term=KEGG_ENZYME:2.8.4.5
+NZ_CP035106.1	FIG	CDS	1140673	1142244	.	-	1	ID=fig|210.6438.peg.1148;Name=Uncharacterized integral membrane protein HP0284
+NZ_CP035106.1	FIG	CDS	1142235	1143266	.	-	0	ID=fig|210.6438.peg.1149;Name=3-dehydroquinate synthase;Ontology_term=KEGG_ENZYME:4.2.3.4
+NZ_CP035106.1	FIG	CDS	1143273	1144709	.	-	0	ID=fig|210.6438.peg.1150;Name=TrkA domain protein HP0282
+NZ_CP035106.1	FIG	CDS	1144766	1145881	.	+	2	ID=fig|210.6438.peg.1151;Name=Queuine tRNA-ribosyltransferase;Ontology_term=KEGG_ENZYME:2.4.2.29
+NZ_CP035106.1	FIG	CDS	1145912	1146898	.	-	2	ID=fig|210.6438.peg.1152;Name=Lipid A biosynthesis lauroyl acyltransferase;Ontology_term=KEGG_ENZYME:2.3.1.241
+NZ_CP035106.1	FIG	CDS	1146895	1147905	.	-	1	ID=fig|210.6438.peg.1153;Name=Lipopolysaccharide core heptosyltransferase I
+NZ_CP035106.1	FIG	CDS	1147902	1149356	.	-	0	ID=fig|210.6438.peg.1154;Name=Exopolyphosphatase;Ontology_term=KEGG_ENZYME:3.6.1.11
+NZ_CP035106.1	FIG	CDS	1149366	1149617	.	-	0	ID=fig|210.6438.peg.1155;Name=Uncharacterized ferredoxin-like protein YfhL
+NZ_CP035106.1	FIG	CDS	1149673	1150233	.	-	1	ID=fig|210.6438.peg.1156;Name=Indole-3-glycerol phosphate synthase;Ontology_term=KEGG_ENZYME:4.1.1.48
+NZ_CP035106.1	FIG	CDS	1150221	1151513	.	-	0	ID=fig|210.6438.peg.1157;Name=Uncharacterized protein HP0275
+NZ_CP035106.1	FIG	CDS	1151550	1151948	.	-	0	ID=fig|210.6438.peg.1158;Name=FIG00710351: hypothetical protein
+NZ_CP035106.1	FIG	CDS	1151965	1152504	.	-	1	ID=fig|210.6438.peg.1159;Name=putative
+NZ_CP035106.1	FIG	CDS	1152501	1153034	.	-	0	ID=fig|210.6438.peg.1160;Name=Putative membrane protein
+NZ_CP035106.1	FIG	CDS	1153024	1154004	.	-	1	ID=fig|210.6438.peg.1161;Name=hypothetical protein
+NZ_CP035106.1	FIG	CDS	1153997	1154650	.	-	2	ID=fig|210.6438.peg.1162;Name=putative lipoprotein
+NZ_CP035106.1	FIG	CDS	1154690	1156003	.	-	2	ID=fig|210.6438.peg.1163;Name=tRNA-i(6)A37 methylthiotransferase;Ontology_term=KEGG_ENZYME:2.8.4.3
+NZ_CP035106.1	FIG	CDS	1156013	1156255	.	-	2	ID=fig|210.6438.peg.1164;Name=Uncharacterized protein HP_0268
+NZ_CP035106.1	FIG	CDS	1156317	1157546	.	-	0	ID=fig|210.6438.peg.1165;Name=Adenosine deaminase%2C alternative form;Ontology_term=KEGG_ENZYME:3.5.4.4
+NZ_CP035106.1	FIG	CDS	1157531	1158667	.	-	2	ID=fig|210.6438.peg.1166;Name=Dihydroorotase;Ontology_term=KEGG_ENZYME:3.5.2.3
+NZ_CP035106.1	FIG	CDS	1158677	1159396	.	-	2	ID=fig|210.6438.peg.1167;Name=Cytochrome c-type biogenesis protein CcdA (DsbD analog)
+NZ_CP035106.1	FIG	CDS	1159453	1162023	.	-	1	ID=fig|210.6438.peg.1168;Name=Chaperone protein ClpB (ATP-dependent unfoldase)
+NZ_CP035106.1	FIG	CDS	1162095	1162853	.	-	0	ID=fig|210.6438.peg.1169;Name=Site-specific DNA-methyltransferase (cytosine-N(4)-specific);Ontology_term=KEGG_ENZYME:2.1.1.113
+NZ_CP035106.1	FIG	CDS	1162850	1163497	.	-	2	ID=fig|210.6438.peg.1170;Name=putative
+NZ_CP035106.1	FIG	CDS	1163748	1165013	.	-	0	ID=fig|210.6438.peg.1171;Name=Exodeoxyribonuclease VII large subunit;Ontology_term=KEGG_ENZYME:3.1.11.6
+NZ_CP035106.1	FIG	CDS	1165023	1166069	.	-	0	ID=fig|210.6438.peg.1172;Name=Intramembrane protease RasP/YluC%2C implicated in cell division based on FtsL cleavage
+NZ_CP035106.1	FIG	CDS	1166069	1166728	.	-	2	ID=fig|210.6438.peg.1173;Name=Flagellar protein FlbB
+NZ_CP035106.1	FIG	CDS	1166721	1167149	.	-	0	ID=fig|210.6438.peg.1174;Name=FIG00710361: hypothetical protein
+NZ_CP035106.1	FIG	CDS	1167146	1168381	.	-	2	ID=fig|210.6438.peg.1175;Name=Adenylosuccinate synthetase;Ontology_term=KEGG_ENZYME:6.3.4.4
+NZ_CP035106.1	FIG	CDS	1168479	1169897	.	-	0	ID=fig|210.6438.peg.1176;Name=Putative outer membrane protein
+NZ_CP035106.1	FIG	CDS	1169910	1171352	.	-	0	ID=fig|210.6438.peg.1177;Name=Putative outer membrane protein
+NZ_CP035106.1	FIG	CDS	1171704	1172720	.	+	0	ID=fig|210.6438.peg.1178;Name=ABC transporter%2C permease protein 2 (cluster 5%2C nickel/peptides/opines)
+NZ_CP035106.1	FIG	CDS	1172730	1173812	.	+	0	ID=fig|210.6438.peg.1179;Name=Oligopeptide ABC transporter%2C ATP-binding protein OppD (TC 3.A.1.5.1)
+NZ_CP035106.1	FIG	CDS	1173782	1174279	.	+	2	ID=fig|210.6438.peg.1180;Name=Oligopeptide ABC transporter%2C ATP-binding protein OppD (TC 3.A.1.5.1)
+NZ_CP035106.1	FIG	CDS	1174346	1174885	.	-	2	ID=fig|210.6438.peg.1181;Name=putative
+NZ_CP035106.1	FIG	CDS	1174892	1175980	.	-	2	ID=fig|210.6438.peg.1182;Name=Membrane protease family protein HP0248
+NZ_CP035106.1	FIG	CDS	1176001	1177479	.	-	1	ID=fig|210.6438.peg.1183;Name=DEAD-box ATP-dependent RNA helicase DeaD ( CshA);Ontology_term=KEGG_ENZYME:3.6.4.13
+NZ_CP035106.1	FIG	CDS	1177668	1178696	.	+	0	ID=fig|210.6438.peg.1184;Name=Flagellar P-ring protein FlgI
+NZ_CP035106.1	FIG	CDS	1178693	1179010	.	+	2	ID=fig|210.6438.peg.1185;Name=putative
+NZ_CP035106.1	FIG	CDS	1179007	1180152	.	+	1	ID=fig|210.6438.peg.1186;Name=Flagellar sensory histidine kinase FlgS
+NZ_CP035106.1	FIG	CDS	1180359	1180793	.	+	0	ID=fig|210.6438.peg.1187;Name=DNA protection during starvation protein
+NZ_CP035106.1	FIG	CDS	1180814	1181098	.	+	2	ID=fig|210.6438.peg.1188;Name=FIG00711038: hypothetical protein
+NZ_CP035106.1	FIG	CDS	1181091	1181486	.	+	0	ID=fig|210.6438.peg.1189;Name=FIG00710362: hypothetical protein
+NZ_CP035106.1	FIG	CDS	1181496	1182419	.	+	0	ID=fig|210.6438.peg.1190;Name=All-trans-hexaprenyl-diphosphate synthase;Ontology_term=KEGG_ENZYME:2.5.1.33
+NZ_CP035106.1	FIG	CDS	1182419	1183768	.	+	2	ID=fig|210.6438.peg.1191;Name=Glutamyl-tRNA reductase;Ontology_term=KEGG_ENZYME:1.2.1.70
+NZ_CP035106.1	FIG	CDS	1183772	1185505	.	+	2	ID=fig|210.6438.peg.1192;Name=Prolyl-tRNA synthetase%2C bacterial type;Ontology_term=KEGG_ENZYME:6.1.1.15
+NZ_CP035106.1	FIG	CDS	1185516	1186436	.	+	0	ID=fig|210.6438.peg.1193;Name=Porphobilinogen deaminase;Ontology_term=KEGG_ENZYME:2.5.1.61
+NZ_CP035106.1	FIG	CDS	1186436	1186807	.	+	2	ID=fig|210.6438.peg.1194;Name=Putative periplasmic protein
+NZ_CP035106.1	FIG	CDS	1186902	1187966	.	+	0	ID=fig|210.6438.peg.1195;Name=Tetratricopeptide repeat family protein
+NZ_CP035106.1	FIG	CDS	1188421	1188939	.	-	1	ID=fig|210.6438.peg.1196;Name=Rhomboid family protein
+NZ_CP035106.1	FIG	CDS	1188951	1190123	.	-	0	ID=fig|210.6438.peg.1197;Name=Similarity with glutathionylspermidine synthase%2C group 2;Ontology_term=KEGG_ENZYME:6.3.1.8
+NZ_CP035106.1	FIG	CDS	1190148	1190801	.	-	0	ID=fig|210.6438.peg.1198;Name=secreted protein involved in flagellar motility
+NZ_CP035106.1	FIG	CDS	1190817	1191614	.	-	0	ID=fig|210.6438.peg.1199;Name=PROTEIN DISULPHIDE ISOMERASE
+NZ_CP035106.1	FIG	CDS	1191727	1192452	.	+	1	ID=fig|210.6438.peg.1200;Name=3-deoxy-manno-octulosonate cytidylyltransferase;Ontology_term=KEGG_ENZYME:2.7.7.38
+NZ_CP035106.1	FIG	CDS	1192647	1194110	.	+	0	ID=fig|210.6438.peg.1201;Name=Outer membrane protein (omp6)
+NZ_CP035106.1	FIG	CDS	1194363	1195520	.	-	0	ID=fig|210.6438.peg.1202;Name=Sulfate permease
+NZ_CP035106.1	FIG	CDS	1195783	1197864	.	+	1	ID=fig|210.6438.peg.1203;Name=Outer membrane protein (Omp29) (Omp5)
+NZ_CP035106.1	FIG	CDS	1198033	1198866	.	+	1	ID=fig|210.6438.peg.1204;Name=Sulfite exporter TauE/SafE family
+NZ_CP035106.1	FIG	CDS	1199126	1199260	.	-	2	ID=fig|210.6438.peg.1205;Name=hypothetical protein
+NZ_CP035106.1	FIG	CDS	1199513	1200535	.	-	2	ID=fig|210.6438.peg.1206;Name=Peptide-methionine (S)-S-oxide reductase MsrA / Peptide-methionine (R)-S-oxide reductase MsrB;Ontology_term=KEGG_ENZYME:1.8.4.11,KEGG_ENZYME:1.8.4.12
+NZ_CP035106.1	FIG	CDS	1200715	1202061	.	-	1	ID=fig|210.6438.peg.1207;Name=DNA repair protein RadA
+NZ_CP035106.1	FIG	CDS	1202172	1202405	.	-	0	ID=fig|210.6438.peg.1208;Name=FIG00710623: hypothetical protein
+NZ_CP035106.1	FIG	CDS	1202561	1203541	.	-	2	ID=fig|210.6438.peg.1209;Name=Iron-sulfur cluster assembly scaffold protein IscU/NifU-like
+NZ_CP035106.1	FIG	CDS	1203563	1204726	.	-	2	ID=fig|210.6438.peg.1210;Name=Cysteine desulfurase;Ontology_term=KEGG_ENZYME:2.8.1.7
+NZ_CP035106.1	FIG	CDS	1204898	1205359	.	-	2	ID=fig|210.6438.peg.1211;Name=putative
+NZ_CP035106.1	FIG	CDS	1205504	1206055	.	+	2	ID=fig|210.6438.peg.1212;Name=Phospholipid-binding protein
+NZ_CP035106.1	FIG	CDS	1206071	1206604	.	-	2	ID=fig|210.6438.peg.1213;Name=Beta-1%2C4-N-acetylgalactosaminyltransferase;Ontology_term=KEGG_ENZYME:2.4.1.-
+NZ_CP035106.1	FIG	CDS	1206576	1206935	.	-	0	ID=fig|210.6438.peg.1214;Name=Beta-1%2C4-N-acetylgalactosaminyltransferase;Ontology_term=KEGG_ENZYME:2.4.1.-
+NZ_CP035106.1	FIG	CDS	1206907	1207215	.	-	1	ID=fig|210.6438.peg.1215;Name=Beta-1%2C4-N-acetylgalactosaminyltransferase;Ontology_term=KEGG_ENZYME:2.4.1.-
+NZ_CP035106.1	FIG	CDS	1207266	1208372	.	-	0	ID=fig|210.6438.peg.1216;Name=1-deoxy-D-xylulose 5-phosphate reductoisomerase;Ontology_term=KEGG_ENZYME:1.1.1.267
+NZ_CP035106.1	FIG	CDS	1208373	1209173	.	-	0	ID=fig|210.6438.peg.1217;Name=Phosphatidate cytidylyltransferase;Ontology_term=KEGG_ENZYME:2.7.7.41
+NZ_CP035106.1	FIG	CDS	1209194	1209514	.	-	2	ID=fig|210.6438.peg.1218;Name=Sodium-dependent anion transporter family
+NZ_CP035106.1	FIG	CDS	1209508	1210851	.	-	1	ID=fig|210.6438.peg.1219;Name=Sodium-dependent anion transporter family
+NZ_CP035106.1	FIG	CDS	1210947	1212812	.	+	0	ID=fig|210.6438.peg.1220;Name=tRNA-5-carboxymethylaminomethyl-2-thiouridine(34) synthesis protein MnmG
+NZ_CP035106.1	FIG	CDS	1212823	1213974	.	+	1	ID=fig|210.6438.peg.1221;Name=N-succinyl-L%2CL-diaminopimelate desuccinylase;Ontology_term=KEGG_ENZYME:3.5.1.18
+NZ_CP035106.1	FIG	CDS	1214450	1215202	.	+	2	ID=fig|210.6438.peg.1222;Name=FOG: TPR repeat%2C SEL1 subfamily
+NZ_CP035106.1	FIG	CDS	1215388	1217253	.	-	1	ID=fig|210.6438.peg.1223;Name=Chaperone protein HtpG
+NZ_CP035106.1	FIG	CDS	1217356	1218759	.	-	1	ID=fig|210.6438.peg.1224;Name=Uncharacterized outer membrane protein HP0209
+NZ_CP035106.1	FIG	CDS	1218876	1218989	.	+	0	ID=fig|210.6438.peg.1225;Name=lipopolysaccharide 1%2C2-glycosyltransferase
+NZ_CP035106.1	FIG	CDS	1219013	1220032	.	+	2	ID=fig|210.6438.peg.1226;Name=putative lipopolysaccharide biosynthesis protein
+NZ_CP035106.1	FIG	CDS	1220046	1221152	.	-	0	ID=fig|210.6438.peg.1227;Name=ATP-binding protein
+NZ_CP035106.1	FIG	CDS	1221252	1221404	.	+	0	ID=fig|210.6438.peg.1228;Name=hypothetical protein
+NZ_CP035106.1	FIG	CDS	1221383	1222282	.	+	2	ID=fig|210.6438.peg.1229;Name=FIG00710584: hypothetical protein
+NZ_CP035106.1	FIG	CDS	1222342	1224321	.	+	1	ID=fig|210.6438.peg.1230;Name=FIG00710584: hypothetical protein
+NZ_CP035106.1	FIG	CDS	1224382	1224765	.	+	1	ID=fig|210.6438.peg.1231;Name=FIG00711029: hypothetical protein
+NZ_CP035106.1	FIG	CDS	1224912	1225049	.	-	0	ID=fig|210.6438.peg.1232;Name=hypothetical protein
+NZ_CP035106.1	FIG	CDS	1225046	1225348	.	-	2	ID=fig|210.6438.peg.1233;Name=putative
+NZ_CP035106.1	FIG	CDS	1225369	1226361	.	-	1	ID=fig|210.6438.peg.1234;Name=3-oxoacyl-[acyl-carrier-protein] synthase%2C KASIII;Ontology_term=KEGG_ENZYME:2.3.1.180
+NZ_CP035106.1	FIG	CDS	1226386	1227405	.	-	1	ID=fig|210.6438.peg.1235;Name=Phosphate:acyl-ACP acyltransferase PlsX (EC 2.3.1.n2)
+NZ_CP035106.1	FIG	CDS	1227483	1227629	.	-	0	ID=fig|210.6438.peg.1236;Name=LSU ribosomal protein L32p @ LSU ribosomal protein L32p%2C zinc-independent
+NZ_CP035106.1	FIG	CDS	1227645	1228001	.	-	0	ID=fig|210.6438.peg.1237;Name=FIG01269488: protein%2C clustered with ribosomal protein L32p
+NZ_CP035106.1	FIG	CDS	1228027	1228440	.	-	1	ID=fig|210.6438.peg.1238;Name=Nucleoside diphosphate kinase;Ontology_term=KEGG_ENZYME:2.7.4.6
+NZ_CP035106.1	FIG	CDS	1228507	1229664	.	-	1	ID=fig|210.6438.peg.1239;Name=S-adenosylmethionine synthetase;Ontology_term=KEGG_ENZYME:2.5.1.6
+NZ_CP035106.1	FIG	CDS	1229729	1230739	.	-	2	ID=fig|210.6438.peg.1240;Name=UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase;Ontology_term=KEGG_ENZYME:2.3.1.191
+NZ_CP035106.1	FIG	CDS	1230749	1231576	.	-	2	ID=fig|210.6438.peg.1241;Name=Enoyl-[acyl-carrier-protein] reductase [NADH];Ontology_term=KEGG_ENZYME:1.3.1.9
+NZ_CP035106.1	FIG	CDS	1231587	1232291	.	-	0	ID=fig|210.6438.peg.1242;Name=Triosephosphate isomerase;Ontology_term=KEGG_ENZYME:5.3.1.1
+NZ_CP035106.1	FIG	CDS	1232504	1233271	.	+	2	ID=fig|210.6438.peg.1243;Name=Fumarate reductase cytochrome b subunit
+NZ_CP035106.1	FIG	CDS	1233281	1235425	.	+	2	ID=fig|210.6438.peg.1244;Name=Fumarate reductase flavoprotein subunit;Ontology_term=KEGG_ENZYME:1.3.5.4
+NZ_CP035106.1	FIG	CDS	1235418	1236155	.	+	0	ID=fig|210.6438.peg.1245;Name=Fumarate reductase iron-sulfur protein;Ontology_term=KEGG_ENZYME:1.3.5.4
+NZ_CP035106.1	FIG	CDS	1236177	1237685	.	+	0	ID=fig|210.6438.peg.1246;Name=Cardiolipin synthase phosphatidylethanolamine-utilizing%2C bacterial type ClsC;Ontology_term=KEGG_ENZYME:2.7.8.-
+NZ_CP035106.1	FIG	CDS	1237691	1238224	.	-	2	ID=fig|210.6438.peg.1247;Name=Putative inner membrane protein (Fragment)
+NZ_CP035106.1	FIG	CDS	1238547	1240088	.	+	0	ID=fig|210.6438.peg.1248;Name=FIG00710388: hypothetical protein
+NZ_CP035106.1	FIG	CDS	1240175	1240288	.	-	2	ID=fig|210.6438.peg.1249;Name=FIG00711097: hypothetical protein
+NZ_CP035106.1	FIG	CDS	1240446	1241252	.	-	0	ID=fig|210.6438.peg.1250;Name=putative
+NZ_CP035106.1	FIG	CDS	1241274	1241816	.	-	0	ID=fig|210.6438.peg.1251;Name=FIG00710714: hypothetical protein
+NZ_CP035106.1	FIG	CDS	1241827	1243077	.	-	1	ID=fig|210.6438.peg.1252;Name=Serine hydroxymethyltransferase;Ontology_term=KEGG_ENZYME:2.1.2.1
+NZ_CP035106.1	FIG	CDS	1243077	1244582	.	-	0	ID=fig|210.6438.peg.1253;Name=Lysyl-tRNA synthetase (class II);Ontology_term=KEGG_ENZYME:6.1.1.6
+NZ_CP035106.1	FIG	CDS	1244592	1245278	.	-	0	ID=fig|210.6438.peg.1254;Name=Putative integral membrane protein HP_0181
+NZ_CP035106.1	FIG	CDS	1245502	1246779	.	+	1	ID=fig|210.6438.peg.1255;Name=Apolipoprotein N-acyltransferase / Copper homeostasis protein CutE
+NZ_CP035106.1	FIG	CDS	1246779	1247420	.	+	0	ID=fig|210.6438.peg.1256;Name=ABC transporter%2C ATP-binding protein
+NZ_CP035106.1	FIG	CDS	1247424	1248446	.	+	0	ID=fig|210.6438.peg.1257;Name=Pseudaminic acid synthase;Ontology_term=KEGG_ENZYME:2.5.1.97
+NZ_CP035106.1	FIG	CDS	1248522	1249736	.	-	0	ID=fig|210.6438.peg.1258;Name=Type II restriction-modification system restriction subunit
+NZ_CP035106.1	FIG	CDS	1249729	1251075	.	-	1	ID=fig|210.6438.peg.1259;Name=McrBC restriction endonuclease system%2C McrB subunit%2C putative
+NZ_CP035106.1	FIG	CDS	1251664	1252227	.	-	1	ID=fig|210.6438.peg.1260;Name=Translation elongation factor P
+NZ_CP035106.1	FIG	CDS	1252249	1253172	.	-	1	ID=fig|210.6438.peg.1261;Name=Fructose-bisphosphate aldolase class II;Ontology_term=KEGG_ENZYME:4.1.2.13
+NZ_CP035106.1	FIG	CDS	1253189	1254088	.	-	2	ID=fig|210.6438.peg.1262;Name=putative peptidyl-prolyl cis-trans isomerase
+NZ_CP035106.1	FIG	CDS	1254570	1255298	.	+	0	ID=fig|210.6438.peg.1263;Name=putative
+NZ_CP035106.1	FIG	CDS	1255292	1256059	.	+	2	ID=fig|210.6438.peg.1264;Name=Flagellar biosynthesis protein FliR
+NZ_CP035106.1	FIG	CDS	1256056	1256334	.	-	1	ID=fig|210.6438.peg.1265;Name=hypothetical protein
+NZ_CP035106.1	FIG	CDS	1256389	1257648	.	-	1	ID=fig|210.6438.peg.1266;Name=Mobile element protein
+NZ_CP035106.1	FIG	CDS	1257623	1258276	.	-	2	ID=fig|210.6438.peg.1267;Name=First ORF in transposon ISC1904
+NZ_CP035106.1	FIG	CDS	1258370	1258624	.	+	2	ID=fig|210.6438.peg.1268;Name=Molybdopterin molybdenumtransferase;Ontology_term=KEGG_ENZYME:2.10.1.1
+NZ_CP035106.1	FIG	CDS	1258647	1259777	.	+	0	ID=fig|210.6438.peg.1269;Name=Peptide chain release factor 2
+NZ_CP035106.1	FIG	CDS	1259852	1260571	.	+	2	ID=fig|210.6438.peg.1270;Name=FIG00710191: hypothetical protein
+NZ_CP035106.1	FIG	CDS	1260574	1261860	.	+	1	ID=fig|210.6438.peg.1271;Name=Uncharacterized protease HP_0169
+NZ_CP035106.1	FIG	CDS	1261886	1262149	.	+	2	ID=fig|210.6438.peg.1272;Name=FIG00469412: hypothetical protein
+NZ_CP035106.1	FIG	CDS	1262128	1262619	.	+	1	ID=fig|210.6438.peg.1273;Name=FIG00710688: hypothetical protein
+NZ_CP035106.1	FIG	CDS	1262854	1263531	.	+	1	ID=fig|210.6438.peg.1274;Name=response regulator (ompR)
+NZ_CP035106.1	FIG	CDS	1263557	1264837	.	+	2	ID=fig|210.6438.peg.1275;Name=putative histidine kinase sensor protein
+NZ_CP035106.1	FIG	CDS	1264909	1265880	.	+	1	ID=fig|210.6438.peg.1276;Name=Porphobilinogen synthase;Ontology_term=KEGG_ENZYME:4.2.1.24
+NZ_CP035106.1	FIG	CDS	1265881	1266603	.	+	1	ID=fig|210.6438.peg.1277;Name=Probable transcriptional regulatory protein YebC
+NZ_CP035106.1	FIG	CDS	1267007	1267123	.	+	2	ID=fig|210.6438.peg.1278;Name=FIG00711337: hypothetical protein
+NZ_CP035106.1	FIG	CDS	1267372	1268292	.	-	1	ID=fig|210.6438.peg.1279;Name=Tetratricopeptide repeat family protein
+NZ_CP035106.1	FIG	CDS	1268451	1269569	.	+	0	ID=fig|210.6438.peg.1280;Name=putative lipopolysaccharide biosynthesis protein
+NZ_CP035106.1	FIG	CDS	1269566	1270522	.	-	2	ID=fig|210.6438.peg.1281;Name=N-linked glycosylation glycosyltransferase PglG
+NZ_CP035106.1	FIG	CDS	1270544	1271032	.	-	2	ID=fig|210.6438.peg.1282;Name=Shikimate kinase I;Ontology_term=KEGG_ENZYME:2.7.1.71
+NZ_CP035106.1	FIG	CDS	1271037	1271633	.	-	0	ID=fig|210.6438.peg.1283;Name=Putative periplasmic protein
+NZ_CP035106.1	FIG	CDS	1271649	1271924	.	-	0	ID=fig|210.6438.peg.1284;Name=FIG00710227: hypothetical protein
+NZ_CP035106.1	FIG	CDS	1271917	1273197	.	-	1	ID=fig|210.6438.peg.1285;Name=Enolase;Ontology_term=KEGG_ENZYME:4.2.1.11
+NZ_CP035106.1	FIG	CDS	1273209	1274252	.	-	0	ID=fig|210.6438.peg.1286;Name=RecA protein
+NZ_CP035106.1	FIG	CDS	1274351	1275217	.	+	2	ID=fig|210.6438.peg.1287;Name=1%2C4-dihydroxy-6-naphtoate synthase
+NZ_CP035106.1	FIG	CDS	1275214	1275981	.	-	1	ID=fig|210.6438.peg.1288;Name=putative membrane protein
+NZ_CP035106.1	FIG	CDS	1276070	1276651	.	-	2	ID=fig|210.6438.peg.1289;Name=putative
+NZ_CP035106.1	FIG	CDS	1276663	1277247	.	-	1	ID=fig|210.6438.peg.1290;Name=FIG00710278: hypothetical protein
+NZ_CP035106.1	FIG	CDS	1277244	1277351	.	-	0	ID=fig|210.6438.peg.1291;Name=hypothetical protein
+NZ_CP035106.1	FIG	CDS	1277348	1277554	.	-	2	ID=fig|210.6438.peg.1292;Name=FIG00710306: hypothetical protein
+NZ_CP035106.1	FIG	CDS	1277565	1278443	.	-	0	ID=fig|210.6438.peg.1293;Name=Cytochrome c oxidase (cbb3-type) subunit CcoP;Ontology_term=KEGG_ENZYME:1.9.3.1
+NZ_CP035106.1	FIG	CDS	1278445	1278663	.	-	1	ID=fig|210.6438.peg.1294;Name=Cytochrome c oxidase (cbb3-type) subunit CcoQ;Ontology_term=KEGG_ENZYME:1.9.3.1
+NZ_CP035106.1	FIG	CDS	1278674	1279372	.	-	2	ID=fig|210.6438.peg.1295;Name=Cytochrome c oxidase (cbb3-type) subunit CcoO;Ontology_term=KEGG_ENZYME:1.9.3.1
+NZ_CP035106.1	FIG	CDS	1279385	1280851	.	-	2	ID=fig|210.6438.peg.1296;Name=Cytochrome c oxidase (cbb3-type) subunit CcoN;Ontology_term=KEGG_ENZYME:1.9.3.1
+NZ_CP035106.1	FIG	CDS	1281021	1282469	.	+	0	ID=fig|210.6438.peg.1297;Name=2-oxoglutarate/malate translocator
+NZ_CP035106.1	FIG	CDS	1282587	1283456	.	+	0	ID=fig|210.6438.peg.1298;Name=A/G-specific adenine glycosylase;Ontology_term=KEGG_ENZYME:3.2.2.-
+NZ_CP035106.1	FIG	CDS	1283480	1285135	.	-	2	ID=fig|210.6438.peg.1299;Name=L-lactate permease
+NZ_CP035106.1	FIG	CDS	1285184	1286833	.	-	2	ID=fig|210.6438.peg.1300;Name=L-lactate permease
+NZ_CP035106.1	FIG	CDS	1287055	1287783	.	+	1	ID=fig|210.6438.peg.1301;Name=Predicted L-lactate dehydrogenase%2C Fe-S oxidoreductase subunit YkgE
+NZ_CP035106.1	FIG	CDS	1287812	1289257	.	+	2	ID=fig|210.6438.peg.1302;Name=Predicted L-lactate dehydrogenase%2C Iron-sulfur cluster-binding subunit YkgF
+NZ_CP035106.1	FIG	CDS	1289250	1289885	.	+	0	ID=fig|210.6438.peg.1303;Name=Predicted L-lactate dehydrogenase%2C hypothetical protein subunit YkgG
+NZ_CP035106.1	FIG	CDS	1289895	1290353	.	+	0	ID=fig|210.6438.peg.1304;Name=Thiol peroxidase%2C Bcp-type;Ontology_term=KEGG_ENZYME:1.11.1.15
+NZ_CP035106.1	FIG	CDS	1290584	1290718	.	-	2	ID=fig|210.6438.peg.1305;Name=putative
+NZ_CP035106.1	FIG	CDS	1290804	1292153	.	-	0	ID=fig|210.6438.peg.1306;Name=2-keto-3-deoxy-D-arabino-heptulosonate-7-phosphate synthase II;Ontology_term=KEGG_ENZYME:2.5.1.54
+NZ_CP035106.1	FIG	CDS	1292335	1293576	.	+	1	ID=fig|210.6438.peg.1307;Name=Serine transporter
+NZ_CP035106.1	FIG	CDS	1293576	1294943	.	+	0	ID=fig|210.6438.peg.1308;Name=L-serine dehydratase%2C beta subunit / L-serine dehydratase%2C alpha subunit;Ontology_term=KEGG_ENZYME:4.3.1.17,KEGG_ENZYME:4.3.1.17
+NZ_CP035106.1	FIG	CDS	1295346	1295459	.	-	0	ID=fig|210.6438.peg.1309;Name=hypothetical protein
+NZ_CP035106.1	FIG	CDS	1295541	1296410	.	-	0	ID=fig|210.6438.peg.1310;Name=putative
+NZ_CP035106.1	FIG	CDS	1296502	1296684	.	-	1	ID=fig|210.6438.peg.1311;Name=FIG00711145: hypothetical protein
+NZ_CP035106.1	FIG	CDS	1296787	1297257	.	-	1	ID=fig|210.6438.peg.1312;Name=putative
+NZ_CP035106.1	FIG	CDS	1297421	1297546	.	-	2	ID=fig|210.6438.peg.1313;Name=FIG00710140: hypothetical protein
+NZ_CP035106.1	FIG	CDS	1297598	1298458	.	-	2	ID=fig|210.6438.peg.1314;Name=Putative outer membrane protein
+NZ_CP035106.1	FIG	CDS	1298658	1299008	.	-	0	ID=fig|210.6438.peg.1315;Name=LSU ribosomal protein L20p
+NZ_CP035106.1	FIG	CDS	1299101	1299295	.	-	2	ID=fig|210.6438.peg.1316;Name=LSU ribosomal protein L35p
+NZ_CP035106.1	FIG	CDS	1299276	1299887	.	-	0	ID=fig|210.6438.peg.1317;Name=Translation initiation factor 3
+NZ_CP035106.1	FIG	CDS	1299884	1301722	.	-	2	ID=fig|210.6438.peg.1318;Name=Threonyl-tRNA synthetase;Ontology_term=KEGG_ENZYME:6.1.1.3
+NZ_CP035106.1	FIG	CDS	1301762	1301875	.	-	2	ID=fig|210.6438.peg.1319;Name=putative
+NZ_CP035106.1	FIG	CDS	1302077	1304515	.	+	2	ID=fig|210.6438.peg.1320;Name=Phosphoenolpyruvate synthase;Ontology_term=KEGG_ENZYME:2.7.9.2
+NZ_CP035106.1	FIG	CDS	1304614	1305852	.	+	1	ID=fig|210.6438.peg.1321;Name=FIG00710511: hypothetical protein
+NZ_CP035106.1	FIG	CDS	1305945	1306871	.	-	0	ID=fig|210.6438.peg.1322;Name=Radical SAM domain protein
+NZ_CP035106.1	FIG	CDS	1306864	1309074	.	-	1	ID=fig|210.6438.peg.1323;Name=DNA topoisomerase I;Ontology_term=KEGG_ENZYME:5.99.1.2
+NZ_CP035106.1	FIG	CDS	1309240	1310784	.	+	1	ID=fig|210.6438.peg.1324;Name=Flagellin
+NZ_CP035106.1	FIG	CDS	1310844	1312730	.	+	0	ID=fig|210.6438.peg.1325;Name=Motility accessory factor
+NZ_CP035106.1	FIG	CDS	1312757	1313053	.	-	2	ID=fig|210.6438.peg.1326;Name=putative
+NZ_CP035106.1	FIG	CDS	1313074	1313712	.	-	1	ID=fig|210.6438.peg.1327;Name=FIG00712138: hypothetical protein
+NZ_CP035106.1	FIG	CDS	1313987	1314757	.	+	2	ID=fig|210.6438.peg.1328;Name=Heat-inducible transcription repressor HrcA
+NZ_CP035106.1	FIG	CDS	1314757	1315332	.	+	1	ID=fig|210.6438.peg.1329;Name=Heat shock protein GrpE
+NZ_CP035106.1	FIG	CDS	1315363	1317225	.	+	1	ID=fig|210.6438.peg.1330;Name=Chaperone protein DnaK
+NZ_CP035106.1	FIG	CDS	1317209	1317340	.	+	2	ID=fig|210.6438.peg.1331;Name=hypothetical protein
+NZ_CP035106.1	FIG	CDS	1318057	1318974	.	+	1	ID=fig|210.6438.peg.1332;Name=Cystathionine beta-synthase;Ontology_term=KEGG_ENZYME:4.2.1.22
+NZ_CP035106.1	FIG	CDS	1318995	1320137	.	+	0	ID=fig|210.6438.peg.1333;Name=Cystathionine gamma-lyase;Ontology_term=KEGG_ENZYME:4.4.1.1
+NZ_CP035106.1	FIG	CDS	1320167	1320634	.	+	2	ID=fig|210.6438.peg.1334;Name=S-ribosylhomocysteine lyase @ Autoinducer-2 production protein LuxS;Ontology_term=KEGG_ENZYME:4.4.1.21
+NZ_CP035106.1	FIG	CDS	1320765	1322510	.	+	0	ID=fig|210.6438.peg.1335;Name=2'%2C3'-cyclic-nucleotide 2'-phosphodiesterase;Ontology_term=KEGG_ENZYME:3.1.4.16
+NZ_CP035106.1	FIG	CDS	1322717	1324171	.	+	2	ID=fig|210.6438.peg.1336;Name=Methyl-accepting chemotaxis protein
+NZ_CP035106.1	FIG	CDS	1324125	1324418	.	+	0	ID=fig|210.6438.peg.1337;Name=Methyl-accepting chemotaxis protein
+NZ_CP035106.1	FIG	CDS	1324449	1325231	.	+	0	ID=fig|210.6438.peg.1338;Name=Beta-1%2C3-galactosyltransferase / Beta-1%2C4-galactosyltransferase
+NZ_CP035106.1	FIG	CDS	1325214	1325975	.	-	0	ID=fig|210.6438.peg.1339;Name=putative
+NZ_CP035106.1	FIG	CDS	1326108	1327214	.	-	0	ID=fig|210.6438.peg.1340;Name=Epoxyqueuosine reductase QueH / hypothetical domain;Ontology_term=KEGG_ENZYME:1.17.99.6
+NZ_CP035106.1	FIG	CDS	1327214	1329241	.	-	2	ID=fig|210.6438.peg.1341;Name=methyl-accepting chemotaxis protein (tlpA)
+NZ_CP035106.1	FIG	CDS	1329445	1330905	.	+	1	ID=fig|210.6438.peg.1342;Name=Threonine synthase;Ontology_term=KEGG_ENZYME:4.2.3.1
+NZ_CP035106.1	FIG	CDS	1331011	1331721	.	+	1	ID=fig|210.6438.peg.1343;Name=putative
+NZ_CP035106.1	FIG	CDS	1331850	1331984	.	+	0	ID=fig|210.6438.peg.1344;Name=hypothetical protein
+NZ_CP035106.1	FIG	CDS	1332080	1333024	.	-	2	ID=fig|210.6438.peg.1345;Name=Keto-acid dehydrogenase
+NZ_CP035106.1	FIG	CDS	1333097	1333627	.	+	2	ID=fig|210.6438.peg.1346;Name=FIG00710601: hypothetical protein
+NZ_CP035106.1	FIG	CDS	1333726	1334616	.	+	1	ID=fig|210.6438.peg.1347;Name=putative ALPHA(1%2C2)FUCOSYLTRANSFERASE
+NZ_CP035106.1	FIG	CDS	1334637	1335467	.	-	0	ID=fig|210.6438.peg.1348;Name=TYPE II DNA MODIFICATION ENZYME (METHYLTRANSFERASE)
+NZ_CP035106.1	FIG	CDS	1335461	1336294	.	-	2	ID=fig|210.6438.peg.1349;Name=Type II restriction enzyme MjaIII;Ontology_term=KEGG_ENZYME:3.1.21.4
+NZ_CP035106.1	FIG	CDS	1336720	1337649	.	+	1	ID=fig|210.6438.peg.1350;Name=Malonyl CoA-acyl carrier protein transacylase;Ontology_term=KEGG_ENZYME:2.3.1.39
+NZ_CP035106.1	FIG	CDS	1337660	1338355	.	+	2	ID=fig|210.6438.peg.1351;Name=Aminodeoxyfutalosine nucleosidase;Ontology_term=KEGG_ENZYME:3.2.2.30
+NZ_CP035106.1	FIG	CDS	1338550	1340637	.	+	1	ID=fig|210.6438.peg.1352;Name=RNA polymerase sigma factor RpoD
+NZ_CP035106.1	FIG	CDS	1340658	1342022	.	+	0	ID=fig|210.6438.peg.1353;Name=probable exported protein STY2149
+NZ_CP035106.1	FIG	CDS	1342076	1343428	.	+	2	ID=fig|210.6438.peg.1354;Name=Malate:quinone oxidoreductase;Ontology_term=KEGG_ENZYME:1.1.5.4
+NZ_CP035106.1	FIG	CDS	1343434	1343622	.	+	1	ID=fig|210.6438.peg.1355;Name=FIG00710635: hypothetical protein
+NZ_CP035106.1	FIG	CDS	1343807	1344232	.	+	2	ID=fig|210.6438.peg.1356;Name=LSU ribosomal protein L13p (L13Ae)
+NZ_CP035106.1	FIG	CDS	1344229	1344618	.	+	1	ID=fig|210.6438.peg.1357;Name=SSU ribosomal protein S9p (S16e)
+NZ_CP035106.1	FIG	CDS	1344783	1346804	.	+	0	ID=fig|210.6438.peg.1358;Name=Methyl-accepting chemotaxis signal transduction protein
+NZ_CP035106.1	FIG	CDS	1346808	1347077	.	-	0	ID=fig|210.6438.peg.1359;Name=FIG00711273: hypothetical protein
+NZ_CP035106.1	FIG	CDS	1347244	1348998	.	-	1	ID=fig|210.6438.peg.1360;Name=dentin sialophosphoprotein preproprotein
+NZ_CP035106.1	FIG	CDS	1349145	1350203	.	-	0	ID=fig|210.6438.peg.1361;Name=Peptide chain release factor 1
+NZ_CP035106.1	FIG	CDS	1350318	1350587	.	-	0	ID=fig|210.6438.peg.1362;Name=SSU ribosomal protein S20p
+NZ_CP035106.1	FIG	CDS	1350677	1352014	.	+	2	ID=fig|210.6438.peg.1363;Name=Phosphoglucosamine mutase;Ontology_term=KEGG_ENZYME:5.4.2.10
+NZ_CP035106.1	FIG	CDS	1352008	1352481	.	+	1	ID=fig|210.6438.peg.1364;Name=Lipoprotein signal peptidase;Ontology_term=KEGG_ENZYME:3.4.23.36
+NZ_CP035106.1	FIG	CDS	1352839	1353555	.	+	1	ID=fig|210.6438.peg.1365;Name=Urease gamma subunit / Urease beta subunit;Ontology_term=KEGG_ENZYME:3.5.1.5,KEGG_ENZYME:3.5.1.5
+NZ_CP035106.1	FIG	CDS	1353559	1355268	.	+	1	ID=fig|210.6438.peg.1366;Name=Urease alpha subunit;Ontology_term=KEGG_ENZYME:3.5.1.5
+NZ_CP035106.1	FIG	CDS	1355463	1356050	.	+	0	ID=fig|210.6438.peg.1367;Name=Urea channel UreI
+NZ_CP035106.1	FIG	CDS	1356052	1356564	.	+	1	ID=fig|210.6438.peg.1368;Name=Urease accessory protein UreE
+NZ_CP035106.1	FIG	CDS	1356576	1357346	.	+	0	ID=fig|210.6438.peg.1369;Name=Urease accessory protein UreF
+NZ_CP035106.1	FIG	CDS	1357375	1357974	.	+	1	ID=fig|210.6438.peg.1370;Name=Urease accessory protein UreG
+NZ_CP035106.1	FIG	CDS	1357974	1358771	.	+	0	ID=fig|210.6438.peg.1371;Name=Urease accessory protein UreD
+NZ_CP035106.1	FIG	CDS	1358807	1359517	.	-	2	ID=fig|210.6438.peg.1372;Name=hypothetical protein with 50bp hit to Dihydrolipoamide acetyltransferase
+NZ_CP035106.1	FIG	CDS	1359492	1359731	.	-	0	ID=fig|210.6438.peg.1373;Name=hypothetical protein with 50bp hit to Dihydrolipoamide acetyltransferase
+NZ_CP035106.1	FIG	CDS	1359728	1360330	.	-	2	ID=fig|210.6438.peg.1374;Name=hypothetical protein with 50bp hit to Dihydrolipoamide acetyltransferase
+NZ_CP035106.1	FIG	CDS	1360342	1360896	.	-	1	ID=fig|210.6438.peg.1375;Name=FIG00710261: hypothetical protein
+NZ_CP035106.1	FIG	CDS	1361167	1361376	.	-	1	ID=fig|210.6438.peg.1376;Name=FIG00710639: hypothetical protein
+NZ_CP035106.1	FIG	CDS	1361694	1365251	.	+	0	ID=fig|210.6438.peg.1377;Name=Proline dehydrogenase / Delta-1-pyrroline-5-carboxylate dehydrogenase;Ontology_term=KEGG_ENZYME:1.5.5.2,KEGG_ENZYME:1.2.1.88
+NZ_CP035106.1	FIG	CDS	1365280	1366779	.	+	1	ID=fig|210.6438.peg.1378;Name=Proline/sodium symporter PutP (TC 2.A.21.2.1) @ Propionate/sodium symporter
+NZ_CP035106.1	FIG	CDS	1366853	1367698	.	+	2	ID=fig|210.6438.peg.1379;Name=DNA-cytosine methyltransferase;Ontology_term=KEGG_ENZYME:2.1.1.37
+NZ_CP035106.1	FIG	CDS	1367695	1368393	.	+	1	ID=fig|210.6438.peg.1380;Name=Adenine-specific methyltransferase;Ontology_term=KEGG_ENZYME:2.1.1.72
+NZ_CP035106.1	FIG	CDS	1368445	1368540	.	+	1	ID=fig|210.6438.peg.1381;Name=Agmatine deiminase;Ontology_term=KEGG_ENZYME:3.5.3.12
+NZ_CP035106.1	FIG	CDS	1368503	1368619	.	+	2	ID=fig|210.6438.peg.1382;Name=putative Outer membrane protein
+NZ_CP035106.1	FIG	CDS	1368694	1369422	.	-	1	ID=fig|210.6438.peg.1383;Name=Integral membrane protein
+NZ_CP035106.1	FIG	CDS	1369429	1370391	.	-	1	ID=fig|210.6438.peg.1384;Name=Magnesium and cobalt transport protein CorA
+NZ_CP035106.1	FIG	CDS	1370407	1371615	.	-	1	ID=fig|210.6438.peg.1385;Name=Phosphoglycerate kinase;Ontology_term=KEGG_ENZYME:2.7.2.3
+NZ_CP035106.1	FIG	CDS	1371631	1372623	.	-	1	ID=fig|210.6438.peg.1386;Name=NAD-dependent glyceraldehyde-3-phosphate dehydrogenase;Ontology_term=KEGG_ENZYME:1.2.1.12
+NZ_CP035106.1	FIG	CDS	1372712	1373413	.	-	2	ID=fig|210.6438.peg.1387;Name=Uracil-DNA glycosylase%2C family 1;Ontology_term=KEGG_ENZYME:3.2.2.27
+NZ_CP035106.1	FIG	CDS	1373410	1374126	.	-	1	ID=fig|210.6438.peg.1388;Name=Acyl-CoA:1-acyl-sn-glycerol-3-phosphate acyltransferase;Ontology_term=KEGG_ENZYME:2.3.1.51
+NZ_CP035106.1	FIG	CDS	1374113	1375297	.	-	2	ID=fig|210.6438.peg.1389;Name=Putative periplasmic protein
+NZ_CP035106.1	FIG	CDS	1375304	1376668	.	-	2	ID=fig|210.6438.peg.1390;Name=Carboxyl-terminal protease
+NZ_CP035106.1	FIG	CDS	1376779	1376952	.	-	1	ID=fig|210.6438.peg.1391;Name=Adenine-specific DNA methyltransferase
+NZ_CP035106.1	FIG	CDS	1377063	1377395	.	-	0	ID=fig|210.6438.peg.1392;Name=Adenine-specific DNA methyltransferase
+NZ_CP035106.1	FIG	CDS	1377358	1377609	.	-	1	ID=fig|210.6438.peg.1393;Name=Adenine-specific DNA methyltransferase
+NZ_CP035106.1	FIG	CDS	1377883	1380294	.	-	1	ID=fig|210.6438.peg.1394;Name=Adenine-specific DNA methyltransferase
+NZ_CP035106.1	FIG	CDS	1380318	1381139	.	-	0	ID=fig|210.6438.peg.1395;Name=Quinolinate phosphoribosyltransferase [decarboxylating];Ontology_term=KEGG_ENZYME:2.4.2.19
+NZ_CP035106.1	FIG	CDS	1381139	1382149	.	-	2	ID=fig|210.6438.peg.1396;Name=Quinolinate synthetase;Ontology_term=KEGG_ENZYME:2.5.1.72
+NZ_CP035106.1	FIG	CDS	1382139	1382942	.	-	0	ID=fig|210.6438.peg.1397;Name=Phosphatidylserine decarboxylase;Ontology_term=KEGG_ENZYME:4.1.1.65
+NZ_CP035106.1	FIG	CDS	1382939	1383442	.	-	2	ID=fig|210.6438.peg.1398;Name=FIG00710119: hypothetical protein
+NZ_CP035106.1	FIG	CDS	1383455	1383949	.	-	2	ID=fig|210.6438.peg.1399;Name=4-hydroxybenzoate polyprenyltransferase;Ontology_term=KEGG_ENZYME:2.5.1.39
+NZ_CP035106.1	FIG	CDS	1383942	1384826	.	-	0	ID=fig|210.6438.peg.1400;Name=Menaquinone via futalosine polyprenyltransferase (MenA homolog)
+NZ_CP035106.1	FIG	CDS	1384855	1386111	.	-	1	ID=fig|210.6438.peg.1401;Name=DNA internalization-related competence protein ComEC/Rec2
+NZ_CP035106.1	FIG	CDS	1386164	1387630	.	-	2	ID=fig|210.6438.peg.1402;Name=Replicative DNA helicase (DnaB);Ontology_term=KEGG_ENZYME:3.6.4.12
+NZ_CP035106.1	FIG	CDS	1387641	1389035	.	-	0	ID=fig|210.6438.peg.1403;Name=NAD(P)H-hydrate epimerase / ADP-dependent (S)-NAD(P)H-hydrate dehydratase;Ontology_term=KEGG_ENZYME:5.1.99.6,KEGG_ENZYME:4.2.1.136
+NZ_CP035106.1	FIG	CDS	1389038	1390171	.	-	2	ID=fig|210.6438.peg.1404;Name=Two-component system sensor histidine kinase
+NZ_CP035106.1	FIG	CDS	1390206	1390847	.	-	0	ID=fig|210.6438.peg.1405;Name=Two-component transcriptional response regulator%2C LuxR family
+NZ_CP035106.1	FIG	CDS	1390933	1392204	.	-	1	ID=fig|210.6438.peg.1406;Name=type IIS restriction enzyme R protein (MBOIIR)
+NZ_CP035106.1	FIG	CDS	1392232	1393005	.	-	1	ID=fig|210.6438.peg.1407;Name=type IIS restriction enzyme M1 protein (mod)
+NZ_CP035106.1	FIG	CDS	1392992	1393855	.	-	2	ID=fig|210.6438.peg.1408;Name=type II restriction modification system%2C methylation subunit
+NZ_CP035106.1	FIG	CDS	1394104	1395816	.	+	1	ID=fig|210.6438.peg.1409;Name=Type III restriction-modification system methylation subunit;Ontology_term=KEGG_ENZYME:2.1.1.72
+NZ_CP035106.1	FIG	CDS	1395842	1396261	.	+	2	ID=fig|210.6438.peg.1410;Name=Type III restriction-modification system methylation subunit;Ontology_term=KEGG_ENZYME:2.1.1.72
+NZ_CP035106.1	FIG	CDS	1396252	1396356	.	+	1	ID=fig|210.6438.peg.1411;Name=Type III restriction-modification system methylation subunit;Ontology_term=KEGG_ENZYME:2.1.1.72
+NZ_CP035106.1	FIG	CDS	1396366	1399278	.	+	1	ID=fig|210.6438.peg.1412;Name=type III restriction enzyme R protein
+NZ_CP035106.1	FIG	CDS	1399335	1400081	.	-	0	ID=fig|210.6438.peg.1413;Name=Rod shape-determining protein MreC
+NZ_CP035106.1	FIG	CDS	1400085	1401128	.	-	0	ID=fig|210.6438.peg.1414;Name=Rod shape-determining protein MreB
+NZ_CP035106.1	FIG	CDS	1401171	1402517	.	-	0	ID=fig|210.6438.peg.1415;Name=ATP-dependent Clp protease ATP-binding subunit ClpX
+NZ_CP035106.1	FIG	CDS	1402519	1403331	.	-	1	ID=fig|210.6438.peg.1416;Name=Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase;Ontology_term=KEGG_ENZYME:2.3.1.129
+NZ_CP035106.1	FIG	CDS	1403335	1403814	.	-	1	ID=fig|210.6438.peg.1417;Name=3-hydroxyacyl-[acyl-carrier-protein] dehydratase%2C FabZ form;Ontology_term=KEGG_ENZYME:4.2.1.59
+NZ_CP035106.1	FIG	CDS	1403864	1404022	.	+	2	ID=fig|210.6438.peg.1418;Name=FIG00710863: hypothetical protein
+NZ_CP035106.1	FIG	CDS	1403987	1404376	.	-	2	ID=fig|210.6438.peg.1419;Name=Flagellar assembly factor FliW
+NZ_CP035106.1	FIG	CDS	1404775	1405437	.	+	1	ID=fig|210.6438.peg.1420;Name=competence lipoprotein (comL)
+NZ_CP035106.1	FIG	CDS	1405478	1407973	.	+	2	ID=fig|210.6438.peg.1421;Name=ATP-dependent protease La Type I;Ontology_term=KEGG_ENZYME:3.4.21.53
+NZ_CP035106.1	FIG	CDS	1407998	1408825	.	+	2	ID=fig|210.6438.peg.1422;Name=Prephenate and/or arogenate dehydrogenase (unknown specificity)(EC 1.3.1.43);Ontology_term=KEGG_ENZYME:1.3.1.12,KEGG_ENZYME:1.3.1.43
+NZ_CP035106.1	FIG	CDS	1408928	1409053	.	+	2	ID=fig|210.6438.peg.1423;Name=hypothetical protein
+NZ_CP035106.1	FIG	CDS	1409114	1409524	.	-	2	ID=fig|210.6438.peg.1424;Name=DNA/RNA non-specific endonuclease
+NZ_CP035106.1	FIG	CDS	1409750	1411822	.	+	2	ID=fig|210.6438.peg.1425;Name=Putative outer membrane protein
+NZ_CP035106.1	FIG	CDS	1412133	1413704	.	+	0	ID=fig|210.6438.peg.1426;Name=Lipid A phosphoethanolamine transferase EptA [H.pylori];Ontology_term=KEGG_ENZYME:2.7.8.-
+NZ_CP035106.1	FIG	CDS	1413715	1414287	.	+	1	ID=fig|210.6438.peg.1427;Name=Lipid A 1-phosphatase LpxE [H.pylori];Ontology_term=KEGG_ENZYME:3.1.3.-
+NZ_CP035106.1	FIG	CDS	1414297	1415514	.	-	1	ID=fig|210.6438.peg.1428;Name=Carboxynorspermidine decarboxylase;Ontology_term=KEGG_ENZYME:4.1.1.96
+NZ_CP035106.1	FIG	CDS	1415511	1416476	.	-	0	ID=fig|210.6438.peg.1429;Name=Chemotaxis protein CheV;Ontology_term=KEGG_ENZYME:2.7.3.-
+NZ_CP035106.1	FIG	CDS	1416577	1417917	.	-	1	ID=fig|210.6438.peg.1430;Name=putative lipoprotein
+NZ_CP035106.1	FIG	CDS	1418227	1420590	.	-	1	ID=fig|210.6438.peg.1431;Name=ATPase required for both assembly of type IV secretion complex and secretion of T-DNA complex%2C VirB4
+NZ_CP035106.1	FIG	CDS	1420593	1420856	.	-	0	ID=fig|210.6438.peg.1432;Name=FIG00711213: hypothetical protein
+NZ_CP035106.1	FIG	CDS	1420856	1421137	.	-	2	ID=fig|210.6438.peg.1433;Name=putative
+NZ_CP035106.1	FIG	CDS	1421282	1422109	.	-	2	ID=fig|210.6438.peg.1434;Name=Uncharacterized protein HP0014
+NZ_CP035106.1	FIG	CDS	1422200	1423252	.	-	2	ID=fig|210.6438.peg.1435;Name=Possible RNA methyltransferase aq_898
+NZ_CP035106.1	FIG	CDS	1423249	1424928	.	-	1	ID=fig|210.6438.peg.1436;Name=DNA primase DnaG
+NZ_CP035106.1	FIG	CDS	1425203	1425559	.	+	2	ID=fig|210.6438.peg.1437;Name=Heat shock protein 10 kDa family chaperone GroES
+NZ_CP035106.1	FIG	CDS	1425584	1427224	.	+	2	ID=fig|210.6438.peg.1438;Name=Heat shock protein 60 kDa family chaperone GroEL
+NZ_CP035106.1	FIG	CDS	1427527	1429632	.	+	1	ID=fig|210.6438.peg.1439;Name=Outer membrane protein
+NZ_CP035106.1	FIG	CDS	1429706	1429909	.	+	2	ID=fig|210.6438.peg.1440;Name=hypothetical protein
+NZ_CP035106.1	FIG	CDS	1430811	1431641	.	-	0	ID=fig|210.6438.peg.1441;Name=Pantoate--beta-alanine ligase;Ontology_term=KEGG_ENZYME:6.3.2.1
+NZ_CP035106.1	FIG	CDS	1431642	1432325	.	-	0	ID=fig|210.6438.peg.1442;Name=Orotidine 5'-phosphate decarboxylase;Ontology_term=KEGG_ENZYME:4.1.1.23
+NZ_CP035106.1	FIG	CDS	1432448	1433113	.	+	2	ID=fig|210.6438.peg.1443;Name=Carbonic anhydrase%2C beta class;Ontology_term=KEGG_ENZYME:4.2.1.1
+NZ_CP035106.1	FIG	CDS	1433100	1433930	.	+	0	ID=fig|210.6438.peg.1444;Name=2-Keto-3-deoxy-D-manno-octulosonate-8-phosphate synthase;Ontology_term=KEGG_ENZYME:2.5.1.55
+NZ_CP035106.1	FIG	CDS	1433940	1434410	.	+	0	ID=fig|210.6438.peg.1445;Name=6%2C7-dimethyl-8-ribityllumazine synthase;Ontology_term=KEGG_ENZYME:2.5.1.78
+NZ_CP035106.1	FIG	CDS	1434412	1434828	.	+	1	ID=fig|210.6438.peg.1446;Name=Transcription termination protein NusB
+NZ_CP035106.1	FIG	CDS	1435097	1435858	.	+	2	ID=fig|210.6438.peg.1447;Name=Putative oxidoreductase
+NZ_CP035106.1	FIG	CDS	1435943	1436083	.	+	2	ID=fig|210.6438.peg.1448;Name=FIG00711041: hypothetical protein
+NZ_CP035106.1	FIG	CDS	1436365	1436472	.	+	1	ID=fig|210.6438.peg.1449;Name=hypothetical protein
+NZ_CP035106.1	FIG	CDS	1436538	1437326	.	-	0	ID=fig|210.6438.peg.1450;Name=Flagellar basal-body rod protein FlgG
+NZ_CP035106.1	FIG	CDS	1437510	1438535	.	-	0	ID=fig|210.6438.peg.1451;Name=N(6)-L-threonylcarbamoyladenine synthase;Ontology_term=KEGG_ENZYME:2.3.1.234
+NZ_CP035106.1	FIG	CDS	1438598	1439521	.	-	2	ID=fig|210.6438.peg.1452;Name=4-hydroxythreonine-4-phosphate dehydrogenase;Ontology_term=KEGG_ENZYME:1.1.1.262
+NZ_CP035106.1	FIG	CDS	1439523	1440311	.	-	0	ID=fig|210.6438.peg.1453;Name=Pyridoxine 5'-phosphate synthase;Ontology_term=KEGG_ENZYME:2.6.99.2
+NZ_CP035106.1	FIG	CDS	1440450	1441454	.	+	0	ID=fig|210.6438.peg.1454;Name=Undecaprenyl-phosphate alpha-N-acetylglucosaminyl 1-phosphate transferase;Ontology_term=KEGG_ENZYME:2.7.8.33
+NZ_CP035106.1	FIG	CDS	1441454	1442050	.	+	2	ID=fig|210.6438.peg.1455;Name=putative
+NZ_CP035106.1	FIG	CDS	1442060	1442491	.	+	2	ID=fig|210.6438.peg.1456;Name=putative
+NZ_CP035106.1	FIG	CDS	1442679	1443326	.	-	0	ID=fig|210.6438.peg.1457;Name=Methionine ABC transporter permease protein
+NZ_CP035106.1	FIG	CDS	1443328	1444311	.	-	1	ID=fig|210.6438.peg.1458;Name=Methionine ABC transporter ATP-binding protein
+NZ_CP035106.1	FIG	CDS	1444333	1444605	.	-	1	ID=fig|210.6438.peg.1459;Name=Uncharacterized homolog of the cytoplasmic domain of flagellar protein FhlB
+NZ_CP035106.1	FIG	CDS	1444606	1445226	.	-	1	ID=fig|210.6438.peg.1460;Name=Riboflavin synthase eubacterial/eukaryotic;Ontology_term=KEGG_ENZYME:2.5.1.9
+NZ_CP035106.1	FIG	CDS	1445301	1446065	.	+	0	ID=fig|210.6438.peg.1461;Name=Uncharacterized metal-dependent hydrolase YcfH
+NZ_CP035106.1	FIG	CDS	1446166	1447272	.	+	1	ID=fig|210.6438.peg.1462;Name=Membrane-bound lytic murein transglycosylase D
+NZ_CP035106.1	FIG	CDS	1447272	1448219	.	+	0	ID=fig|210.6438.peg.1463;Name=Septum-associated rare lipoprotein A
+NZ_CP035106.1	FIG	CDS	1448216	1448710	.	+	2	ID=fig|210.6438.peg.1464;Name=3-deoxy-D-manno-octulosonate 8-phosphate phosphatase;Ontology_term=KEGG_ENZYME:3.1.3.45
+NZ_CP035106.1	FIG	CDS	1448685	1449278	.	+	0	ID=fig|210.6438.peg.1465;Name=Lipopolysaccharide export system protein LptC
+NZ_CP035106.1	FIG	CDS	1449278	1449835	.	+	2	ID=fig|210.6438.peg.1466;Name=Lipopolysaccharide export system protein LptA
+NZ_CP035106.1	FIG	CDS	1449832	1450458	.	+	1	ID=fig|210.6438.peg.1467;Name=GTP-binding protein EngB
+NZ_CP035106.1	FIG	CDS	1450471	1450914	.	+	1	ID=fig|210.6438.peg.1468;Name=putative
+NZ_CP035106.1	FIG	CDS	1450895	1452664	.	+	2	ID=fig|210.6438.peg.1469;Name=Peptidoglycan D%2CD-transpeptidase MrdA;Ontology_term=KEGG_ENZYME:3.4.16.4
+NZ_CP035106.1	FIG	CDS	1452732	1453547	.	-	0	ID=fig|210.6438.peg.1470;Name=Methionine ABC transporter substrate-binding protein
+NZ_CP035106.1	FIG	CDS	1453693	1454289	.	-	1	ID=fig|210.6438.peg.1471;Name=Alkyl hydroperoxide reductase subunit C-like protein
+NZ_CP035106.1	FIG	CDS	1454528	1455529	.	+	2	ID=fig|210.6438.peg.1472;Name=iron(III) ABC transporter%2C periplasmic iron-binding protein (ceuE)
+NZ_CP035106.1	FIG	CDS	1455553	1456719	.	-	1	ID=fig|210.6438.peg.1473;Name=Peptidoglycan glycosyltransferase FtsW;Ontology_term=KEGG_ENZYME:2.4.1.129
+NZ_CP035106.1	FIG	CDS	1456769	1456894	.	-	2	ID=fig|210.6438.peg.1474;Name=hypothetical protein
+NZ_CP035106.1	FIG	CDS	1456926	1457348	.	+	0	ID=fig|210.6438.peg.1475;Name=Flagellar basal-body rod protein FlgB
+NZ_CP035106.1	FIG	CDS	1457361	1457846	.	+	0	ID=fig|210.6438.peg.1476;Name=Flagellar basal-body rod protein FlgC
+NZ_CP035106.1	FIG	CDS	1457974	1458303	.	+	1	ID=fig|210.6438.peg.1477;Name=Flagellar hook-basal body complex protein FliE
+NZ_CP035106.1	FIG	CDS	1458453	1460300	.	+	0	ID=fig|210.6438.peg.1478;Name=Cell division protein FtsI [Peptidoglycan synthetase];Ontology_term=KEGG_ENZYME:2.4.1.129
+NZ_CP035106.1	FIG	CDS	1460395	1461066	.	+	1	ID=fig|210.6438.peg.1479;Name=FIG00710798: hypothetical protein
+NZ_CP035106.1	FIG	CDS	1461271	1462128	.	-	1	ID=fig|210.6438.peg.1480;Name=Ubiquinol-cytochrome C reductase%2C cytochrome C1 subunit
+NZ_CP035106.1	FIG	CDS	1462125	1463363	.	-	0	ID=fig|210.6438.peg.1481;Name=Ubiquinol-cytochrome C reductase%2C cytochrome B subunit;Ontology_term=KEGG_ENZYME:1.10.2.2
+NZ_CP035106.1	FIG	CDS	1463374	1463877	.	-	1	ID=fig|210.6438.peg.1482;Name=Ubiquinol-cytochrome C reductase iron-sulfur subunit;Ontology_term=KEGG_ENZYME:1.10.2.2
+NZ_CP035106.1	FIG	CDS	1464003	1467002	.	-	0	ID=fig|210.6438.peg.1483;Name=Transcription-repair coupling factor
+NZ_CP035106.1	FIG	CDS	1467006	1467320	.	-	0	ID=fig|210.6438.peg.1484;Name=Polymer-forming bactofilin
+NZ_CP035106.1	FIG	CDS	1467335	1468270	.	-	2	ID=fig|210.6438.peg.1485;Name=Membrane proteins related to metalloendopeptidases
+NZ_CP035106.1	FIG	CDS	1468279	1469205	.	-	1	ID=fig|210.6438.peg.1486;Name=toxR-activated gene (tagE)
+NZ_CP035106.1	FIG	CDS	1469205	1470380	.	-	0	ID=fig|210.6438.peg.1487;Name=Dihydrofolate synthase @ Folylpolyglutamate synthase;Ontology_term=KEGG_ENZYME:6.3.2.12,KEGG_ENZYME:6.3.2.17
+NZ_CP035106.1	FIG	CDS	1470370	1470882	.	-	1	ID=fig|210.6438.peg.1488;Name=putative lipoprotein
+NZ_CP035106.1	FIG	CDS	1470879	1473299	.	-	0	ID=fig|210.6438.peg.1489;Name=Leucyl-tRNA synthetase;Ontology_term=KEGG_ENZYME:6.1.1.4
+NZ_CP035106.1	FIG	CDS	1473309	1473647	.	-	0	ID=fig|210.6438.peg.1490;Name=FIG00388820: hypothetical protein
+NZ_CP035106.1	FIG	CDS	1473657	1474628	.	-	0	ID=fig|210.6438.peg.1491;Name=Protein translocase subunit SecF
+NZ_CP035106.1	FIG	CDS	1474637	1476214	.	-	2	ID=fig|210.6438.peg.1492;Name=Protein translocase subunit SecD
+NZ_CP035106.1	FIG	CDS	1476214	1476507	.	-	1	ID=fig|210.6438.peg.1493;Name=Protein translocase subunit YajC
+NZ_CP035106.1	FIG	CDS	1476555	1477871	.	-	0	ID=fig|210.6438.peg.1494;Name=Na+/H+ antiporter NhaA type
+NZ_CP035106.1	FIG	CDS	1477895	1480711	.	-	2	ID=fig|210.6438.peg.1495;Name=Helicase
+NZ_CP035106.1	FIG	CDS	1480784	1480873	.	-	2	ID=fig|210.6438.peg.1496;Name=hypothetical protein
+NZ_CP035106.1	FIG	CDS	1480966	1481760	.	+	1	ID=fig|210.6438.peg.1497;Name=SSU ribosomal protein S2p (SAe)
+NZ_CP035106.1	FIG	CDS	1481760	1482827	.	+	0	ID=fig|210.6438.peg.1498;Name=Translation elongation factor Ts
+NZ_CP035106.1	FIG	CDS	1482886	1483326	.	+	1	ID=fig|210.6438.peg.1499;Name=FIG00711119: hypothetical protein
+NZ_CP035106.1	FIG	CDS	1483323	1484054	.	-	0	ID=fig|210.6438.peg.1500;Name=FIG00710438: hypothetical protein
+NZ_CP035106.1	FIG	CDS	1484047	1484943	.	-	1	ID=fig|210.6438.peg.1501;Name=putative type II methylase protein
+NZ_CP035106.1	FIG	CDS	1484956	1485159	.	-	1	ID=fig|210.6438.peg.1502;Name=Uncharacterized protein HP1384
+NZ_CP035106.1	FIG	CDS	1485159	1486031	.	-	0	ID=fig|210.6438.peg.1503;Name=Fructose-1%2C6-bisphosphatase%2C type I;Ontology_term=KEGG_ENZYME:3.1.3.11
+NZ_CP035106.1	FIG	CDS	1486102	1486755	.	+	1	ID=fig|210.6438.peg.1504;Name=Ribulose-phosphate 3-epimerase;Ontology_term=KEGG_ENZYME:5.1.3.1
+NZ_CP035106.1	FIG	CDS	1486733	1487596	.	+	2	ID=fig|210.6438.peg.1505;Name=DEDDh 3'-5' exonuclease domain of the epsilon subunit of DNA polymerase III
+NZ_CP035106.1	FIG	CDS	1487622	1487768	.	-	0	ID=fig|210.6438.peg.1506;Name=hypothetical protein
+NZ_CP035106.1	FIG	CDS	1488076	1488366	.	+	1	ID=fig|210.6438.peg.1507;Name=FIG00712000: hypothetical protein
+NZ_CP035106.1	FIG	CDS	1488620	1488892	.	+	2	ID=fig|210.6438.peg.1508;Name=FIG00711674: hypothetical protein
+NZ_CP035106.1	FIG	CDS	1488870	1489397	.	-	0	ID=fig|210.6438.peg.1509;Name=hypothetical protein
+NZ_CP035106.1	FIG	CDS	1489649	1489945	.	-	2	ID=fig|210.6438.peg.1510;Name=putative
+NZ_CP035106.1	FIG	CDS	1489964	1491271	.	-	2	ID=fig|210.6438.peg.1511;Name=Fibronectin/fibrinogen-binding protein
+NZ_CP035106.1	FIG	CDS	1491268	1492842	.	-	1	ID=fig|210.6438.peg.1512;Name=DNA repair protein RecN
+NZ_CP035106.1	FIG	CDS	1492855	1493709	.	-	1	ID=fig|210.6438.peg.1513;Name=NAD kinase;Ontology_term=KEGG_ENZYME:2.7.1.23
+NZ_CP035106.1	FIG	CDS	1493894	1494622	.	+	2	ID=fig|210.6438.peg.1514;Name=outer membrane protein (omp30)
+NZ_CP035106.1	FIG	CDS	1494633	1495889	.	-	0	ID=fig|210.6438.peg.1515;Name=FIG00710198: hypothetical protein
+NZ_CP035106.1	FIG	CDS	1495886	1496395	.	-	2	ID=fig|210.6438.peg.1516;Name=FIG00710198: hypothetical protein
+NZ_CP035106.1	FIG	CDS	1496519	1497661	.	-	2	ID=fig|210.6438.peg.1517;Name=Alanine dehydrogenase;Ontology_term=KEGG_ENZYME:1.4.1.1
+NZ_CP035106.1	FIG	CDS	1497861	1499288	.	+	0	ID=fig|210.6438.peg.1518;Name=Uncharacterized amino acid permease%2C GabP family
+NZ_CP035106.1	FIG	CDS	1499301	1500269	.	+	0	ID=fig|210.6438.peg.1519;Name=Arginase;Ontology_term=KEGG_ENZYME:3.5.3.1
+NZ_CP035106.1	FIG	CDS	1500546	1500659	.	+	0	ID=fig|210.6438.peg.1520;Name=hypothetical protein
+NZ_CP035106.1	FIG	CDS	1500778	1503303	.	+	1	ID=fig|210.6438.peg.1521;Name=Iron(III) dicitrate transport protein FecA
+NZ_CP035106.1	FIG	CDS	1503393	1504100	.	-	0	ID=fig|210.6438.peg.1522;Name=Putative predicted metal-dependent hydrolase
+NZ_CP035106.1	FIG	CDS	1504100	1506256	.	-	2	ID=fig|210.6438.peg.1523;Name=Type I restriction-modification system%2C restriction subunit R;Ontology_term=KEGG_ENZYME:3.1.21.3
+NZ_CP035106.1	FIG	CDS	1506267	1507079	.	-	0	ID=fig|210.6438.peg.1524;Name=Type I restriction-modification system%2C restriction subunit R;Ontology_term=KEGG_ENZYME:3.1.21.3
+NZ_CP035106.1	FIG	CDS	1507145	1509607	.	+	2	ID=fig|210.6438.peg.1525;Name=Type I restriction-modification system%2C DNA-methyltransferase subunit M;Ontology_term=KEGG_ENZYME:2.1.1.72
+NZ_CP035106.1	FIG	CDS	1509628	1510737	.	+	1	ID=fig|210.6438.peg.1526;Name=Type I restriction-modification system%2C specificity subunit S
+NZ_CP035106.1	FIG	CDS	1511263	1511889	.	-	1	ID=fig|210.6438.peg.1527;Name=Thymidylate synthase ThyX;Ontology_term=KEGG_ENZYME:2.1.1.148
+NZ_CP035106.1	FIG	CDS	1511911	1513704	.	-	1	ID=fig|210.6438.peg.1528;Name=Glutamine--fructose-6-phosphate aminotransferase [isomerizing];Ontology_term=KEGG_ENZYME:2.6.1.16
+NZ_CP035106.1	FIG	CDS	1513705	1513944	.	-	1	ID=fig|210.6438.peg.1529;Name=FIG00710874: hypothetical protein
+NZ_CP035106.1	FIG	CDS	1513980	1514522	.	-	0	ID=fig|210.6438.peg.1530;Name=purine nucleoside phosphorylase (punB)
+NZ_CP035106.1	FIG	tRNA	3024	3099	.	-	.	ID=fig|210.6438.rna.1;Name=tRNA-Phe-GAA
+NZ_CP035106.1	FIG	tRNA	3024	3099	.	-	.	ID=fig|210.6438.rna.1;Name=tRNA-Phe-GAA
+NZ_CP035106.1	FIG	tRNA	3024	3099	.	-	.	ID=fig|210.6438.rna.1;Name=tRNA-Phe-GAA
+NZ_CP035106.1	FIG	RNA	98975	100485	.	+	.	ID=fig|210.6438.rna.2;Name=SSU rRNA
+NZ_CP035106.1	FIG	RNA	98975	100485	.	+	.	ID=fig|210.6438.rna.2;Name=SSU rRNA
+NZ_CP035106.1	FIG	RNA	98975	100485	.	+	.	ID=fig|210.6438.rna.2;Name=SSU rRNA
+NZ_CP035106.1	FIG	RNA	130419	133322	.	+	.	ID=fig|210.6438.rna.3;Name=LSU rRNA
+NZ_CP035106.1	FIG	RNA	130419	133322	.	+	.	ID=fig|210.6438.rna.3;Name=LSU rRNA
+NZ_CP035106.1	FIG	RNA	130419	133322	.	+	.	ID=fig|210.6438.rna.3;Name=LSU rRNA
+NZ_CP035106.1	FIG	RNA	133545	133669	.	+	.	ID=fig|210.6438.rna.4;Name=5S rRNA
+NZ_CP035106.1	FIG	RNA	133545	133669	.	+	.	ID=fig|210.6438.rna.4;Name=5S rRNA
+NZ_CP035106.1	FIG	RNA	133545	133669	.	+	.	ID=fig|210.6438.rna.4;Name=5S rRNA
+NZ_CP035106.1	FIG	tRNA	272163	272249	.	+	.	ID=fig|210.6438.rna.5;Name=tRNA-Leu-GAG
+NZ_CP035106.1	FIG	tRNA	272163	272249	.	+	.	ID=fig|210.6438.rna.5;Name=tRNA-Leu-GAG
+NZ_CP035106.1	FIG	tRNA	272163	272249	.	+	.	ID=fig|210.6438.rna.5;Name=tRNA-Leu-GAG
+NZ_CP035106.1	FIG	tRNA	272303	272389	.	+	.	ID=fig|210.6438.rna.6;Name=tRNA-Leu-CAA
+NZ_CP035106.1	FIG	tRNA	272303	272389	.	+	.	ID=fig|210.6438.rna.6;Name=tRNA-Leu-CAA
+NZ_CP035106.1	FIG	tRNA	272303	272389	.	+	.	ID=fig|210.6438.rna.6;Name=tRNA-Leu-CAA
+NZ_CP035106.1	FIG	tRNA	277687	277762	.	+	.	ID=fig|210.6438.rna.7;Name=tRNA-Thr-TGT
+NZ_CP035106.1	FIG	tRNA	277687	277762	.	+	.	ID=fig|210.6438.rna.7;Name=tRNA-Thr-TGT
+NZ_CP035106.1	FIG	tRNA	277687	277762	.	+	.	ID=fig|210.6438.rna.7;Name=tRNA-Thr-TGT
+NZ_CP035106.1	FIG	tRNA	277790	277874	.	+	.	ID=fig|210.6438.rna.8;Name=tRNA-Tyr-GTA
+NZ_CP035106.1	FIG	tRNA	277790	277874	.	+	.	ID=fig|210.6438.rna.8;Name=tRNA-Tyr-GTA
+NZ_CP035106.1	FIG	tRNA	277790	277874	.	+	.	ID=fig|210.6438.rna.8;Name=tRNA-Tyr-GTA
+NZ_CP035106.1	FIG	tRNA	277890	277966	.	+	.	ID=fig|210.6438.rna.9;Name=tRNA-Gly-TCC
+NZ_CP035106.1	FIG	tRNA	277890	277966	.	+	.	ID=fig|210.6438.rna.9;Name=tRNA-Gly-TCC
+NZ_CP035106.1	FIG	tRNA	277890	277966	.	+	.	ID=fig|210.6438.rna.9;Name=tRNA-Gly-TCC
+NZ_CP035106.1	FIG	tRNA	277997	278071	.	+	.	ID=fig|210.6438.rna.10;Name=tRNA-Thr-GGT
+NZ_CP035106.1	FIG	tRNA	277997	278071	.	+	.	ID=fig|210.6438.rna.10;Name=tRNA-Thr-GGT
+NZ_CP035106.1	FIG	tRNA	277997	278071	.	+	.	ID=fig|210.6438.rna.10;Name=tRNA-Thr-GGT
+NZ_CP035106.1	FIG	tRNA	279629	279704	.	+	.	ID=fig|210.6438.rna.11;Name=tRNA-Trp-CCA
+NZ_CP035106.1	FIG	tRNA	279629	279704	.	+	.	ID=fig|210.6438.rna.11;Name=tRNA-Trp-CCA
+NZ_CP035106.1	FIG	tRNA	279629	279704	.	+	.	ID=fig|210.6438.rna.11;Name=tRNA-Trp-CCA
+NZ_CP035106.1	FIG	tRNA	308414	308491	.	+	.	ID=fig|210.6438.rna.12;Name=tRNA-Met-CAT
+NZ_CP035106.1	FIG	tRNA	308414	308491	.	+	.	ID=fig|210.6438.rna.12;Name=tRNA-Met-CAT
+NZ_CP035106.1	FIG	tRNA	308414	308491	.	+	.	ID=fig|210.6438.rna.12;Name=tRNA-Met-CAT
+NZ_CP035106.1	FIG	RNA	347793	349299	.	+	.	ID=fig|210.6438.rna.13;Name=SSU rRNA
+NZ_CP035106.1	FIG	RNA	347793	349299	.	+	.	ID=fig|210.6438.rna.13;Name=SSU rRNA
+NZ_CP035106.1	FIG	RNA	347793	349299	.	+	.	ID=fig|210.6438.rna.13;Name=SSU rRNA
+NZ_CP035106.1	FIG	tRNA	398200	398275	.	-	.	ID=fig|210.6438.rna.14;Name=tRNA-Ala-TGC
+NZ_CP035106.1	FIG	tRNA	398200	398275	.	-	.	ID=fig|210.6438.rna.14;Name=tRNA-Ala-TGC
+NZ_CP035106.1	FIG	tRNA	398200	398275	.	-	.	ID=fig|210.6438.rna.14;Name=tRNA-Ala-TGC
+NZ_CP035106.1	FIG	tRNA	398291	398367	.	-	.	ID=fig|210.6438.rna.15;Name=tRNA-Ile-GAT
+NZ_CP035106.1	FIG	tRNA	398291	398367	.	-	.	ID=fig|210.6438.rna.15;Name=tRNA-Ile-GAT
+NZ_CP035106.1	FIG	tRNA	398291	398367	.	-	.	ID=fig|210.6438.rna.15;Name=tRNA-Ile-GAT
+NZ_CP035106.1	FIG	tRNA	403149	403233	.	+	.	ID=fig|210.6438.rna.16;Name=tRNA-Leu-TAG
+NZ_CP035106.1	FIG	tRNA	403149	403233	.	+	.	ID=fig|210.6438.rna.16;Name=tRNA-Leu-TAG
+NZ_CP035106.1	FIG	tRNA	403149	403233	.	+	.	ID=fig|210.6438.rna.16;Name=tRNA-Leu-TAG
+NZ_CP035106.1	FIG	tRNA	452992	453069	.	+	.	ID=fig|210.6438.rna.17;Name=tRNA-Pro-TGG
+NZ_CP035106.1	FIG	tRNA	452992	453069	.	+	.	ID=fig|210.6438.rna.17;Name=tRNA-Pro-TGG
+NZ_CP035106.1	FIG	tRNA	452992	453069	.	+	.	ID=fig|210.6438.rna.17;Name=tRNA-Pro-TGG
+NZ_CP035106.1	FIG	tRNA	453140	453216	.	+	.	ID=fig|210.6438.rna.18;Name=tRNA-His-GTG
+NZ_CP035106.1	FIG	tRNA	453140	453216	.	+	.	ID=fig|210.6438.rna.18;Name=tRNA-His-GTG
+NZ_CP035106.1	FIG	tRNA	453140	453216	.	+	.	ID=fig|210.6438.rna.18;Name=tRNA-His-GTG
+NZ_CP035106.1	FIG	tRNA	453276	453352	.	+	.	ID=fig|210.6438.rna.19;Name=tRNA-Arg-TCG
+NZ_CP035106.1	FIG	tRNA	453276	453352	.	+	.	ID=fig|210.6438.rna.19;Name=tRNA-Arg-TCG
+NZ_CP035106.1	FIG	tRNA	453276	453352	.	+	.	ID=fig|210.6438.rna.19;Name=tRNA-Arg-TCG
+NZ_CP035106.1	FIG	tRNA	453370	453446	.	+	.	ID=fig|210.6438.rna.20;Name=tRNA-Arg-TCT
+NZ_CP035106.1	FIG	tRNA	453370	453446	.	+	.	ID=fig|210.6438.rna.20;Name=tRNA-Arg-TCT
+NZ_CP035106.1	FIG	tRNA	453370	453446	.	+	.	ID=fig|210.6438.rna.20;Name=tRNA-Arg-TCT
+NZ_CP035106.1	FIG	RNA	471330	474233	.	+	.	ID=fig|210.6438.rna.21;Name=LSU rRNA
+NZ_CP035106.1	FIG	RNA	471330	474233	.	+	.	ID=fig|210.6438.rna.21;Name=LSU rRNA
+NZ_CP035106.1	FIG	RNA	471330	474233	.	+	.	ID=fig|210.6438.rna.21;Name=LSU rRNA
+NZ_CP035106.1	FIG	RNA	474451	474575	.	+	.	ID=fig|210.6438.rna.22;Name=5S rRNA
+NZ_CP035106.1	FIG	RNA	474451	474575	.	+	.	ID=fig|210.6438.rna.22;Name=5S rRNA
+NZ_CP035106.1	FIG	RNA	474451	474575	.	+	.	ID=fig|210.6438.rna.22;Name=5S rRNA
+NZ_CP035106.1	FIG	tRNA	508106	508193	.	-	.	ID=fig|210.6438.rna.23;Name=tRNA-Ser-TGA
+NZ_CP035106.1	FIG	tRNA	508106	508193	.	-	.	ID=fig|210.6438.rna.23;Name=tRNA-Ser-TGA
+NZ_CP035106.1	FIG	tRNA	508106	508193	.	-	.	ID=fig|210.6438.rna.23;Name=tRNA-Ser-TGA
+NZ_CP035106.1	FIG	tRNA	508242	508316	.	-	.	ID=fig|210.6438.rna.24;Name=tRNA-Cys-GCA
+NZ_CP035106.1	FIG	tRNA	508242	508316	.	-	.	ID=fig|210.6438.rna.24;Name=tRNA-Cys-GCA
+NZ_CP035106.1	FIG	tRNA	508242	508316	.	-	.	ID=fig|210.6438.rna.24;Name=tRNA-Cys-GCA
+NZ_CP035106.1	FIG	tRNA	508391	508477	.	-	.	ID=fig|210.6438.rna.25;Name=tRNA-Leu-TAA
+NZ_CP035106.1	FIG	tRNA	508391	508477	.	-	.	ID=fig|210.6438.rna.25;Name=tRNA-Leu-TAA
+NZ_CP035106.1	FIG	tRNA	508391	508477	.	-	.	ID=fig|210.6438.rna.25;Name=tRNA-Leu-TAA
+NZ_CP035106.1	FIG	tRNA	508873	508947	.	-	.	ID=fig|210.6438.rna.26;Name=tRNA-Gly-GCC
+NZ_CP035106.1	FIG	tRNA	508873	508947	.	-	.	ID=fig|210.6438.rna.26;Name=tRNA-Gly-GCC
+NZ_CP035106.1	FIG	tRNA	508873	508947	.	-	.	ID=fig|210.6438.rna.26;Name=tRNA-Gly-GCC
+NZ_CP035106.1	FIG	tRNA	565957	566033	.	+	.	ID=fig|210.6438.rna.27;Name=tRNA-Met-CAT
+NZ_CP035106.1	FIG	tRNA	565957	566033	.	+	.	ID=fig|210.6438.rna.27;Name=tRNA-Met-CAT
+NZ_CP035106.1	FIG	tRNA	565957	566033	.	+	.	ID=fig|210.6438.rna.27;Name=tRNA-Met-CAT
+NZ_CP035106.1	FIG	tRNA	623437	623513	.	-	.	ID=fig|210.6438.rna.28;Name=tRNA-Arg-CCT
+NZ_CP035106.1	FIG	tRNA	623437	623513	.	-	.	ID=fig|210.6438.rna.28;Name=tRNA-Arg-CCT
+NZ_CP035106.1	FIG	tRNA	623437	623513	.	-	.	ID=fig|210.6438.rna.28;Name=tRNA-Arg-CCT
+NZ_CP035106.1	FIG	tRNA	996207	996284	.	+	.	ID=fig|210.6438.rna.29;Name=tRNA-Pro-GGG
+NZ_CP035106.1	FIG	tRNA	996207	996284	.	+	.	ID=fig|210.6438.rna.29;Name=tRNA-Pro-GGG
+NZ_CP035106.1	FIG	tRNA	996207	996284	.	+	.	ID=fig|210.6438.rna.29;Name=tRNA-Pro-GGG
+NZ_CP035106.1	FIG	tRNA	1049172	1049259	.	+	.	ID=fig|210.6438.rna.30;Name=tRNA-Ser-GGA
+NZ_CP035106.1	FIG	tRNA	1049172	1049259	.	+	.	ID=fig|210.6438.rna.30;Name=tRNA-Ser-GGA
+NZ_CP035106.1	FIG	tRNA	1049172	1049259	.	+	.	ID=fig|210.6438.rna.30;Name=tRNA-Ser-GGA
+NZ_CP035106.1	FIG	tRNA	1099246	1099322	.	-	.	ID=fig|210.6438.rna.31;Name=tRNA-Arg-GCG
+NZ_CP035106.1	FIG	tRNA	1099246	1099322	.	-	.	ID=fig|210.6438.rna.31;Name=tRNA-Arg-GCG
+NZ_CP035106.1	FIG	tRNA	1099246	1099322	.	-	.	ID=fig|210.6438.rna.31;Name=tRNA-Arg-GCG
+NZ_CP035106.1	FIG	tRNA	1171517	1171592	.	+	.	ID=fig|210.6438.rna.32;Name=tRNA-Ala-GGC
+NZ_CP035106.1	FIG	tRNA	1171517	1171592	.	+	.	ID=fig|210.6438.rna.32;Name=tRNA-Ala-GGC
+NZ_CP035106.1	FIG	tRNA	1171517	1171592	.	+	.	ID=fig|210.6438.rna.32;Name=tRNA-Ala-GGC
+NZ_CP035106.1	FIG	tRNA	1194236	1194310	.	+	.	ID=fig|210.6438.rna.33;Name=tRNA-Asn-GTT
+NZ_CP035106.1	FIG	tRNA	1194236	1194310	.	+	.	ID=fig|210.6438.rna.33;Name=tRNA-Asn-GTT
+NZ_CP035106.1	FIG	tRNA	1194236	1194310	.	+	.	ID=fig|210.6438.rna.33;Name=tRNA-Asn-GTT
+NZ_CP035106.1	FIG	tRNA	1336499	1336590	.	-	.	ID=fig|210.6438.rna.34;Name=tRNA-Ser-GCT
+NZ_CP035106.1	FIG	tRNA	1336499	1336590	.	-	.	ID=fig|210.6438.rna.34;Name=tRNA-Ser-GCT
+NZ_CP035106.1	FIG	tRNA	1336499	1336590	.	-	.	ID=fig|210.6438.rna.34;Name=tRNA-Ser-GCT
+NZ_CP035106.1	FIG	tRNA	1352500	1352575	.	+	.	ID=fig|210.6438.rna.35;Name=tRNA-Val-GAC
+NZ_CP035106.1	FIG	tRNA	1352500	1352575	.	+	.	ID=fig|210.6438.rna.35;Name=tRNA-Val-GAC
+NZ_CP035106.1	FIG	tRNA	1352500	1352575	.	+	.	ID=fig|210.6438.rna.35;Name=tRNA-Val-GAC
+NZ_CP035106.1	FIG	tRNA	1430262	1430337	.	+	.	ID=fig|210.6438.rna.36;Name=tRNA-Lys-TTT
+NZ_CP035106.1	FIG	tRNA	1430262	1430337	.	+	.	ID=fig|210.6438.rna.36;Name=tRNA-Lys-TTT
+NZ_CP035106.1	FIG	tRNA	1430262	1430337	.	+	.	ID=fig|210.6438.rna.36;Name=tRNA-Lys-TTT
+NZ_CP035106.1	FIG	tRNA	1430348	1430422	.	+	.	ID=fig|210.6438.rna.37;Name=tRNA-Glu-TTC
+NZ_CP035106.1	FIG	tRNA	1430348	1430422	.	+	.	ID=fig|210.6438.rna.37;Name=tRNA-Glu-TTC
+NZ_CP035106.1	FIG	tRNA	1430348	1430422	.	+	.	ID=fig|210.6438.rna.37;Name=tRNA-Glu-TTC
+NZ_CP035106.1	FIG	tRNA	1430465	1430540	.	+	.	ID=fig|210.6438.rna.38;Name=tRNA-Val-TAC
+NZ_CP035106.1	FIG	tRNA	1430465	1430540	.	+	.	ID=fig|210.6438.rna.38;Name=tRNA-Val-TAC
+NZ_CP035106.1	FIG	tRNA	1430465	1430540	.	+	.	ID=fig|210.6438.rna.38;Name=tRNA-Val-TAC
+NZ_CP035106.1	FIG	tRNA	1430581	1430657	.	+	.	ID=fig|210.6438.rna.39;Name=tRNA-Asp-GTC
+NZ_CP035106.1	FIG	tRNA	1430581	1430657	.	+	.	ID=fig|210.6438.rna.39;Name=tRNA-Asp-GTC
+NZ_CP035106.1	FIG	tRNA	1430581	1430657	.	+	.	ID=fig|210.6438.rna.39;Name=tRNA-Asp-GTC
+NZ_CP035106.1	FIG	tRNA	1430722	1430797	.	+	.	ID=fig|210.6438.rna.40;Name=tRNA-Glu-TTC
+NZ_CP035106.1	FIG	tRNA	1430722	1430797	.	+	.	ID=fig|210.6438.rna.40;Name=tRNA-Glu-TTC
+NZ_CP035106.1	FIG	tRNA	1430722	1430797	.	+	.	ID=fig|210.6438.rna.40;Name=tRNA-Glu-TTC
