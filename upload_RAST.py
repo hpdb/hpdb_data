@@ -5,7 +5,7 @@ from htmldom import htmldom
 if __name__ == "__main__":
     username = ''
     password = ''
-    with open('complete genome.csv') as f:
+    with open('strains_list.csv') as f:
         reader = csv.reader(f)
         for row in reader:
             if row[0] != 'Name':

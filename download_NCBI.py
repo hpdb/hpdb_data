@@ -22,7 +22,7 @@ def download(name, genomeid, refseq, genbank):
     os.chdir('..')
 
 if __name__ == "__main__":
-    with open('complete genome.csv') as f:
+    with open('strains_list.csv') as f:
         reader = csv.reader(f)
         for row in reader:
             if row[0] != 'Name':
