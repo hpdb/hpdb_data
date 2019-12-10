@@ -22,10 +22,8 @@ if __name__ == "__main__":
     num = 0
     total = len(dirs)
     for name in dirs:
-        os.chdir(name + '/RAST')
         num += 1
-        genome_id = os.path.splitext(glob.glob("*.txt")[0])[0]
-        print('[+] Converting {} - {} ({}/{})'.format(name, genome_id, num, total))
-        tsv2csv(genome_id + '.txt', genome_id + '.csv')
-        #zip('../RAST.zip')
+        print('[+] Zipping {} ({}/{})'.format(name, num, total))
+        os.chdir(name + '/RAST')
+        zip('../RAST.zip')
         os.chdir('../..')
