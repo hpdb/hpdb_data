@@ -1,7 +1,6 @@
+import RAST_sdk as rast
 import requests, html, os, csv
 from htmldom import htmldom
-
-headers = {'Cookie': '__utmc=61055151; __utmz=61055151.1574184736.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utma=61055151.1443795716.1574184736.1574184736.1574434365.2; WebSession=ccbf70236e38e90066d792843efb5b08; __utmt=1; __utmb=61055151.15.10.1574434365'}
 
 def mkdir_p(path):
     try:
@@ -26,7 +25,7 @@ def find_between(s, first, last):
     except ValueError:
         return ""
 
-def download(jobid, file):
+def download(jobid, file, headers):
     data = {'page': 'DownloadFile',
             'job': str(jobid),
             'file': file,
@@ -35,11 +34,11 @@ def download(jobid, file):
     with requests.post('http://rast.nmpdr.org/rast.cgi', data = data, headers = headers, stream = True) as r:
         r.raise_for_status()
         with open(file, 'wb') as f:
-            for chunk in r.iter_content(chunk_size=8192): 
+            for chunk in r.iter_content(chunk_size = 8192):
                 if chunk:
                     f.write(chunk)
 
-def process(jobid):
+def process(jobid, headers):
     rawhtml = requests.get('http://rast.nmpdr.org/?page=JobDetails&job=' + str(jobid), headers = headers).text
     dom = htmldom.HtmlDom()
     dom = dom.createDom(rawhtml)
@@ -56,7 +55,7 @@ def process(jobid):
     os.chdir('RAST')
     for file in list_files:
         print('[-] Downloading ' + file)
-        download(jobid, file)
+        download(jobid, file, headers)
     os.chdir('../../')
     global cur
     print('[+] Done {}/{}'.format(cur, total))
@@ -64,22 +63,21 @@ def process(jobid):
     print('')
 
 if __name__ == "__main__":
+    username = ''
+    password = ''
+    cookies = get_cookies_RAST(username, password)
+    headers = {'Cookie': cookies}
+    
     rawhtml = requests.get('http://rast.nmpdr.org/?page=Jobs', headers = headers).text
     dom = htmldom.HtmlDom()
     dom = dom.createDom(rawhtml)
     data = dom.find('#table_data_0').attr('value')
     rows = data.split('@~')
+    
     global total, cur
     total = len(rows)
     cur = 0
-    last = '799169'
-    ok = False
     for r in rows:
         cur += 1
         cols = r.split('@^')
-        if not ok:
-            if cols[0] == last:
-                ok = True
-                process(cols[0])
-        else:
             process(cols[0])
