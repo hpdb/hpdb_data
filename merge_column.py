@@ -11,8 +11,5 @@ with open('strains_list.csv') as f:
       new_row = row 
       if row[0] != 'Name':
         matched = [x for x in full if x[1] == row[1]]
-        new_row[10] = matched[0][14]
-        new_row[11] = matched[0][18]
-        new_row[12] = matched[0][32]
-        new_row[13] = matched[0][31]
+        new_row[13] = matched[0][19]
       writer.writerow(new_row)
