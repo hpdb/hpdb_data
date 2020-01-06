@@ -1,0 +1,19 @@
+caga_analysis:
+  EPIYA-A: false
+  EPIYA-B: false
+  EPIYA-C: false
+  EPIYA-D: false
+caga_nu: {}
+caga_prot: {}
+daysubmit: 06-01-2020
+exec_time: '2.46'
+found_caga: false
+found_vaca: false
+jobtype: caga/vaca
+mutant_caga: false
+mutant_vaca: true
+vaca_analysis:
+  m1m2: ''
+  s1s2: ''
+vaca_nu: {}
+vaca_prot: {}
